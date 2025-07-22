@@ -1,15 +1,8 @@
 ---
 title: Reading list
 date: 2025-07-22T17:55:56+01:00
-description: 
-tags: 
-- 
-images: 
-- 
-imageAlt:
-- 
-imageCap:
-- 
+tags:
+  - books
 draft: false
 ---
 ## Basic CPT917 bibliography

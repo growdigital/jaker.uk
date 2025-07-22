@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recommoning – </title>
+    <title>Recommoning – MSc Environment &amp; Development</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content on Recommoning</description>
+    <description>Recent content in MSc Environment &amp; Development on Recommoning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Tue, 22 Jul 2025 17:55:56 +0100</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,6 +14,23 @@
         
       
     
+    
+    <item>
+      <title>Plunder of the Commons</title>
+      <link>http://localhost:1313/masters/reading-list/plunder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/masters/reading-list/plunder/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+  &lt;p&gt;Standing, G. 2019. &lt;strong&gt;Plunder of the Commons: A Manifesto for Sharing Public Wealth&lt;/strong&gt; Pelican: London&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>
