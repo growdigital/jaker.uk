@@ -15,4 +15,14 @@ imageCap:
 draft: false
 ---
 
-MSc Reading List Basic CPT917 bibliography
+## CPT917 Cardiff University
+
+https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc
+
+## Modules
+1. Development and Urbanisation Processes
+2. Principles and Practices of Environmental Governance
+3. Environment and Development
+4. Research Methods
+5. Environmental Policy and Climate Change
+6. Sustainable Food System
