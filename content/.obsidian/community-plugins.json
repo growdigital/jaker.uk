@@ -4,5 +4,6 @@
   "copy-as-html",
   "emoji-shortcodes",
   "obsidian-table-generator",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "vault-nickname"
 ]

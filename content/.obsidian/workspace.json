@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/masters/modules.md",
+                "file": "masters/modules.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,6 +170,7 @@
   },
   "active": "2258fa5db02be522",
   "lastOpenFiles": [
+    "_index.md",
     "content/masters/reading-list/_index.md",
     "content/masters/modules.md",
     "content/masters/dissertation",
@@ -188,7 +189,6 @@
     "public/masters/essays",
     "content/blog/_index.md",
     "content/docs/_index.md",
-    "masters/_index.md",
-    "_index.md"
+    "masters/_index.md"
   ]
 }
