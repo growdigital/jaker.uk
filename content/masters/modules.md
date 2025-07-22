@@ -45,11 +45,12 @@ On completion of the module a student should be able to:
 3. Understand and evaluate key approaches to environmental governance, including international conventions (as the 1992 UN Framework Convention on Climate Change), national policies, private sector responses and personal behaviour change;
 4. Understand the ways that scale and context impact on how environmental governance is understood and enacted; and
 5. Critically discuss and evaluate key tools and mechanisms of environmental governance, drawing on empirical case studies and, in particular, human-induced climatic changes.
-## 3. Environmental Policy and Climate Change`‡`
+## 3. Environmental Policy and Climate Change
 
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
 | Autumn   | 20      | CPT855 |
+
 This module explores debates on global environmental problems, with a particular view to anthropogenic climate change, and how various dimensions of policy are theorised, designed and implemented with a view to address these problems. This is a module that explores environmental politics rather than environmental science.
 
 During the module, we explore the relationship between environmental problems (including climate change) and their policy formulation and solutions through the analysis of critical environmental questions and the role of politics and power in shaping such solutions; we examine the tensions between citizen science and participatory and expert driven modes of environmental policy; we examine political and policy constraints and opportunities for sustainable development and climate change; we consider the implications of climate change in different countries; and we also explore the relationship between local and global issues in the context of environment, climate change and development.  
@@ -71,6 +72,7 @@ On completion of the module a student should be able to
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
 | Spring   | 20      | CPT917 |
+
 International development is inherently carried out in environmental contexts, but relationships between environment and development are rarely addressed, which often dooms major development projects. This module examines the relationship between human development and environmental controversies through its unique focus on:
 1. Environment and development issues, which are framed within the context of international development, poverty alleviation and global inequalities;
 2. Issues of access, justice, participation, politics, capitalism and consumerism;  
@@ -117,6 +119,7 @@ On completion of the module a student should be able to:
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
 | Spring   | 20      | CPT902 |
+
 This module explores the opportunities and challenges for environmental justice and sustainability through critically examining the constitutive relationships, practices, politics and ideals of global food systems. Food offers a shared and critical lens through which to analyse key questions on resilience, resource distribution and availability, environmental pressures and development. 
 
 Drawing on the perspectives of diverse actors throughout food systems from producers to distributors, retailers, consumers, regulators and campaigners, the module explores the scope for, and limits to, developing and maintaining sustainable and just food systems in a context of multiple connected socio-ecological crises. In addition to understanding the complexities of food systems, these offer insights to more general challenges in seeking to shape sustainable futures. 
