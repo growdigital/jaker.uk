@@ -1,5 +1,6 @@
 ---
-title: Modules
+Title: Modules
+Weight: "1"
 ---
 1. Development and Urbanisation Processes
 2. Principles and Practices of Environmental Governance
