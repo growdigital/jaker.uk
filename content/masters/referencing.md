@@ -1,9 +1,8 @@
 ---
-Title: Referencing
+Title: Citations & referencing
 Date: 2025-07-23T17:10:47+01:00
 Weight: "3"
 ---
-
 - Use [Cardiff Harvard Referencing](https://xerte.cardiff.ac.uk/play_4191#page1)
 - [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb)
 - [Zotero documentation](https://www.zotero.org/support/)
