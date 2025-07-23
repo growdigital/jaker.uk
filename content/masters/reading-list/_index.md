@@ -48,7 +48,9 @@ draft: false
 16. Bad Samaritans by Ha-Joon Chang
 17. The Real World of Technology 
 18. The Prehistory of Private Property by Widerquist & McCall
-19. 
-## Key
+19. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
+## Notes
 `†` - household book
-- [APA7 citation style](https://pitt.libguides.com/citationhelp/apa7). Ish.
+- Cardiff Harvard citations.
+- [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb)
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "masters/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,12 +184,13 @@
   },
   "active": "2258fa5db02be522",
   "lastOpenFiles": [
-    "masters/reading-list/_index.md",
-    "README.md",
-    "_index.md",
     "masters/modules.md",
-    "masters/_index.md",
     "about.md",
+    "_index.md",
+    "blog/_index.md",
+    "masters/reading-list/_index.md",
+    "masters/_index.md",
+    "README.md",
     "blog/250722-intro.md",
     "content/masters/reading-list/_index.md",
     "content/masters/modules.md",
