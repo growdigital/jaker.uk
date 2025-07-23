@@ -49,8 +49,10 @@ draft: false
 17. The Real World of Technology 
 18. The Prehistory of Private Property by Widerquist & McCall
 19. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
+## Papers
+- [Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf) by Fletcher & Büscher 2020
 ## Notes
 `†` - household book
-- Cardiff Harvard citations.
-- [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb)
-- 
+- [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
+- [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb) - [Zotero documentation](https://www.zotero.org/support/)
+- [Obsidian Zotero integration plugin](https://github.com/mgmeyers/obsidian-zotero-integration) with [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin
