@@ -34,8 +34,8 @@ Weight: "2"
 25. Willis, K. 2021. *Theories and Practices of Development*. 3rd ed. Routledge: London & New York
 ## My reading list
 1. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications.
-2. Graeber, D. & Wengrow, D. The Dawn of Everything by David Graeber & David Wengrow
-3. Debt - The First 5,000 Years by David Graeber`†` 
+2. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st ed. London: Penguin UK.
+3. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5,000_Years)*. 3rd ed. New York: Melville House Publishing.`†` 
 4. The Deficit Myth by Stephanie Kelton`†` 
 5. The Conservation Revolution by `†` 
 6. Owning the Earth by Andro Linklater`†` 
@@ -52,8 +52,13 @@ Weight: "2"
 17. The Real World of Technology 
 18. The Prehistory of Private Property by Widerquist & McCall
 19. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
+20. Tir by Carwyn Graves
+21. Tending the Wild by Kat M Anderson
+
 ## Papers
 - [Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf) by Fletcher & Büscher 2020
+## Websites
+- [DecolonizePalestine.com](https://decolonizepalestine.com)
 ## Notes
 `†` - household book
 - [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
