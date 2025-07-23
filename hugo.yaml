@@ -30,6 +30,9 @@ params:
   # Display the last modification date
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+# Inline icons
+enableInlineShortcodes: true
+# Goldmark options
 markup:
   goldmark:
     duplicateResourceFiles: false

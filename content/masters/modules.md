@@ -8,8 +8,6 @@ title: Modules
 5. Research Methods
 6. Sustainable Food Systems`‡`
 7. Dissertation
-
-*In date order. `‡` optional modules.*
 ## 1. Development and Urbanisation Processes
 
 | Semester | Credits | Code   |
@@ -24,8 +22,6 @@ On completion of the module a student should be able to critically discuss:
 3. The obstacles poor groups in developing countries face in order to access credit and insurance and the solutions that have been proposed
 4. The relationship between urbanisation and economic growth
 5. The challenges caused by the rapid expansion of urban areas in developing countries, with rural-urban migration as a principal cause.
-
----
 ## 2. Principles and Practices of Environmental Governance
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
@@ -51,42 +47,42 @@ On completion of the module a student should be able to:
 | -------- | ------- | ------ |
 | Autumn   | 20      | CPT855 |
 
-This module explores debates on global environmental problems, with a particular view to anthropogenic climate change, and how various dimensions of policy are theorised, designed and implemented with a view to address these problems. This is a module that explores environmental politics rather than environmental science.
+`‡` This module explores debates on global environmental problems, with a particular view to anthropogenic climate change, and how various dimensions of policy are theorised, designed and implemented with a view to address these problems. This is a module that explores environmental politics rather than environmental science.
 
 During the module, we explore the relationship between environmental problems (including climate change) and their policy formulation and solutions through the analysis of critical environmental questions and the role of politics and power in shaping such solutions; we examine the tensions between citizen science and participatory and expert driven modes of environmental policy; we examine political and policy constraints and opportunities for sustainable development and climate change; we consider the implications of climate change in different countries; and we also explore the relationship between local and global issues in the context of environment, climate change and development.  
 
-Contemporary environmental problems are used to illustrate global environmental policy dilemmas.  The module addresses key environmental policy debates at a variety of spatial scales and critically analyses the role of different institutions and actors in addressing environmental issues and climate change, thinking about why some approaches are more successful than others.
+Contemporary environmental problems are used to illustrate global environmental policy dilemmas. The module addresses key environmental policy debates at a variety of spatial scales and critically analyses the role of different institutions and actors in addressing environmental issues and climate change, thinking about why some approaches are more successful than others.
 
 On completion of the module a student should be able to
-1. Describe contemporary environmental problems and explain their drivers;
-2. Understand the complexities of politics and policymaking in relation to environmental and climate issues;
-3. Recognise key issues and relationships between key actors in environmental and climate policy;
-4. Critically analyse environmental policy processes at global, international and national levels;
-5. Explain the causes and forecasted consequences/impacts of anthropogenic climate change;
+1. Describe contemporary environmental problems and explain their drivers. 
+2. Understand the complexities of politics and policymaking in relation to environmental and climate issues. 
+3. Recognise key issues and relationships between key actors in environmental and climate policy. 
+4. Critically analyse environmental policy processes at global, international and national levels. 
+5. Explain the causes and forecasted consequences/impacts of anthropogenic climate change. 
 6. Critically assess the links between environmental and climate policy and development and between local and global issues;
-7. Critically assess key climate change and environmental policy debates;
-8. Explain the theoretical underpinnings of, and drivers behind, environmental and climate policy, and the inter-relationship between human activities, the natural environment and climate change (in the Global North and Global South);
-9. Distinguish between different approaches to environmental policy and climate change and evaluate their implications, likely consequences and underlying assumptions;
+7. Critically assess key climate change and environmental policy debates. 
+8. Explain the theoretical underpinnings of, and drivers behind, environmental and climate policy, and the inter-relationship between human activities, the natural environment and climate change (in the Global North and Global South). 
+9. Distinguish between different approaches to environmental policy and climate change and evaluate their implications, likely consequences and underlying assumptions. 
 10. Develop and present coherent solutions to environmental and climate change issues.
-## 3. Environment and Development
+## 4. Environment and Development
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
 | Spring   | 20      | CPT917 |
 
 International development is inherently carried out in environmental contexts, but relationships between environment and development are rarely addressed, which often dooms major development projects. This module examines the relationship between human development and environmental controversies through its unique focus on:
-1. Environment and development issues, which are framed within the context of international development, poverty alleviation and global inequalities;
-2. Issues of access, justice, participation, politics, capitalism and consumerism;  
-3. The role of different actors (state, civil society, social movements) and the importance of scale and global interconnectedness, particularly when assessing the costs and benefits of approaches to sustainable development. The context of water is a focal area for this module.
+1. Environment and development issues, which are framed within the context of international development, poverty alleviation and global inequalities. 
+2. Issues of access, justice, participation, politics, capitalism and consumerism. 
+3. The role of different actors (state, civil society, social movements) and the importance of scale and global interconnectedness, particularly when assessing the costs and benefits of approaches to sustainable development. The context of water is a focal area for this module. 
 
 Through the module you will consider the politicised basis of ecology and the ecological basis of politics and the economy. The sessions are organised under a number of cross-cutting themes, including guiding principles, the role of the state, environments and resources, adaptation and knowledge. Within these themes you will explore issues such as environmental justice, biodiversity conservation, community participation, ecosystem services, urban environments, agri-food production and distribution, water politics, climate change, and environmental knowledge.
 
 On completion of the module a student should be able to:
-1. Understand the interdependencies and politicised connections between society and the rest of socionature
-2. Expand knowledge of current theoretical debates on environment and development issues under the influence of global capitalism
-3. Develop advanced abilities to think critically and evaluate different approaches to global development and environment management
-4. Assess the importance of theory in shaping environment and development, and of the ways in which this theory can be applied in practice and policy
-5. Create sophisticated arguments, verbally and in written form, on the pressures, demands and political disputes around development and environmental conservation/management via a case study related to development in a different country
-## 4. Research Methods
+1. Understand the interdependencies and politicised connections between society and the rest of socionature. 
+2. Expand knowledge of current theoretical debates on environment and development issues under the influence of global capitalism. 
+3. Develop advanced abilities to think critically and evaluate different approaches to global development and environment management. 
+4. Assess the importance of theory in shaping environment and development, and of the ways in which this theory can be applied in practice and policy. 
+5. Create sophisticated arguments, verbally and in written form, on the pressures, demands and political disputes around development and environmental conservation/management via a case study related to development in a different country. 
+## 5. Research Methods
 | Semester | Credits | Code   |
 | -------- | ------- | ------ |
 | Spring   | 20      | CPT926 |
@@ -100,19 +96,19 @@ Together, Parts A and B of the module give students a robust post-graduate-level
 On completion of the module a student should be able to:
 
 **Part A** – in respect to research in general:
-1. Critically assess alternative approaches to social research and to recognise their strengths and weaknesses;
-2. Examine the empirical content and relations of ideas introduced in other modules;
-3. Identify suitable methodological approaches for a given research question;
-4. Understand the epistemological principles (theories of knowledge) that govern the activities of social research;
-5. Gain practical guidance on how to plan, research and write a dissertation
-6. Develop a dissertation project and conceptualise and plan the research process and its component steps;
+1. Critically assess alternative approaches to social research and to recognise their strengths and weaknesses. 
+2. Examine the empirical content and relations of ideas introduced in other modules. 
+3. Identify suitable methodological approaches for a given research question. 
+4. Understand the epistemological principles (theories of knowledge) that govern the activities of social research. 
+5. Gain practical guidance on how to plan, research and write a dissertation. 
+6. Develop a dissertation project and conceptualise and plan the research process and its component steps. 
 
 **Part B** – in relation to specific social science research methods and analytical approaches:
 1. Critically understand how the methods taught can be used in their postgraduate dissertation.
-2. Critically understand the application and challenges of different modes of data collection for research in their postgraduate dissertation
-3. Critically understand the application of different analytical techniques for research in their postgraduate dissertation
-4. Critically understand research ethics in the context of researching topics in their postgraduate dissertation
-5. Critically apply skills in selected methods relevant to a postgraduate dissertation
+2. Critically understand the application and challenges of different modes of data collection for research in their postgraduate dissertation. 
+3. Critically understand the application of different analytical techniques for research in their postgraduate dissertation. 
+4. Critically understand research ethics in the context of researching topics in their postgraduate dissertation. 
+5. Critically apply skills in selected methods relevant to a postgraduate dissertation. 
 
 ## 6. Sustainable Food Systems
 
@@ -120,16 +116,16 @@ On completion of the module a student should be able to:
 | -------- | ------- | ------ |
 | Spring   | 20      | CPT902 |
 
-This module explores the opportunities and challenges for environmental justice and sustainability through critically examining the constitutive relationships, practices, politics and ideals of global food systems. Food offers a shared and critical lens through which to analyse key questions on resilience, resource distribution and availability, environmental pressures and development. 
+`‡`This module explores the opportunities and challenges for environmental justice and sustainability through critically examining the constitutive relationships, practices, politics and ideals of global food systems. Food offers a shared and critical lens through which to analyse key questions on resilience, resource distribution and availability, environmental pressures and development. 
 
 Drawing on the perspectives of diverse actors throughout food systems from producers to distributors, retailers, consumers, regulators and campaigners, the module explores the scope for, and limits to, developing and maintaining sustainable and just food systems in a context of multiple connected socio-ecological crises. In addition to understanding the complexities of food systems, these offer insights to more general challenges in seeking to shape sustainable futures. 
 
 The module draws on perspectives from academia and practice, including empirical examples of action seeking to transform food systems, investigating both conceptual and practical limitations.
 
 On completion of the module a student should be able to:
-1. Demonstrate in-depth knowledge of how and why complex socio-ecological systems are relevant in food production, consumption and waste;
-2. Demonstrate a critical understanding of why food origins, production methods and consumption patterns are at the forefront of debates on sustainable development and climate emergency;
-3. Appreciate the role of different actors in transforming food systems, and critically consider the impact of varied pathways and actions working towards food sustainability;
+1. Demonstrate in-depth knowledge of how and why complex socio-ecological systems are relevant in food production, consumption and waste. 
+2. Demonstrate a critical understanding of why food origins, production methods and consumption patterns are at the forefront of debates on sustainable development and climate emergency. 
+3. Appreciate the role of different actors in transforming food systems, and critically consider the impact of varied pathways and actions working towards food sustainability. 
 4. Evaluate the potential impact of changes in contemporary food systems on academic debate and assess the prospects of sustainable food systems in practice.
 ## 7. Dissertation
 
@@ -144,10 +140,12 @@ The assessment of the module takes the form of one written submission. As ethica
 **In preparation for the start of this module, a series of workshops focused on the dissertation process will be offered to students during the taught academic year.**
 
 On completion of the module a student should be able to:
-1. Apply complex knowledge and skills acquired throughout the programme
-2. Independently critically evaluate current scholarship and policy debates
-3. Evaluate and critique methodologies and justify an appropriate research design
-4. Evaluate and understand the ethics of the research and obtain the appropriate ethical approval to undertake the research
-5. Demonstrate originality in the collection and analysis of data and its interpretation
-6. Develop coherent, sustained and critically informed arguments leading to logical conclusions and appropriate recommendations
-7. Reach accepted standards of written and illustrative presentation
+1. Apply complex knowledge and skills acquired throughout the programme. 
+2. Independently critically evaluate current scholarship and policy debates. 
+3. Evaluate and critique methodologies and justify an appropriate research design. 
+4. Evaluate and understand the ethics of the research and obtain the appropriate ethical approval to undertake the research. 
+5. Demonstrate originality in the collection and analysis of data and its interpretation. 
+6. Develop coherent, sustained and critically informed arguments leading to logical conclusions and appropriate recommendations. 
+7. Reach accepted standards of written and illustrative presentation. 
+
+*In date order. `‡` optional modules.*

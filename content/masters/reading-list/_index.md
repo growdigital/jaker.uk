@@ -12,7 +12,7 @@ draft: false
 4. Chant, S. and Mcllwaine, C. 2009. **[Geographies of Development](https://f001.backblazeb2.com/file/EnvDevMSc/Geographies-of-Development.pdf)**. Edward Elgar. 
 5. Dryzek. J.S. 2012. **[The Politics of the Earth: Environmental Discourses](https://archive.org/details/politicsofearthe0000dryz)**. 3rd ed. OUP. 
 6. Escobar, A. 2012. **Encountering Development: The Making and Unmaking of the Third World**. Princeton, University Press. Foster, J.B. 2009. The Ecological Revolution: Making Peace with the Planet. Monthly Review Press: New York.
-7. Magdoff, F. and Williams, C. 2017. **[Creating an Ecological Society:Toward a Revolutionary Transformation](https://f001.backblazeb2.com/file/EnvDevMSc/Creating-Ecological-Society_Toward-Revolutionary-Transformation.pdf)**. Monthly Review: New York. Nisbet, R.A. 1969. Social Change and History: Aspects of the Western Theory of Development. OUP: Oxford. 
+7. Magdoff, F. and Williams, C. 2017. **Creating an Ecological Society:Toward a Revolutionary**. Monthly Review: New York. Nisbet, R.A. 1969. Social Change and History: Aspects of the Western Theory of Development. OUP: Oxford. 
 8. Nunan, F. 2015. **Understanding Poverty and the Environment**. Routledge: London 
 9. Payne, A. and Phillips, N. 2010. **Development**. Polity: Cambridge. 
 10. Peet, R. and Hartwick, E. 2009. **[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)**. 2nd ed. Guilford Press. 
@@ -46,7 +46,9 @@ draft: false
 14. Cyborg Manifesto by Donna Haraway
 15. Staying with the Trouble by Donna Haraway
 16. Bad Samaritans by Ha-Joon Chang
-17. The Prehistory of Private Property by Widerquist & McCall
-
+17. The Real World of Technology 
+18. The Prehistory of Private Property by Widerquist & McCall
+19. 
 ## Key
 `†` - household book
+- [APA7 citation style](https://pitt.libguides.com/citationhelp/apa7). Ish.

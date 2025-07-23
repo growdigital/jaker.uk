@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "masters/reading-list/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_index"
             }
           }
         ]
@@ -184,11 +184,13 @@
   },
   "active": "2258fa5db02be522",
   "lastOpenFiles": [
+    "masters/reading-list/_index.md",
+    "README.md",
+    "_index.md",
+    "masters/modules.md",
+    "masters/_index.md",
     "about.md",
     "blog/250722-intro.md",
-    "README.md",
-    "masters/modules.md",
-    "_index.md",
     "content/masters/reading-list/_index.md",
     "content/masters/modules.md",
     "content/masters/dissertation",
@@ -206,7 +208,6 @@
     "public/masters/essays/untitled",
     "public/masters/essays",
     "content/blog/_index.md",
-    "content/docs/_index.md",
-    "masters/_index.md"
+    "content/docs/_index.md"
   ]
 }
