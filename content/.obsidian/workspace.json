@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/reading-list/_index.md",
+                "file": "masters/reading-list/plunder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "plunder"
             }
           }
         ],
@@ -199,11 +199,11 @@
   },
   "active": "846e92ce4e0fc5f1",
   "lastOpenFiles": [
+    "masters/modules/_index.md",
+    "masters/reading-list/_index.md",
     "masters/reading-list/plunder.md",
     "masters/referencing.md",
-    "masters/reading-list/_index.md",
     "masters/_index.md",
-    "masters/modules/_index.md",
     "about.md",
     "_index.md",
     "masters/modules",

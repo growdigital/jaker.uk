@@ -9,6 +9,7 @@ Weight: "1"
 5. Research Methods
 6. Sustainable Food Systems`‡`
 7. Dissertation
+*[Environment and Development (MSc)](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc)*
 ## 1. Development and Urbanisation Processes
 
 | Semester | Credits | Code   |

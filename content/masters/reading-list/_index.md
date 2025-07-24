@@ -6,7 +6,7 @@ tags:
 draft: false
 Weight: "2"
 ---
-## Basic CPT917 bibliography
+## Env & Dev MSc [CPT917](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. Earthscan: London. 
 2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/EnvDevMSc/Phases_of_Capitalist_Development.pdf)*. Palgrave: Basingst. 
 3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)*. Penguin: London. 
@@ -54,11 +54,12 @@ Weight: "2"
 19. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
 20. Tir by Carwyn Graves
 21. Tending the Wild by Kat M Anderson
-
 ## Papers
 - [Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf) by Fletcher & Büscher 2020
 ## Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)
+## Articles
+- The Commoner Kings https://www.monbiot.com/2025/05/12/the-commoner-kings/
 ## Notes
 `†` - household book
 - [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
