@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f282525680a0d01",
+        "id": "41848befddbe0a33",
         "type": "tabs",
         "children": [
           {
-            "id": "4177ecf8a20f242b",
+            "id": "13eda7d1eef389a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "masters/reading-list/_index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/modules.md",
+            "file": "masters/reading-list/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,9 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4177ecf8a20f242b",
+  "active": "13eda7d1eef389a0",
   "lastOpenFiles": [
+    "masters/reading-list/plunder.md",
     "README.md",
+    "about.md",
     "masters/reading-list/_index.md",
     "masters/_index.md"
   ]

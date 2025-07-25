@@ -5,6 +5,8 @@ tags:
   - books
 draft: false
 Weight: "2"
+aliases:
+  - reading-list
 ---
 ## Env & Dev MSc [CPT917](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. Earthscan: London. 

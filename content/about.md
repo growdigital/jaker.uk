@@ -6,6 +6,6 @@ Title: About me
 ## Jake Rayson
 I’m a wildlife forest garden designer by trade, a Biodiversity Assistant by profession, and a ne’er do well by inclination.
 
-> Capitalism’s grow-or-die imperative stands radically at odds with ecology’s imperative of interdependence and limit. The two imperatives can no longer coexist with each other; nor can any society founded on the myth that they can be reconciled hope to survive. Either we will establish an ecological society or society will go under for everyone, irrespective of his or her status.
+> Capitalism’s grow-or-die imperative stands radically at odds with ecology’s imperative of interdependence and limit. The two imperatives can no longer coexist with each other; nor can any society founded on the myth that they can be reconciled hope to survive. Either we will establish an ecological society or society will go under for everyone
 
 <cite>Ursula K. Le Guin</cite>

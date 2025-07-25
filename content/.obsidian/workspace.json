@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/reading-list/plunder.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plunder"
+              "title": "_index"
             }
           }
         ],
@@ -197,14 +197,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "846e92ce4e0fc5f1",
+  "active": "6eac94253163f7cf",
   "lastOpenFiles": [
+    "about.md",
+    "masters/reading/plunder.md",
     "masters/modules/_index.md",
-    "masters/reading-list/_index.md",
-    "masters/reading-list/plunder.md",
+    "masters/reading/_index.md",
     "masters/referencing.md",
     "masters/_index.md",
-    "about.md",
     "_index.md",
     "masters/modules",
     "masters/essays/_index.md",
