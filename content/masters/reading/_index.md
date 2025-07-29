@@ -20,42 +20,43 @@ aliases:
 9. Nisbet, R.A. 1969. *Social Change and History: Aspects of the Western Theory of Development*. OUP: Oxford. 
 10. Nunan, F. 2015. *Understanding Poverty and the Environment*. Routledge: London 
 11. Payne, A. and Phillips, N. 2010. *Development*. Polity: Cambridge. 
-12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. Guilford Press. 
+12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd edn. Guilford Press. 
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)* (Spanish). Routledge: London & New York. 
-14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. Routledge: London.
-15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. Routledge: London. 
+14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd edn. Routledge: London.
+15. Potter, R. et al. 2018. *Geographies of Development*. 4nd edn. Routledge: London. 
 16. Raworth, K. 2017. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Random House: London. 
-17. Rist, G. 2019. *The History of Development*. 5th edition. Zed Books: London
+17. Rist, G. 2019. *The History of Development*. 5th edn. Zed Books: London
 18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. Verso: London. 
 19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/EnvDevMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. Zed: London 
 20. Selwyn, B. 2014. *The Global Development Crisis*. Polity Press: Cambridge. 
-21. ==Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth* Pelican: London`†`==
-22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd edition. Guilford Press. 
+21. ==Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st edn. Pelican: London`†`==
+22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd edn. Guilford Press. 
 23. Verma, M.K. (ed). 2019. *Globalisation, Environment and Social Justice*. Routledge: London 
 24. Watts, M. 2013. *[Silent Violence: Food, Famine and Peasantry in Northern Nigeria](https://archive.org/details/silentviolencefo0000watt)*. Georgia Press.
-25. Willis, K. 2021. *Theories and Practices of Development*. 3rd ed. Routledge: London & New York
+25. Willis, K. 2021. *Theories and Practices of Development*. 3rd edn. Routledge: London & New York
 ## My reading list
-1. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications.
-2. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st ed. London: Penguin UK.
-3. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5,000_Years)*. 3rd ed. New York: Melville House Publishing.`†` 
-4. The Deficit Myth by Stephanie Kelton`†` 
-5. The Conservation Revolution by `†` 
-6. Owning the Earth by Andro Linklater`†` 
-7. On Private Property
-8. The Book of Trespass
-9. Our History Is The Future
-10. Marx's Ethical Vision
-11. Wealth of Nations by Adam Smith
-12. Moral Sentiments by Adam Smith
-13. Who Owns England by Guy Shrubsole
-14. Cyborg Manifesto by Donna Haraway
-15. Staying with the Trouble by Donna Haraway
-16. Bad Samaritans by Ha-Joon Chang
-17. The Real World of Technology 
-18. The Prehistory of Private Property by Widerquist & McCall
-19. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
-20. Tir by Carwyn Graves
-21. Tending the Wild by Kat M Anderson
+1. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st edn. New York: Dover Publications.
+2. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st edn. London: Penguin UK.
+3. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5,000_Years)*. 3rd edn. New York: Melville House Publishing.`†` 
+4. Dennett, D. 1995. Darwin's Dangerous Idea.
+5. The Deficit Myth by Stephanie Kelton`†` 
+6. The Conservation Revolution by `†` 
+7. Owning the Earth by Andro Linklater`†` 
+8. On Private Property
+9. The Book of Trespass
+10. Our History Is The Future
+11. Marx's Ethical Vision
+12. Wealth of Nations by Adam Smith
+13. Moral Sentiments by Adam Smith
+14. Who Owns England by Guy Shrubsole
+15. Cyborg Manifesto by Donna Haraway
+16. Staying with the Trouble by Donna Haraway
+17. Bad Samaritans by Ha-Joon Chang
+18. The Real World of Technology 
+19. The Prehistory of Private Property by Widerquist & McCall
+20. Anna Lowenhaupt Tsing in The Mushroom at the End of the World
+21. Tir by Carwyn Graves
+22. Tending the Wild by Kat M Anderson
 ## Papers
 - [Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf) by Fletcher & Büscher 2020
 ## Websites
