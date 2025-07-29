@@ -29,7 +29,7 @@
               "state": {
                 "file": "blog/250729-music.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "250729-music"
