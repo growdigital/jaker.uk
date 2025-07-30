@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/_index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "about"
             }
           },
           {
@@ -213,8 +213,8 @@
   },
   "active": "4d6cdff7197e8018",
   "lastOpenFiles": [
-    "blog/250729-music.md",
     "masters/modules/_index.md",
+    "blog/250729-music.md",
     "blog/250722-intro.md",
     "masters/reading/plunder.md",
     "masters/reading/_index.md",
