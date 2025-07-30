@@ -3,7 +3,7 @@ Title: Modules
 Weight: "1"
 ---
 1. [Development and Urbanisation Processes](#1-development-and-urbanisation-processes)
-2. [Principles and Practices of Environmental Governance](#2-principles-and-practices-of-environmental governance)
+2. [Principles and Practices of Environmental Governance](#2-principles-and-practices-of-environmental-governance)
 3. [Environmental Policy and Climate Change](#3-environmental-policy-and-climate-change)`‡`
 4. [Environment and Development](#4-environment-and-development)
 5. [Research Methods](#5-research-methods)
