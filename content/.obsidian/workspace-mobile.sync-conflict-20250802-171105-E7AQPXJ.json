@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "132019070e94f2a3",
+        "id": "41848befddbe0a33",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb6315e7fddd32d",
+            "id": "13eda7d1eef389a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "92c60c1de7f4fae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "masters/referencing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "referencing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/modules/_index.md",
+            "file": "masters/reading-list/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,20 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bb6315e7fddd32d",
+  "active": "92c60c1de7f4fae0",
   "lastOpenFiles": [
-    "temp.md",
-    "masters/reading/_index.md",
-    "masters/_index.md",
-    "masters/modules/_index.md",
     "_index.md",
-    "masters/modules/susplan.md",
-    "Urban.md",
-    "masters/modules/env+dev.md",
+    "masters/reading/_index.md",
     "masters/referencing.md",
     "masters/reading-list/plunder.md",
     "README.md",
     "about.md",
-    "masters/reading-list/_index.md"
+    "masters/reading-list/_index.md",
+    "masters/_index.md"
   ]
 }
