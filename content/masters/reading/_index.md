@@ -23,7 +23,7 @@ aliases:
 ### Environmental Behaviours
 - Shove E. 2003. *Comfort, Cleanliness and Convenience. The Social Organization of Normality*, Berg: Oxford (read chapter one as a good support for the course as a whole)
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air* 📄](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air.pdf). 1st ed. Cambridge: UIT. [Synopsis 📄](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). 
+- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)* 📄. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf) 📄. 
 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. Earthscan: London. 
