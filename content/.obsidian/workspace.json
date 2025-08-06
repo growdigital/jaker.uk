@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -213,8 +213,8 @@
   },
   "active": "4d6cdff7197e8018",
   "lastOpenFiles": [
-    "temp.md",
     "_index.md",
+    "temp.md",
     "masters/reading/_index.md",
     "masters/_index.md",
     "about.md",
