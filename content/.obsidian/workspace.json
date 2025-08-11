@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/referencing.md",
+                "file": "blog/250811-this-is-america.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "referencing"
+              "title": "250811-this-is-america"
             }
           },
           {
@@ -69,16 +69,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "blog/250811-whose-land-are-you-on.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "250811-whose-land-are-you-on"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,12 +224,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "2258fa5db02be522",
   "lastOpenFiles": [
-    "blog/250807-abuse-property.md",
-    "ideas.md",
-    "blog/250729-music.md",
+    "masters/referencing.md",
+    "blog/250811-this-is-america.md",
+    "blog/250811-whose-land-are-you-on.md",
     "masters/reading/_index.md",
+    "ideas.md",
+    "blog/250807-abuse-property.md",
+    "blog/250729-music.md",
     "_index.md",
     "temp.md",
     "masters/_index.md",
@@ -243,7 +245,6 @@
     "Urban.md",
     "masters/modules/susplan.md",
     "blog/250722-intro.md",
-    "masters/referencing.md",
     "masters/modules",
     "masters/essays/_index.md",
     "blog/_index.md",
@@ -258,10 +259,8 @@
     "public/masters/modules",
     "public/masters/untitled/index.html",
     "public/masters/untitled",
-    "content/masters/essays/_index.md",
     "public/masters/essays/index.xml",
     "public/masters/essays/index.html",
-    "public/masters/essays/untitled/index.html",
-    "content/blog/_index.md"
+    "public/masters/essays/untitled/index.html"
   ]
 }

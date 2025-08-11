@@ -76,7 +76,8 @@ aliases:
 22. Widequist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://academic.oup.com/edinburgh-scholarship-online/book/42166). 1st ed. Edinburgh: Edinburgh University Press.
 23. Wills, VC. 2024. *[Marx's Ethical Vision](https://academic.oup.com/book/57415)*. Oxford: Oxford University Press.
 ## Papers
-- Büscher, B & Fletcher, R. 2020. [*Conservation Basic Income*](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf)
+- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf)*
+- Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*.
 ## Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)
 - Bhandar, B & Blumenfeld, J & Loick, D. 2024. [*The Abuse of Property*](https://www.youtube.com/watch?v=NydcNinyNqs). YouTube: Red May TV. 
