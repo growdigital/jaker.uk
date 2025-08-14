@@ -35,8 +35,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d9c539c1076e9b",
+  "active": "e85f4a34fe39a556",
   "lastOpenFiles": [
+    "masters/reading/_index.md",
     "blog/250815-effin-birds.md",
     "blog/250814-zotero-hero.md",
-    "masters/reading/_index.md",
     "_index.md",
     "masters/referencing.md",
     "masters/_index.md",
