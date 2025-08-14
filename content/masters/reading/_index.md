@@ -11,10 +11,10 @@ aliases:
 ## SusPlan & EnvPol bibliography
 ### General
 - Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press.
-- Barry, J. *The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World*. Oxford: Oxford University Press.
+- Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/EnvDevMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)* 📄. Oxford: Oxford University Press.
 ### Sustainability and policy
-- Griggs, D, et al. 2013. *Policy: Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307.
-- Happaerts, S, & Bruyninckx, H. 2014. *Sustainable development: the institutionalization of a contested policy concept*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK.
+- Griggs, D et al. 2013. *Policy: Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307.
+- Happaerts, S & Bruyninckx, H. 2014. *Sustainable development: the institutionalization of a contested policy concept*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK.
 - Steffen, W et al. 2015. *Planetary boundaries: Guiding human development on a changing planet*. Science 347(6223): pp736
 - The United Nations Environment Programme has a free report on de-coupling: [http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx](http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx)
 ### Sustainability and Planning
@@ -76,15 +76,16 @@ aliases:
 22. Widequist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://academic.oup.com/edinburgh-scholarship-online/book/42166). 1st ed. Edinburgh: Edinburgh University Press.
 23. Wills, VC. 2024. *[Marx's Ethical Vision](https://academic.oup.com/book/57415)*. Oxford: Oxford University Press.
 ## Papers
-- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf)*
-- Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*.
+- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf)* 📄.
+- Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)* 📄. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*.
 ## Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)
 - Bhandar, B & Blumenfeld, J & Loick, D. 2024. [*The Abuse of Property*](https://www.youtube.com/watch?v=NydcNinyNqs). YouTube: Red May TV. 
 ## Articles
 - Monbiot, G. 2025. [*The Commoner Kings*](https://www.monbiot.com/2025/05/12/the-commoner-kings/). London: The Guardian.
 ## Notes
-`†` - household book
+- `†` - household book
+- 📄 - PDF download
 - [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
 - [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb) - [Zotero documentation](https://www.zotero.org/support/)
 - [Obsidian Zotero integration plugin](https://github.com/mgmeyers/obsidian-zotero-integration) with [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin
