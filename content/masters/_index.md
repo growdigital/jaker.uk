@@ -35,7 +35,7 @@ Our MSc in Sustainability, Planning and Environmental Policy addresses three key
 
 You’ll benefit from teaching which links together theoretical debates about sustainability at different spatial scales, informed by the latest social science research around environmental problems, with the practical dimensions of policy formulation and implementation. The planning system is given particular attention because it provides one of the most sophisticated contemporary mechanisms for regulating environmental change.
 ### Course structure
-Part-time mode normally 2 years (though may be extended to 3). Divided into two parts:
+Part-time normally 2 years (may be extended to 3). Divided into two parts:
 1. **Part one** comprises a teaching programme of core and optional modules over four semesters.
 2. **Part two** comprises an individual dissertation on a topic selected you will select in consultation with members of staff. Whilst there are few constraints on the choice of topic, it must address the core course themes of sustainability, environmental policy and planning.
 ### Accreditations

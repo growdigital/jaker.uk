@@ -11,7 +11,7 @@ aliases:
 ## SusPlan & EnvPol bibliography
 ### General
 - Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press.
-- Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/EnvDevMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)* ⬇️. Oxford: Oxford University Press.
+- Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)* ⬇️. Oxford: Oxford University Press.
 ### Sustainability and policy
 - Griggs, D et al. 2013. *Policy: Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307.
 - Happaerts, S & Bruyninckx, H. 2014. *Sustainable development: the institutionalization of a contested policy concept*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK.
@@ -23,13 +23,13 @@ aliases:
 ### Environmental Behaviours
 - Shove E. 2003. *Comfort, Cleanliness and Convenience. The Social Organization of Normality*, Berg: Oxford (read chapter one as a good support for the course as a whole)
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)* ⬇️. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/EnvDevMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf) ⬇️. 
+- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)* ⬇️. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf) ⬇️. 
 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. Earthscan: London. 
-2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/EnvDevMSc/Phases_of_Capitalist_Development.pdf)* ⬇️. Palgrave: Basingst. 
+2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)* ⬇️. Palgrave: Basingst. 
 3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)* ⬇️. Penguin: London. 
-4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development](https://f001.backblazeb2.com/file/EnvDevMSc/Geographies-of-Development.pdf)* ⬇️. Edward Elgar. 
+4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development](https://f001.backblazeb2.com/file/jakerMSc/Geographies-of-Development.pdf)* ⬇️. Edward Elgar. 
 5. Dryzek. J.S. 2012. *[The Politics of the Earth: Environmental Discourses](https://archive.org/details/politicsofearthe0000dryz)* ⬇️. 3rd ed. OUP. 
 6. Escobar, A. 2012. *Encountering Development: The Making and Unmaking of the Third World*. Princeton, University Press. 
 7. Foster, J.B. 2009. *The Ecological Revolution: Making Peace with the Planet*. Monthly Review Press: New York.
@@ -44,7 +44,7 @@ aliases:
 16. Raworth, K. 2017. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Random House: London. 
 17. Rist, G. 2019. *The History of Development*. 5th ed. Zed Books: London
 18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)* ⬇️. Verso: London. 
-19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/EnvDevMSc/development-dictionary-guide-to-knowledge-as-power.pdf)* ⬇️. Zed: London 
+19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)* ⬇️. Zed: London 
 20. Selwyn, B. 2014. *The Global Development Crisis*. Polity Press: Cambridge. 
 21. Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st ed. Pelican: London`†`
 22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)* ⬇️. 2nd ed. Guilford Press. 
@@ -76,7 +76,7 @@ aliases:
 22. Widequist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://academic.oup.com/edinburgh-scholarship-online/book/42166). 1st ed. Edinburgh: Edinburgh University Press.
 23. Wills, VC. 2024. *[Marx's Ethical Vision](https://academic.oup.com/book/57415)*. Oxford: Oxford University Press.
 ## Papers
-- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/EnvDevMSc/conservation-basic-income_fletcher-buscher-2020.pdf)* ⬇️.
+- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/conservation-basic-income_fletcher-buscher-2020.pdf)* ⬇️.
 - Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)* ⬇️. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*.
 ## Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)
