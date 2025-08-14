@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "_index"
             }
-          },
-          {
-            "id": "4882ac3ed02fe395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/250814-zotero-hero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250814-zotero-hero"
-            }
-          },
-          {
-            "id": "471081945a290646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/250811-whose-land-are-you-on.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250811-whose-land-are-you-on"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,16 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4882ac3ed02fe395",
+  "active": "846e92ce4e0fc5f1",
   "lastOpenFiles": [
+    "blog/250814-zotero-hero.md",
+    "blog/250811-whose-land-are-you-on.md",
     "masters/reading/_index.md",
     "masters/_index.md",
-    "blog/250814-zotero-hero.md",
     "about.md",
     "blog/250729-music.md",
     "blog/250811-this-is-america.md",
     "masters/referencing.md",
-    "blog/250811-whose-land-are-you-on.md",
     "ideas.md",
     "blog/250807-abuse-property.md",
     "_index.md",
