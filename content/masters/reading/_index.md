@@ -10,7 +10,7 @@ aliases:
 ---
 ## SusPlan & EnvPol bibliography
 ### General
-- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press.
+- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press.`†` 📘 📖 📗 📙 📑 📚 📕
 - Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)* ⬇️. Oxford: Oxford University Press.
 ### Sustainability and policy
 - Griggs, D et al. 2013. *Policy: Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307.
@@ -18,7 +18,7 @@ aliases:
 - Steffen, W et al. 2015. *Planetary boundaries: Guiding human development on a changing planet*. Science 347(6223): pp736
 - The United Nations Environment Programme has a free report on de-coupling: [http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx](http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx)
 ### Sustainability and Planning
-- Owens, S & Cowell, R. 2010. *Land and Limits: Interpreting Sustainability in the Planning Process*. 2nd ed. London: Routledge.
+- Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge.`†`
 - Cowell R. 2013. *The Greenest government ever? Planning and sustainability after the May 2010 coalition government*. Planning Practice and Research 28(1) pp27-44.
 ### Environmental Behaviours
 - Shove E. 2003. *Comfort, Cleanliness and Convenience. The Social Organization of Normality*, Berg: Oxford (read chapter one as a good support for the course as a whole)

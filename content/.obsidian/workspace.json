@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33d7f31988754e44",
+        "id": "d9756d34c412b98b",
         "type": "tabs",
         "children": [
           {
-            "id": "846e92ce4e0fc5f1",
+            "id": "e85f4a34fe39a556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/_index.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,16 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "846e92ce4e0fc5f1",
+  "active": "e85f4a34fe39a556",
   "lastOpenFiles": [
-    "masters/reading/_index.md",
+    "masters/referencing.md",
     "masters/_index.md",
+    "masters/reading/_index.md",
     "blog/250814-zotero-hero.md",
     "blog/250811-whose-land-are-you-on.md",
     "about.md",
     "blog/250729-music.md",
     "blog/250811-this-is-america.md",
-    "masters/referencing.md",
     "ideas.md",
     "blog/250807-abuse-property.md",
     "_index.md",
