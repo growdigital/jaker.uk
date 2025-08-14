@@ -13,7 +13,7 @@ aliases:
 - Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press. 📚
 - Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Sustainability and policy
-- Griggs, D et al. 2013. *Policy: Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307.
+- Griggs, D et al. 2013. *[Policy: Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307.  ⬇️
 - Happaerts, S & Bruyninckx, H. 2014. *Sustainable development: the institutionalization of a contested policy concept*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK.
 - Steffen, W et al. 2015. *Planetary boundaries: Guiding human development on a changing planet*. Science 347(6223): pp736
 - The United Nations Environment Programme has a free report on de-coupling: [http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx](http://www.unep.org/resourcepanel/Publications/Decoupling/tabid/56048/Default.aspx)
@@ -37,7 +37,7 @@ aliases:
 9. Nisbet, R.A. 1969. *Social Change and History: Aspects of the Western Theory of Development*. OUP: Oxford. 
 10. Nunan, F. 2015. *Understanding Poverty and the Environment*. Routledge: London 
 11. Payne, A. and Phillips, N. 2010. *Development*. Polity: Cambridge. 
-12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. Guilford Press. ⬇️
+12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. Guilford Press. 🌐 🏛️ 
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)* (Spanish). Routledge: London & New York. 
 14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. Routledge: London.
 15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. Routledge: London. 
