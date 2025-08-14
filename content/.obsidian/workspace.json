@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/_index.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "blog/250814-zotero-hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "250814-zotero-hero"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "250811-whose-land-are-you-on"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "846e92ce4e0fc5f1",
+  "active": "4882ac3ed02fe395",
   "lastOpenFiles": [
-    "blog/250729-music.md",
     "masters/reading/_index.md",
+    "masters/_index.md",
+    "blog/250814-zotero-hero.md",
+    "about.md",
+    "blog/250729-music.md",
     "blog/250811-this-is-america.md",
     "masters/referencing.md",
     "blog/250811-whose-land-are-you-on.md",
@@ -207,8 +211,6 @@
     "blog/250807-abuse-property.md",
     "_index.md",
     "temp.md",
-    "masters/_index.md",
-    "about.md",
     "masters/misc/modules-envdev.md",
     "masters/reading/plunder.md",
     "masters/misc/_index.md",
@@ -226,7 +228,6 @@
     "content/masters/dissertation",
     "content/masters/_index.md",
     "content/_index.md",
-    "content/masters/reading-list/plunder.md",
     "public/masters/modules/index.html",
     "public/masters/modules",
     "public/masters/untitled/index.html",
