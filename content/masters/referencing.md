@@ -15,4 +15,4 @@ Weight: "3"
 ### 2. References
 > Potts, D. 2002. _Project planning and analysis for development_. 5th ed. Boulder, Colorado: Lynne Reinner.
 ### Format
-Author. Date. *Title*. Edition. Place: Publisher.
+LastName, I(nitial). Year. *Title*. Edition. Place: Publisher.

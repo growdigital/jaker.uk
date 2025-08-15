@@ -10,7 +10,7 @@ aliases:
 ---
 ## SusPlan & EnvPol bibliography
 ### General
-- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press. 📚
+- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press. 📚
 - Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Sustainability and policy
 - Griggs, D et al. 2013. *[Policy: Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. ⬇️
