@@ -14,12 +14,12 @@ aliases:
 - Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Sustainability and policy
 - Griggs, D et al. 2013. *[Policy: Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. ⬇️
-- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/happaerts_sustainable-development_the_institutionalization-of-a-contested-policy-concept_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK.
-- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/steffen_planetary-boundaries_guiding-human-development-on-a-changing-planet.pdf)*. Science 347(6223): pp736
-- . 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. ⬇ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
+- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/happaerts_sustainable-development_the_institutionalization-of-a-contested-policy-concept_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. ⬇️
+- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/steffen_planetary-boundaries_guiding-human-development-on-a-changing-planet.pdf)*. Science 347(6223): pp736 ⬇
+- ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. ⬇ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
 ### Sustainability and Planning
 - Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📚
-- Cowell R. 2013. *The Greenest government ever? Planning and sustainability after the May 2010 coalition government*. Planning Practice and Research 28(1) pp27-44. ⬇ https://doi.org/10.4324/9781315541051-3
+- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Planning Practice and Research 28(1) pp27-44.
 ### Environmental Behaviours
 - Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford (read chapter one as a good support for the course as a whole) ⬇
 ### Renewable energy and planning
