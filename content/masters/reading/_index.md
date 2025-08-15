@@ -42,7 +42,7 @@ aliases:
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)*. London & New York: Routledge. 
 14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. London: Routledge.
 15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 
-16. Raworth, K. 2017. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. London: Random House. 
+16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.epub)*. London: Random House. ⬇️
 17. Rist, G. 2019. *The History of Development*. 5th ed. London: Zed Books. 
 18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. London: Verso. 🏛️
 19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. ⬇️
@@ -55,7 +55,7 @@ aliases:
 ## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://www.taylorfrancis.com/books/mono/10.4324/9781003439745/concept-property-kant-fichte-hegel-jacob-blumenfeld)*. 1st ed. New York: Routledge.
-3. Brand, S. 1997. *How Buildings Learn*. 2nd ed. London: Phoenix Illustrated.  📚 ⬇️
+3. Brand, S. 1995. *[How Buildings Learn: What Happens After They‘re Built](https://f001.backblazeb2.com/file/jakerMSc/Brand_How-Buildings-Learn_1995.pdf)*. 1st ed. New York: Penguin Books. [BBC TV series](https://www.youtube.com/playlist?list=PLvbRLItdRoVJzBR1PtPEoPY9gz5zSpjVh). 📚 ⬇️ 📹
 4. Büscher, B & Fletcher, R. 2020. *[The Conservation Revolution](https://www.convivialconservation.com/publications/the-book/)*. 1st ed. London: Verso Books. 📚 
 5. Chang, HJ. 2009. [Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism](https://en.wikipedia.org/wiki/Bad_Samaritans_(book)). 1st ed. New York: Bloomsbury Press. 📚
 6. Dennett, DC. 1996. *[Darwin's Dangerous Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)*. 1st ed. New York: Simon & Schuster. 📚
@@ -74,9 +74,9 @@ aliases:
 19. Shrubsole, G. 2019. *Who Owns England*. 1st ed. London: HarperCollins Publishers. 📚
 20. Smith, A. *Moral Sentiments*. 📚
 21. Smith, A. *Wealth of Nations*. 📚
-22. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications.
-23. Widequist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://academic.oup.com/edinburgh-scholarship-online/book/42166). 1st ed. Edinburgh: Edinburgh University Press.
-24. Wills, VC. 2024. *[Marx's Ethical Vision](https://academic.oup.com/book/57415)*. Oxford: Oxford University Press.
+22. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications. 🏛️
+23. Widerquist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://f001.backblazeb2.com/file/jakerMSc/Widerquist_The-Prehistory-of-Private-Property_2021.pdf). 1st ed. Edinburgh: Edinburgh University Press.
+24. Wills, VC. 2024. *[Marx's Ethical Vision](https://f001.backblazeb2.com/file/jakerMSc/Wills_Marx's-Ethical-Vision_2024.pdf)*. Oxford: Oxford University Press. ⬇️
 ## Papers
 - Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/conservation-basic-income_fletcher-buscher-2020.pdf)*. ⬇️
 - Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*. ⬇️
