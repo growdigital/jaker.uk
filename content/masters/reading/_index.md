@@ -23,34 +23,35 @@ aliases:
 ### Environmental Behaviours
 - Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford (read chapter one as a good support for the course as a whole) ⬇
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
+- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT.  
+  [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
-1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. Earthscan: London. 
-2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Palgrave: Basingst. ⬇️
-3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)*. Penguin: London. 🏛️
+1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. London: Earthscan. 
+2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Basingt: Palgrave. ⬇️
+3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)*. London: Penguin. 🏛️
 4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development](https://f001.backblazeb2.com/file/jakerMSc/Geographies-of-Development.pdf)*. Edward Elgar. ⬇️
-5. Dryzek. J.S. 2012. *[The Politics of the Earth: Environmental Discourses](https://archive.org/details/politicsofearthe0000dryz)*. 3rd ed. OUP. 🏛️
+5. Dryzek. J.S. 2012. *[The Politics of the Earth: Environmental Discourses](https://archive.org/details/politicsofearthe0000dryz)*. 3rd ed. Oxford: OUP. 🏛️
 6. Escobar, A. 2012. *Encountering Development: The Making and Unmaking of the Third World*. Princeton: University Press. 
 7. Foster, J.B. 2009. *The Ecological Revolution: Making Peace with the Planet*. New York: Monthly Review Press.
 8. Magdoff, F. and Williams, C. 2017. *Creating an Ecological Society: Toward a Revolutionary*. New York: Monthly Review Press. 
-9. Nisbet, R.A. 1969. *Social Change and History: Aspects of the Western Theory of Development*. OUP: Oxford. 
-10. Nunan, F. 2015. *Understanding Poverty and the Environment*. Routledge: London 
-11. Payne, A. and Phillips, N. 2010. *Development*. Polity: Cambridge. 
-12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. Guilford Press. 🏛️ 
-13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)* (Spanish). Routledge: London & New York. 
-14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. Routledge: London.
-15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. Routledge: London. 
-16. Raworth, K. 2017. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Random House: London. 
-17. Rist, G. 2019. *The History of Development*. 5th ed. Zed Books: London
-18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. Verso: London. 🏛️
-19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. Zed: London ⬇️
-20. Selwyn, B. 2014. *The Global Development Crisis*. Polity Press: Cambridge. 
-21. Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st ed. Pelican: London 📚
-22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd ed. Guilford Press. 🏛️
-23. Verma, M.K. (ed). 2019. *Globalisation, Environment and Social Justice*. Routledge: London 
-24. Watts, M. 2013. *[Silent Violence: Food, Famine and Peasantry in Northern Nigeria](https://archive.org/details/silentviolencefo0000watt)*. Georgia Press. 🏛️
-25. Willis, K. 2021. *Theories and Practices of Development*. 3rd ed. Routledge: London & New York.
+9. Nisbet, R.A. 1969. *Social Change and History: Aspects of the Western Theory of Development*. Oxford: OUP. 
+10. Nunan, F. 2015. *Understanding Poverty and the Environment*. London: Routledge. 
+11. Payne, A. and Phillips, N. 2010. *Development*. Cambridge: Polity. 
+12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. New York: Guilford Press. 🏛️ 
+13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)*. London & New York: Routledge. 
+14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. London: Routledge.
+15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 
+16. Raworth, K. 2017. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. London: Random House. 
+17. Rist, G. 2019. *The History of Development*. 5th ed. London: Zed Books. 
+18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. London: Verso. 🏛️
+19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. ⬇️
+20. Selwyn, B. 2014. *The Global Development Crisis*. Cambridge: Polity Press. 
+21. Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st ed. London: Pelican. 📚
+22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd ed. New York: Guilford Press. 🏛️
+23. Verma, M.K. (ed). 2019. *Globalisation, Environment and Social Justice*. London: Routledge.
+24. Watts, M. 2013. *[Silent Violence: Food, Famine and Peasantry in Northern Nigeria](https://archive.org/details/silentviolencefo0000watt)*. Athens, Georgia: Georgia Press. 🏛️
+25. Willis, K. 2021. *Theories and Practices of Development*. 3rd ed. London & New York: Routledge.
 ## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://www.taylorfrancis.com/books/mono/10.4324/9781003439745/concept-property-kant-fichte-hegel-jacob-blumenfeld)*. 1st ed. New York: Routledge.
@@ -58,7 +59,7 @@ aliases:
 4. Büscher, B & Fletcher, R. 2020. *[The Conservation Revolution](https://www.convivialconservation.com/publications/the-book/)*. 1st ed. London: Verso Books. 📚 
 5. Chang, HJ. 2009. [Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism](https://en.wikipedia.org/wiki/Bad_Samaritans_(book)). 1st ed. New York: Bloomsbury Press. 📚
 6. Dennett, DC. 1996. *[Darwin's Dangerous Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)*. 1st ed. New York: Simon & Schuster. 📚
-7. Estes, N. 2019. *[Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance](https://www.versobooks.com/en-gb/products/600-our-history-is-the-future). 1st ed. London: Verso.* 📚
+7. Estes, N. 2019. *[Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance](https://www.versobooks.com/en-gb/products/600-our-history-is-the-future)*. 1st ed. London: Verso. 📚
 8. Franklin, U. 1999. *[The Real World of Technology](https://www.worldofbooks.com/en-gb/products/real-world-of-technology-book-ursula-franklin-9780887846366)*. 2nd ed. Toronto: House of Anansi Press. [Original public lectures](https://archive.org/details/the-real-world-of-technology). 📚 🎧
 9. Freyfogle, ET. 2007. *[On Private Property](https://archive.org/details/onprivatepropert0000frey)*. 1st ed. Boston: Beacon Press. 📚
 10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5,000_Years)*. 3rd ed. New York: Melville House Publishing. 📚 
