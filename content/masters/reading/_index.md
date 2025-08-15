@@ -55,14 +55,14 @@ aliases:
 ## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://www.taylorfrancis.com/books/mono/10.4324/9781003439745/concept-property-kant-fichte-hegel-jacob-blumenfeld)*. 1st ed. New York: Routledge.
-3. Brand, S. 1997. *How Buildings Learn*. 2nd ed. London: Phoenix Illustrated.  📚 ⬇
+3. Brand, S. 1997. *How Buildings Learn*. 2nd ed. London: Phoenix Illustrated.  📚 ⬇️
 4. Büscher, B & Fletcher, R. 2020. *[The Conservation Revolution](https://www.convivialconservation.com/publications/the-book/)*. 1st ed. London: Verso Books. 📚 
 5. Chang, HJ. 2009. [Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism](https://en.wikipedia.org/wiki/Bad_Samaritans_(book)). 1st ed. New York: Bloomsbury Press. 📚
 6. Dennett, DC. 1996. *[Darwin's Dangerous Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)*. 1st ed. New York: Simon & Schuster. 📚
 7. Estes, N. 2019. *[Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance](https://www.versobooks.com/en-gb/products/600-our-history-is-the-future)*. 1st ed. London: Verso. 📚
 8. Franklin, U. 1999. *[The Real World of Technology](https://www.worldofbooks.com/en-gb/products/real-world-of-technology-book-ursula-franklin-9780887846366)*. 2nd ed. Toronto: House of Anansi Press. [Original public lectures](https://archive.org/details/the-real-world-of-technology). 📚 🎧
 9. Freyfogle, ET. 2007. *[On Private Property](https://archive.org/details/onprivatepropert0000frey)*. 1st ed. Boston: Beacon Press. 📚
-10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://en.wikipedia.org/wiki/Debt:_The_First_5,000_Years)*. 3rd ed. New York: Melville House Publishing. 📚 
+10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/graeber-wengrow_the-dawn-of-everything_farrar-straus-giroux_2021.pdf)*. 3rd ed. New York: Melville House Publishing. 📚 ⬇️
 11. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st ed. London: Penguin UK.
 12. Graves, C. 2024. [Tir. The Story of the Welsh Landscape](https://carwyngraves.com/tir-the-story-of-the-welsh-landscape/). 1st ed. Cardiff: Calon.
 13. Haraway, D. 1985. A Cyborg Manifesto
