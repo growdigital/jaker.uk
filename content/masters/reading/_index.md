@@ -20,13 +20,13 @@ aliases:
 ### Sustainability and Planning
 - Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📚
 - Owens, S & Cowell, R. 2011. [*Land and Limits: Interpreting Sustainability in the Planning Process*](https://f001.backblazeb2.com/file/jakerMSc/Owens-Cowell_Land-and-Limits_2011.pdf). 2nd ed. London: Routledge. ⬇️
-- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Ch3 in *[Spatial Planning and the New Localism](https://f001.backblazeb2.com/file/jakerMSc/Haughton_Spatial-Planning-and-the-New-Localism_2009.epub)*. Abingdon: Routledge ⬇️
+- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Ch3 in *[Spatial Planning and the New Localism](https://f001.backblazeb2.com/file/jakerMSc/Haughton_Spatial-Planning-and-the-New-Localism_2009.pdf)*. Abingdon: Routledge ⬇️
 ### Environmental Behaviours
 - Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford ⬇️
 ### Renewable energy and planning
 - Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
-1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. London: Earthscan. 
+1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 
 2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Basingt: Palgrave. ⬇️
 3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)*. London: Penguin. 🏛️
 4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development](https://f001.backblazeb2.com/file/jakerMSc/Geographies-of-Development.pdf)*. Edward Elgar. ⬇️
@@ -41,7 +41,7 @@ aliases:
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)*. London & New York: Routledge. 
 14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. London: Routledge.
 15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 
-16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.epub)*. London: Random House. ⬇️
+16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.pdf)*. London: Random House. ⬇️
 17. Rist, G. 2019. *The History of Development*. 5th ed. London: Zed Books. 
 18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. London: Verso. 🏛️
 19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. ⬇️
