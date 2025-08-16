@@ -10,7 +10,7 @@ aliases:
 ---
 ## SusPlan & EnvPol bibliography
 ### General
-- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press. 📚
+- Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. ⬇️ 📚
 - Barry, J. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Sustainability and policy
 - Griggs, D et al. 2013. *[Policy: Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. ⬇️
@@ -23,9 +23,7 @@ aliases:
 ### Environmental Behaviours
 - Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford (read chapter one as a good support for the course as a whole) ⬇️
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT.  
-  [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
-
+- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2003. *[Just Sustainability](https://www.jstor.org/stable/3451592?read-now=1&seq=1#page_scan_tab_contents)*. London: Earthscan. 
 2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Basingt: Palgrave. ⬇️
