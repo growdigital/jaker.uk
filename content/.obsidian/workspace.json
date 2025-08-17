@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/reading/_index.md",
+                "file": "masters/modules/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,13 +170,14 @@
   },
   "active": "e7b1507d3f0a210d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "masters/_index.md",
     "masters/reading/_index.md",
+    "masters/misc/modules-envdev.md",
+    "Untitled.md",
     "masters/referencing.md",
     "blog/250815-effin-birds.md",
     "blog/250814-zotero-hero.md",
     "_index.md",
-    "masters/_index.md",
     "blog/250811-whose-land-are-you-on.md",
     "about.md",
     "blog/250729-music.md",
@@ -184,7 +185,6 @@
     "ideas.md",
     "blog/250807-abuse-property.md",
     "temp.md",
-    "masters/misc/modules-envdev.md",
     "masters/reading/plunder.md",
     "masters/misc/_index.md",
     "masters/modules/_index.md",

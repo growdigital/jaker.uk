@@ -16,8 +16,6 @@ Modules for [Sustainability Planning & Environmental Policy MSc](https://www.car
     2. *Spring 2027*
 	    - 6. [Research Methods](#6-research-methods)
 	    - 7. [Dissertation](#7-dissertation)
-
-*[Sustainable Planning & Environmental Policy (Part time MSc)](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time)*
 ## 1. Principles and Practices of Environmental Governance
 | Semester    | Credits | Code   |
 | ----------- | ------- | ------ |
