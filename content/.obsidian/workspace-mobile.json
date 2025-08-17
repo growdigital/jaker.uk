@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/_index.md",
-                "mode": "source",
+                "file": "masters/reading/_index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/modules/_index.md",
+            "file": "masters/reading/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,10 +153,10 @@
   },
   "active": "0bb6315e7fddd32d",
   "lastOpenFiles": [
+    "masters/modules/_index.md",
     "masters/reading/_index.md",
     "temp.md",
     "masters/_index.md",
-    "masters/modules/_index.md",
     "_index.md",
     "masters/modules/susplan.md",
     "Urban.md",

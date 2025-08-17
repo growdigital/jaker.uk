@@ -8,23 +8,23 @@ Weight: "2"
 aliases:
   - reading-list
 ---
-## SusPlan & EnvPol bibliography
+## SPEP bibliography
 ### General
-- Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. ⬇️ 📚
-- Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. ⬇️
+- Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
+- Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
 ### Sustainability and policy
-- Griggs, D et al. 2013. *[Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. ⬇️
-- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/happaerts_sustainable-development_the_institutionalization-of-a-contested-policy-concept_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. ⬇️
-- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/steffen_planetary-boundaries_guiding-human-development-on-a-changing-planet.pdf)*. Science 347(6223): pp736 ⬇️
-- ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. ⬇️ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
+- Griggs, D et al. 2013. *[Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. 📄 ⬇️
+- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/happaerts_sustainable-development_the_institutionalization-of-a-contested-policy-concept_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. 📄 ⬇️
+- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/steffen_planetary-boundaries_guiding-human-development-on-a-changing-planet.pdf)*. Science 347(6223): pp736 📄 ⬇️
+- ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. 📄 ⬇️ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
 ### Sustainability and Planning
-- Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📚
-- Owens, S & Cowell, R. 2011. [*Land and Limits: Interpreting Sustainability in the Planning Process*](https://f001.backblazeb2.com/file/jakerMSc/Owens-Cowell_Land-and-Limits_2011.pdf). 2nd ed. London: Routledge. ⬇️
-- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Ch3 in *[Spatial Planning and the New Localism](https://f001.backblazeb2.com/file/jakerMSc/Haughton_Spatial-Planning-and-the-New-Localism_2009.pdf)*. Abingdon: Routledge ⬇️
+- Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📕📚
+- Owens, S & Cowell, R. 2011. [*Land and Limits: Interpreting Sustainability in the Planning Process*](https://f001.backblazeb2.com/file/jakerMSc/Owens-Cowell_Land-and-Limits_2011.pdf). 2nd ed. London: Routledge. 📕 ⬇️
+- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Ch3 in *[Spatial Planning and the New Localism](https://f001.backblazeb2.com/file/jakerMSc/Haughton_Spatial-Planning-and-the-New-Localism_2009.pdf)*. Abingdon: Routledge 📄 ⬇️
 ### Environmental Behaviours
-- Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford ⬇️
+- Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford 📕 ⬇️
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). ⬇️ 
+- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). 📕 📄 ⬇️ 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 
 2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Basingt: Palgrave. ⬇️
