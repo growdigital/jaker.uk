@@ -26,9 +26,9 @@ aliases:
 ### Renewable energy and planning
 - Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). 📕 📄 ⬇️ 
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
-1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 
-2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Phases_of_Capitalist_Development.pdf)*. Basingt: Palgrave. ⬇️
-3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://archive.org/details/23thingstheydont0000chan)*. London: Penguin. 🏛️
+1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 📕 ⬇️ 
+2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Albritton_Phases-of-Capitalist-Development_2001.pdf)*. Basingt: Palgrave. 📕 ⬇️
+3. Chang, H-J. 2010. *[23 Things They Don’t Tell You About Capitalism](https://f001.backblazeb2.com/file/jakerMSc/Chang_23-Things-They-Don't-Tell-You-About-Capitalism_2010.pdf)*. London: Penguin. 📕 [🏛️](https://archive.org/details/23thingstheydont0000chan) ⬇️
 4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development](https://f001.backblazeb2.com/file/jakerMSc/Geographies-of-Development.pdf)*. Edward Elgar. ⬇️
 5. Dryzek. J.S. 2012. *[The Politics of the Earth: Environmental Discourses](https://archive.org/details/politicsofearthe0000dryz)*. 3rd ed. Oxford: OUP. 🏛️
 6. Escobar, A. 2012. *[Encountering Development: The Making and Unmaking of the Third World](https://f001.backblazeb2.com/file/jakerMSc/Escobar_Encountering-Development_2011.pdf)*. Princeton: University Press. ⬇️
