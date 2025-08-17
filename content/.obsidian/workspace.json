@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/_index.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,6 +170,7 @@
   },
   "active": "e7b1507d3f0a210d",
   "lastOpenFiles": [
+    "masters/modules/_index.md",
     "masters/_index.md",
     "masters/reading/_index.md",
     "masters/misc/modules-envdev.md",
@@ -187,7 +188,6 @@
     "temp.md",
     "masters/reading/plunder.md",
     "masters/misc/_index.md",
-    "masters/modules/_index.md",
     "masters/misc",
     "Urban.md",
     "masters/modules/susplan.md",
