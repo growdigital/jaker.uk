@@ -35,9 +35,9 @@ aliases:
 7. Foster, J.B. 2009. *[The Ecological Revolution: Making Peace with the Planet](https://f001.backblazeb2.com/file/jakerMSc/Foster_The-Ecological-Revolution_2009.pdf)*. New York: Monthly Review Press. 📄 ⬇️
 8. Magdoff, F. and Williams, C. 2017. *[Creating an Ecological Society: Toward a Revolutionary Transformation](https://f001.backblazeb2.com/file/jakerMSc/Magdoff_Creating-an-ecological-society_2017.pdf)*. New York: Monthly Review Press.  📕 ⬇️
 9. Nisbet, R.A. 1969. *[Social Change and History: Aspects of the Western Theory of Development](https://f001.backblazeb2.com/file/jakerMSc/Nisbet_Social-Change-and-History_1969.pdf)*. Oxford: OUP. 📄 ⬇️
-10. Nunan, F. 2015. *Understanding Poverty and the Environment*. London: Routledge. 
+10. Nunan, F. 2015. *[Understanding Poverty and the Environment](https://f001.backblazeb2.com/file/jakerMSc/Nunan_Understanding-Poverty-and-the-Environment_2015.pdf)*. London: Routledge. 📄 ⬇️
 11. Payne, A. and Phillips, N. 2010. *Development*. Cambridge: Polity. 
-12. Peet, R. and Hartwick, E. 2009. *[Theories of Development](https://archive.org/details/theoriesofdevelo0000peet)*. 2nd ed. New York: Guilford Press. 🏛️ 
+12. Peet, R. and Hartwick, E. 2015. *[Theories of Development](https://f001.backblazeb2.com/file/jakerMSc/Peet_Theories-of-Development_2015.pdf)*. 3rd ed. New York: Guilford Press. [Internet Archive](https://archive.org/details/theoriesofdevelo0000peet). 📕 🏛️ ⬇️
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://www.researchgate.net/publication/307792509_Global_Political_Ecology)*. London & New York: Routledge. 
 14. Peet, R. and Watts, M.J. 2004. *Liberation Ecologies: Environment, Development and Social Movements*. 2nd ed. London: Routledge.
 15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 
