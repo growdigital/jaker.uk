@@ -43,14 +43,14 @@ aliases:
 15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 📄
 16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.pdf)*. London: Random House. 📄 ⬇️
 17. Rist, G. 2008. *[The History of Development](https://f001.backblazeb2.com/file/jakerMSc/Rist_The-History-of-Development_2008.pdf)*. 3rd ed. London: Zed Books. 📄 ⬇️
-18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. London: Verso. 🏛️
-19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. 📄 ⬇️
-20. Selwyn, B. 2014. *The Global Development Crisis*. Cambridge: Polity Press. 
-21. Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st ed. London: Pelican. 📚
-22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd ed. New York: Guilford Press. 🏛️
-23. Verma, M.K. (ed). 2019. *Globalisation, Environment and Social Justice*. London: Routledge.
+18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://f001.backblazeb2.com/file/jakerMSc/Rodney_How-Europe-Underdeveloped-Africa_2018.pdf)*. London: Verso. [Internet Archive](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up). 📕 🏛️ ⬇️
+19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/Sachs_The-Development-Dictionary_2010.pdf)*. London: Zed.
+20. Selwyn, B. 2014. *[The Global Development Crisis](https://f001.backblazeb2.com/file/jakerMSc/Selwyn_The-Global-Development-Crisis_2014.pdf)*. Cambridge: Polity Press.  📄 ⬇️
+21. Standing, G. 2019. *[Plunder of the Commons: A Manifesto for Sharing Public Wealth](https://f001.backblazeb2.com/file/jakerMSc/Standing_Plunder-of-the-Commons_2019.pdf)*. 1st ed. London: Pelican. 📄 📚 ⬇️ 
+22. Sheppard, E. et al. 2009. *A World of Difference*. 2nd ed. New York: Guilford Press. [Internet Archive](https://archive.org/details/worldofdifferenc0000unse_k9n7). 📕  📚 🏛️
+23. Verma, M.K. (ed). 2019. *[Globalisation, Environment and Social Justice](https://f001.backblazeb2.com/file/jakerMSc/Verma_Globalisation-Environment-and-Social-Justice_2018.pdf)*. London: Routledge. 📄 ⬇️
 24. Watts, M. 2013. *[Silent Violence: Food, Famine and Peasantry in Northern Nigeria](https://archive.org/details/silentviolencefo0000watt)*. Athens, Georgia: Georgia Press. 🏛️
-25. Willis, K. 2021. *Theories and Practices of Development*. 3rd ed. London & New York: Routledge.
+25. Willis, K. 2021. *[Theories and Practices of Development](https://f001.backblazeb2.com/file/jakerMSc/Willis_Theories-and-Practices-of-Development_2020.pdf)*. 3rd ed. London & New York: Routledge. 📄 ⬇️
 ## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://www.taylorfrancis.com/books/mono/10.4324/9781003439745/concept-property-kant-fichte-hegel-jacob-blumenfeld)*. 1st ed. New York: Routledge.
@@ -76,20 +76,20 @@ aliases:
 22. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications. 🏛️
 23. Widerquist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://f001.backblazeb2.com/file/jakerMSc/Widerquist_The-Prehistory-of-Private-Property_2021.pdf). 1st ed. Edinburgh: Edinburgh University Press.
 24. Wills, VC. 2024. *[Marx's Ethical Vision](https://f001.backblazeb2.com/file/jakerMSc/Wills_Marx's-Ethical-Vision_2024.pdf)*. Oxford: Oxford University Press. ⬇️
-## Papers
+### Papers
 - Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/conservation-basic-income_fletcher-buscher-2020.pdf)*. ⬇️
 - Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*. ⬇️
-## Websites
+### Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)
 - Bhandar, B & Blumenfeld, J & Loick, D. 2024. [*The Abuse of Property*](https://www.youtube.com/watch?v=NydcNinyNqs). YouTube: Red May TV. 
-## Articles
+### Articles
 - Monbiot, G. 2025. [*The Commoner Kings*](https://www.monbiot.com/2025/05/12/the-commoner-kings/). London: The Guardian.
 ## Notes
+- ⬇️ - PDF download
+- 🏛️ - on [archive.org](https://archive.org/) 
 - 📚 - household book
-- 🏛️ - available on [archive.org](https://archive.org/) 
 - 🎧 - podcast
 - 📹 - video
-- ⬇️ - PDF download
 - [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
 - [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb) - [Zotero documentation](https://www.zotero.org/support/), Cardiff uni [Zotero tutorial](https://xerte.cardiff.ac.uk/play_14459#page1)
 - [Obsidian Zotero integration plugin](https://github.com/mgmeyers/obsidian-zotero-integration) with [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin

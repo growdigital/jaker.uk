@@ -9,7 +9,8 @@ tags:
   - Masters
 draft: false
 ---
-## [Sustainability Planning & Environmental Policy MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time)
+## [SPEP MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time)
+Sustainability Planning & Environmental Policy  
 *2 years, part-time*
 
 This MSc enables students to develop critical learning and applied skills in the field of contemporary sustainability.
