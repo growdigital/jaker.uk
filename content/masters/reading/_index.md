@@ -32,8 +32,8 @@ aliases:
 4. Chant, S. and Mcllwaine, C. 2009. *[Geographies of Development in the 21st Century](https://f001.backblazeb2.com/file/jakerMSc/Chant_Geographies-of-Development-in-the-21st-Century_2009.pdf)*. Edward Elgar. 📕 ⬇️
 5. Dryzek. J.S. 2012. *[The Politics of the Earth: Environmental Discourses](https://f001.backblazeb2.com/file/jakerMSc/Dryzek_The-Politics-of-the-Earth_2013.pdf)*. 3rd ed. Oxford: OUP. [Internet Archive](https://archive.org/details/politicsofearthe0000dryz). 📕 🏛️ ⬇️
 6. Escobar, A. 2012. *[Encountering Development: The Making and Unmaking of the Third World](https://f001.backblazeb2.com/file/jakerMSc/Escobar_Encountering-Development_2011.pdf)*. Princeton: University Press. 📕 ⬇️
-7. Foster, J.B. 2009. *The Ecological Revolution: Making Peace with the Planet*. New York: Monthly Review Press.
-8. Magdoff, F. and Williams, C. 2017. *Creating an Ecological Society: Toward a Revolutionary*. New York: Monthly Review Press. 
+7. Foster, J.B. 2009. *[The Ecological Revolution: Making Peace with the Planet](https://f001.backblazeb2.com/file/jakerMSc/Foster_The-Ecological-Revolution_2009.pdf)*. New York: Monthly Review Press. 📄 ⬇️
+8. Magdoff, F. and Williams, C. 2017. *[Creating an Ecological Society: Toward a Revolutionary Transformation](https://f001.backblazeb2.com/file/jakerMSc/Magdoff_Creating-an-ecological-society_2017.pdf)*. New York: Monthly Review Press.  📕 ⬇️
 9. Nisbet, R.A. 1969. *Social Change and History: Aspects of the Western Theory of Development*. Oxford: OUP. 
 10. Nunan, F. 2015. *Understanding Poverty and the Environment*. London: Routledge. 
 11. Payne, A. and Phillips, N. 2010. *Development*. Cambridge: Polity. 
