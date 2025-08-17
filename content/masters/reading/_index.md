@@ -40,11 +40,11 @@ aliases:
 12. Peet, R. and Hartwick, E. 2015. *[Theories of Development](https://f001.backblazeb2.com/file/jakerMSc/Peet_Theories-of-Development_2015.pdf)*. 3rd ed. New York: Guilford Press. [Internet Archive](https://archive.org/details/theoriesofdevelo0000peet). 📕 🏛️ ⬇️
 13. Peet, R. et al. (eds). 2011. *[Global Political Ecology](https://f001.backblazeb2.com/file/jakerMSc/Peet_Global-Political-Ecology_2011.pdf)*. London & New York: Routledge. 📄 ⬇️
 14. Peet, R. and Watts, M.J. 2004. *[Liberation Ecologies: Environment, Development and Social Movements](https://f001.backblazeb2.com/file/jakerMSc/Peet_Liberation-Ecologies_2004.pdf)*. 2nd ed. London: Routledge. 📄 ⬇️
-15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge.
-16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.pdf)*. London: Random House. ⬇️
-17. Rist, G. 2019. *The History of Development*. 5th ed. London: Zed Books. 
+15. Potter, R. et al. 2018. *Geographies of Development*. 4nd ed. London: Routledge. 📄
+16. Raworth, K. 2017. *[Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist](https://f001.backblazeb2.com/file/jakerMSc/Raworth_Doughnut+economics_2017.pdf)*. London: Random House. 📄 ⬇️
+17. Rist, G. 2008. *[The History of Development](https://f001.backblazeb2.com/file/jakerMSc/Rist_The-History-of-Development_2008.pdf)*. 3rd ed. London: Zed Books. 📄 ⬇️
 18. Rodney, W. 2018. *[How Europe Underdeveloped Africa](https://archive.org/details/how-europe-underdeveloped-africa-by-walter-rodney-2018/page/n7/mode/1up)*. London: Verso. 🏛️
-19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. ⬇️
+19. Sachs, W. 2010. *[The Development Dictionary: A Guide to Knowledge as Power](https://f001.backblazeb2.com/file/jakerMSc/development-dictionary-guide-to-knowledge-as-power.pdf)*. London: Zed. 📄 ⬇️
 20. Selwyn, B. 2014. *The Global Development Crisis*. Cambridge: Polity Press. 
 21. Standing, G. 2019. *Plunder of the Commons: A Manifesto for Sharing Public Wealth*. 1st ed. London: Pelican. 📚
 22. Sheppard, E. et al. 2009. *[A World of Difference](https://archive.org/details/worldofdifferenc0000unse_k9n7)*. 2nd ed. New York: Guilford Press. 🏛️
