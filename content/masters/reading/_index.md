@@ -13,9 +13,9 @@ aliases:
 - Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
 - Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
 ### Sustainability and policy
-- Griggs, D et al. 2013. *[Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. 📄 ⬇️
-- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/happaerts_sustainable-development_the_institutionalization-of-a-contested-policy-concept_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. 📄 ⬇️
-- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/steffen_planetary-boundaries_guiding-human-development-on-a-changing-planet.pdf)*. Science 347(6223): pp736 📄 ⬇️
+- Griggs, D et al. 2013. *[Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/Griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. 📄 ⬇️
+- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development: the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/Happaerts_Sustainable-development_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. 📄 ⬇️
+- Steffen, W et al. 2015. *[Planetary boundaries: Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/Steffen_Planetary-boundaries_2015.pdf)*. Science 347(6223): pp736 📄 ⬇️
 - ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. 📄 ⬇️ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
 ### Sustainability and Planning
 - Owens, S & Cowell, R. 2001. *Land and Limits: Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📕📚
@@ -53,15 +53,15 @@ aliases:
 25. Willis, K. 2021. *[Theories and Practices of Development](https://f001.backblazeb2.com/file/jakerMSc/Willis_Theories-and-Practices-of-Development_2020.pdf)*. 3rd ed. London & New York: Routledge. 📄 ⬇️
 ## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
-2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://www.taylorfrancis.com/books/mono/10.4324/9781003439745/concept-property-kant-fichte-hegel-jacob-blumenfeld)*. 1st ed. New York: Routledge.
+2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://f001.backblazeb2.com/file/jakerMSc/Blumenfeld_The-Concept-of-Property-in+Kant-Fichte-and-Hegel_2023.pdf)*. 1st ed. New York: Routledge. 📄 ⬇️
 3. Brand, S. 1995. *[How Buildings Learn: What Happens After They‘re Built](https://f001.backblazeb2.com/file/jakerMSc/Brand_How-Buildings-Learn_1995.pdf)*. 1st ed. New York: Penguin Books. [BBC TV series](https://www.youtube.com/playlist?list=PLvbRLItdRoVJzBR1PtPEoPY9gz5zSpjVh). 📚 ⬇️ 📹
-4. Büscher, B & Fletcher, R. 2020. *[The Conservation Revolution](https://www.convivialconservation.com/publications/the-book/)*. 1st ed. London: Verso Books. 📚 
-5. Chang, HJ. 2009. [Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism](https://en.wikipedia.org/wiki/Bad_Samaritans_(book)). 1st ed. New York: Bloomsbury Press. 📚
+4. Büscher, B & Fletcher, R. 2020. *[The Conservation Revolution](https://f001.backblazeb2.com/file/jakerMSc/Buscher_The-Conservation-Revolution_2020.pdf)*. 1st ed. London: Verso Books. 📄 ⬇️ 📚 
+5. Chang, HJ. 2009. [Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism](https://f001.backblazeb2.com/file/jakerMSc/Chang_Bad-Samaritans_2007.pdf)). 1st ed. New York: Bloomsbury Press. 📄 ⬇️ 📚 
 6. Dennett, DC. 1996. *[Darwin's Dangerous Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)*. 1st ed. New York: Simon & Schuster. 📚
 7. Estes, N. 2019. *[Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance](https://www.versobooks.com/en-gb/products/600-our-history-is-the-future)*. 1st ed. London: Verso. 📚
 8. Franklin, U. 1999. *[The Real World of Technology](https://www.worldofbooks.com/en-gb/products/real-world-of-technology-book-ursula-franklin-9780887846366)*. 2nd ed. Toronto: House of Anansi Press. [Original public lectures](https://archive.org/details/the-real-world-of-technology). 📚 🎧
 9. Freyfogle, ET. 2007. *[On Private Property](https://archive.org/details/onprivatepropert0000frey)*. 1st ed. Boston: Beacon Press. 📚
-10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/graeber-wengrow_the-dawn-of-everything_farrar-straus-giroux_2021.pdf)*. 3rd ed. New York: Melville House Publishing. 📚 ⬇️
+10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Dawn-of-Everything_2021.pdf)*. 3rd ed. New York: Melville House Publishing. 📚 ⬇️
 11. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st ed. London: Penguin UK.
 12. Graves, C. 2024. [Tir. The Story of the Welsh Landscape](https://carwyngraves.com/tir-the-story-of-the-welsh-landscape/). 1st ed. Cardiff: Calon.
 13. Haraway, D. 1985. A Cyborg Manifesto
@@ -77,7 +77,7 @@ aliases:
 23. Widerquist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://f001.backblazeb2.com/file/jakerMSc/Widerquist_The-Prehistory-of-Private-Property_2021.pdf). 1st ed. Edinburgh: Edinburgh University Press.
 24. Wills, VC. 2024. *[Marx's Ethical Vision](https://f001.backblazeb2.com/file/jakerMSc/Wills_Marx's-Ethical-Vision_2024.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Papers
-- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/conservation-basic-income_fletcher-buscher-2020.pdf)*. ⬇️
+- Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/Buscher_Conservation-Basic-Income_2020.pdf)*. 📄 ⬇️
 - Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*. ⬇️
 ### Websites
 - [DecolonizePalestine.com](https://decolonizepalestine.com)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/250819-economy-occupation-genocide.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250819-economy-occupation-genocide"
+              "title": "_index"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "5267105a252b1805",
   "lastOpenFiles": [
-    "blog/250818-list-historic-welsh-place-names.md",
     "blog/250819-economy-occupation-genocide.md",
+    "blog/250818-list-historic-welsh-place-names.md",
     "about.md",
     "masters/reading/_index.md",
     "masters/_index.md",
