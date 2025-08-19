@@ -8,7 +8,7 @@ I’ve been reading UN Special Rapporteur Francesca Albanese's ‘From economy o
 
 https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session59/advance-version/a-hrc-59-23-aev.pdf
 
-It is **damning**. 
+It is **damning** about Israeli settler-colonialism and genocide.
 
 I‘ve been thinking about *why* the UK government finds it *so* hard to oppose genocide, and I think it‘s because the UK quite literally has a vested interest in Israel, historically, politically and economically.
 
