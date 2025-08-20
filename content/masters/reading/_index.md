@@ -8,7 +8,7 @@ Weight: "2"
 aliases:
   - reading-list
 ---
-## SPEP bibliography
+## [SPEP](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) bibliography
 ### General
 - Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
 - Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
@@ -61,8 +61,8 @@ aliases:
 7. Estes, N. 2019. *[Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance](https://www.versobooks.com/en-gb/products/600-our-history-is-the-future)*. 1st ed. London: Verso. 📚
 8. Franklin, U. 1999. *[The Real World of Technology](https://www.worldofbooks.com/en-gb/products/real-world-of-technology-book-ursula-franklin-9780887846366)*. 2nd ed. Toronto: House of Anansi Press. [Original public lectures](https://archive.org/details/the-real-world-of-technology). 📚 🎧
 9. Freyfogle, ET. 2007. *[On Private Property](https://archive.org/details/onprivatepropert0000frey)*. 1st ed. Boston: Beacon Press. 📚
-10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Dawn-of-Everything_2021.pdf)*. 3rd ed. New York: Melville House Publishing. 📚 ⬇️
-11. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon)*. 1st ed. London: Penguin UK.
+10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/Graeber_Debt_2014.pdf)*. 3rd ed. New York: Melville House Publishing. 📕 📚 ⬇️
+11. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Dawn-of-Everything_2021.pdf)*. 1st ed. London: Penguin UK. [Internet Archive](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon).  📕 🏛️ ⬇️
 12. Graves, C. 2024. [Tir. The Story of the Welsh Landscape](https://carwyngraves.com/tir-the-story-of-the-welsh-landscape/). 1st ed. Cardiff: Calon.
 13. Haraway, D. 1985. A Cyborg Manifesto
 14. Haraway, D. Staying with the Trouble
