@@ -25,6 +25,10 @@ aliases:
 - Shove E. 2003. *[Comfort, Cleanliness and Convenience. The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford 📕 ⬇️
 ### Renewable energy and planning
 - Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). 📕 📄 ⬇️ 
+### My SPEP reading
+- Hickel, J. 2018. [The Divide](https://f001.backblazeb2.com/file/jakerMSc/Hickel_The-Divide_2018.pdf). 1st ed. New York: WW Norton. 📕 ⬇️ 📚
+- Hickel, J. 2020. [Less Is More](https://f001.backblazeb2.com/file/jakerMSc/Hickel_Less-Is-More_2020.pdf). 1st ed. London: Penguin. 📕 ⬇️
+
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 📕 ⬇️ 
 2. Albritton, R. et al. (eds). 2001. *[Phases of Capitalist Development](https://f001.backblazeb2.com/file/jakerMSc/Albritton_Phases-of-Capitalist-Development_2001.pdf)*. Basingt: Palgrave. 📕 ⬇️
