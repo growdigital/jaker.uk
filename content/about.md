@@ -19,8 +19,12 @@ Built using the incredible [Hugo](https://gohugo.io/) static site generator, usi
 2. [Code Editor Shortcuts](https://obsidian.md/plugins?id=obsidian-editor-shortcuts)
 3. [Copy as HTML](https://obsidian.md/plugins?id=copy-as-html)
 4. [Emoji Shortcodes](https://obsidian.md/plugins?id=emoji-shortcodes)
-5. [Pandoc](https://obsidian.md/plugins?id=obsidian-pandoc)
-6. [Table Generator](https://obsidian.md/plugins?id=obsidian-table-generator)
-7. [Text Format](https://obsidian.md/plugins?id=obsidian-text-format)
-8. [Vault Nickname](https://obsidian.md/plugins?id=vault-nickname)
-9. [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-desktop-connector)
+5. [Front Matter Timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps)
+6. [Pandoc](https://obsidian.md/plugins?id=obsidian-pandoc)
+7. [Table Generator](https://obsidian.md/plugins?id=obsidian-table-generator)
+8. [Templater](https://silentvoid13.github.io/Templater/introduction.html)
+9. [Text Format](https://obsidian.md/plugins?id=obsidian-text-format)
+10. [Vault Nickname](https://obsidian.md/plugins?id=vault-nickname)
+11. [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-desktop-connector)
+
+If you want to poke around to see how these plugins are used, the website code repository is here github.com/growdigital/jaker.uk and the Obsidian vault with all the plugins is the `content` folder, which is here github.com/growdigital/jaker.uk/tree/main/content
