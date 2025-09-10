@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/reading/_index.md",
+                "file": "blog/250824-less-is-more.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "250824-less-is-more"
             }
           }
         ]
@@ -143,6 +143,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,8 +154,8 @@
   },
   "active": "0bb6315e7fddd32d",
   "lastOpenFiles": [
-    "masters/modules/_index.md",
     "masters/reading/_index.md",
+    "masters/modules/_index.md",
     "temp.md",
     "masters/_index.md",
     "_index.md",
