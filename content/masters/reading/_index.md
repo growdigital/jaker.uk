@@ -66,20 +66,21 @@ aliases:
 8. Franklin, U. 1999. *[The Real World of Technology](https://www.worldofbooks.com/en-gb/products/real-world-of-technology-book-ursula-franklin-9780887846366)*. 2nd ed. Toronto: House of Anansi Press. [Original public lectures](https://archive.org/details/the-real-world-of-technology). 📚 🎧
 9. Freyfogle, ET. 2007. *[On Private Property](https://archive.org/details/onprivatepropert0000frey)*. 1st ed. Boston: Beacon Press. 📚
 10. Graeber, D. 2014. *[Debt: The First 5,000 Years](https://f001.backblazeb2.com/file/jakerMSc/Graeber_Debt_2014.pdf)*. 3rd ed. New York: Melville House Publishing. 📕 📚 ⬇️
-11. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Dawn-of-Everything_2021.pdf)*. 1st ed. London: Penguin UK. [Internet Archive](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon).  📕 🏛️ ⬇️
-12. Graves, C. 2024. *[Tir. The Story of the Welsh Landscape](https://carwyngraves.com/tir-the-story-of-the-welsh-landscape/)*. 1st ed. Cardiff: Calon.
-13. Haraway, D. 1991. *[A Cyborg Manifesto](https://f001.backblazeb2.com/file/jakerMSc/Haraway_A-Cyborg-Manifesto_1991.pdf)*. Simians, Cyborgs and Women: The Reinvention of Nature. New York: Routledge. pp.149–181 📄 ⬇️
-14. Haraway, D. 2016. *[Staying with the Trouble](https://f001.backblazeb2.com/file/jakerMSc/Haraway_Staying-with-the-Trouble_2016.pdf)*. 1st ed. London: Duke University Press. 📕 ⬇️
-15. Hayes, N. 2020. *[The Book of Trespass](https://www.bloomsbury.com/uk/book-of-trespass-9781526604729/)*. 1st ed. London: Bloomsbury Publishing. 📚
-16. Kelton, S. 2020. *[The Deficit Myth](https://stephaniekelton.com/book/)*. 1st ed. London: John Murray. 📚 
-17. Linklater, A. 2015. *[Owning the Earth](https://www.bloomsbury.com/uk/owning-the-earth-9781408855430/)*. 2nd ed. London: Bloomsbury Publishing. 📚 
-18. Lowenhaupt Tsing, A. 2021. *The Mushroom at the End of the World*. 1st ed. New Jersey: Princeton University Press.
-19. Shrubsole, G. 2019. *Who Owns England*. 1st ed. London: HarperCollins Publishers. 📚
-20. Smith, A. *Moral Sentiments*. 📚
-21. Smith, A. *Wealth of Nations*. 📚
-22. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications. 🏛️
-23. Widerquist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://f001.backblazeb2.com/file/jakerMSc/Widerquist_The-Prehistory-of-Private-Property_2021.pdf). 1st ed. Edinburgh: Edinburgh University Press.
-24. Wills, VC. 2024. *[Marx's Ethical Vision](https://f001.backblazeb2.com/file/jakerMSc/Wills_Marx's-Ethical-Vision_2024.pdf)*. Oxford: Oxford University Press. ⬇️
+11. Graeber, D. 2024. *[The Ultimate Hidden Truth of the World](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Ultimate-Hidden-Truth-of-the-World_2024.pdf)*. 1st ed. London: Penguin. 📕 ⬇️
+12. Graeber, D. & Wengrow, D. 2021. *[The Dawn of Everything](https://f001.backblazeb2.com/file/jakerMSc/Graeber_The-Dawn-of-Everything_2021.pdf)*. 1st ed. London: Penguin UK. [Internet Archive](https://archive.org/details/the-dawn-of-everything-a-new-history-of-humanity-david-graeber-david-wengrow-lon).  📕 🏛️ ⬇️
+13. Graves, C. 2024. *[Tir. The Story of the Welsh Landscape](https://carwyngraves.com/tir-the-story-of-the-welsh-landscape/)*. 1st ed. Cardiff: Calon.
+14. Haraway, D. 1991. *[A Cyborg Manifesto](https://f001.backblazeb2.com/file/jakerMSc/Haraway_A-Cyborg-Manifesto_1991.pdf)*. Simians, Cyborgs and Women: The Reinvention of Nature. New York: Routledge. pp.149–181 📄 ⬇️
+15. Haraway, D. 2016. *[Staying with the Trouble](https://f001.backblazeb2.com/file/jakerMSc/Haraway_Staying-with-the-Trouble_2016.pdf)*. 1st ed. London: Duke University Press. 📕 ⬇️
+16. Hayes, N. 2020. *[The Book of Trespass](https://www.bloomsbury.com/uk/book-of-trespass-9781526604729/)*. 1st ed. London: Bloomsbury Publishing. 📚
+17. Kelton, S. 2020. *[The Deficit Myth](https://stephaniekelton.com/book/)*. 1st ed. London: John Murray. 📚 
+18. Linklater, A. 2015. *[Owning the Earth](https://www.bloomsbury.com/uk/owning-the-earth-9781408855430/)*. 2nd ed. London: Bloomsbury Publishing. 📚 
+19. Lowenhaupt Tsing, A. 2021. *The Mushroom at the End of the World*. 1st ed. New Jersey: Princeton University Press.
+20. Shrubsole, G. 2019. *Who Owns England*. 1st ed. London: HarperCollins Publishers. 📚
+21. Smith, A. *Moral Sentiments*. 📚
+22. Smith, A. *Wealth of Nations*. 📚
+23. Stace, WT. 1923. *[The Philosophy of Hegel](https://archive.org/details/in.ernet.dli.2015.125214/page/n5/mode/2up)*. 1st ed. New York: Dover Publications. 🏛️
+24. Widerquist, K & McCall, G. 2021. [*The Prehistory of Private Property*](https://f001.backblazeb2.com/file/jakerMSc/Widerquist_The-Prehistory-of-Private-Property_2021.pdf). 1st ed. Edinburgh: Edinburgh University Press.
+25. Wills, VC. 2024. *[Marx's Ethical Vision](https://f001.backblazeb2.com/file/jakerMSc/Wills_Marx's-Ethical-Vision_2024.pdf)*. Oxford: Oxford University Press. ⬇️
 ### Papers
 - Büscher, B & Fletcher, R. 2020. *[Conservation Basic Income](https://f001.backblazeb2.com/file/jakerMSc/Buscher_Conservation-Basic-Income_2020.pdf)*. 📄 ⬇️
 - Tuck, E & Wayne Yang, K. 2012. *[Decolonization is not a metaphor](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf)*. Decolonization: Indigeneity, Education & Society *Vol 1, No. 1, pp1-­40*. ⬇️

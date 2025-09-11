@@ -1,5 +1,6 @@
 ---
 Title: About
+modified: 2025-09-11T20:57:09+01:00
 ---
 ![Grey goatee bearded man with green baseball cap](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_200,r_max/v1682407166/jake-askance.jpg)
 
@@ -22,8 +23,8 @@ Built using the incredible [Hugo](https://gohugo.io/) static site generator, usi
 5. [Front Matter Timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps)
 6. [Pandoc](https://obsidian.md/plugins?id=obsidian-pandoc)
 7. [Table Generator](https://obsidian.md/plugins?id=obsidian-table-generator)
-8. [Templater](https://silentvoid13.github.io/Templater/introduction.html)
-9. [Text Format](https://obsidian.md/plugins?id=obsidian-text-format)
+8. [Text Format](https://obsidian.md/plugins?id=obsidian-text-format)
+9. [Unique note creator](https://help.obsidian.md/plugins/unique-note) - (core plugin, needs activating)
 10. [Vault Nickname](https://obsidian.md/plugins?id=vault-nickname)
 11. [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-desktop-connector)
 

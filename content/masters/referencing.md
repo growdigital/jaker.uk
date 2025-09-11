@@ -2,6 +2,7 @@
 Title: Citations & referencing
 Date: 2025-07-23T17:10:47+01:00
 Weight: "3"
+modified: 2025-09-11T21:13:49+01:00
 ---
 - Use [Cardiff Harvard Referencing](https://xerte.cardiff.ac.uk/play_4191#page1)
 - [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb)
@@ -11,8 +12,8 @@ Weight: "3"
 - [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin
 ## Cardiff Harvard Referencing
 ### 1. Citation 
-> Some researchers have argued (Potts 2002) that project management should be... As Cousins (2019, p. 32) highlights "race and racism…
+Some researchers have argued (Potts 2002) that project management should be... As Cousins (2019, p. 32) highlights "race and racism…
 ### 2. References
-> Potts, D. 2002. _Project planning and analysis for development_. 5th ed. Boulder, Colorado: Lynne Reinner.
+Potts, D. 2002. _Project planning and analysis for development_. 5th ed. Boulder, Colorado: Lynne Reinner.
 ### Format
 LastName, I(nitial). Year. *Title*. Edition. Place: Publisher.
