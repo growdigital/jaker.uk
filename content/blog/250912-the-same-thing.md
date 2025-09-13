@@ -6,7 +6,7 @@ tags:
   - Dennett
   - possibilities
 draft:
-modified: 2025-09-11T21:13:18+01:00
+modified: 2025-09-13T11:44:28+01:00
 date: 2025-09-11T20:55:41+01:00
 ---
 One of my favourite quotes from David Graeber is:
@@ -15,3 +15,4 @@ One of my favourite quotes from David Graeber is:
 
 Graeber, D. 2024. *The Ultimate Hidden Truth of the World, pp8*. 1st ed. London: Penguin
 
+And one of my favourite books is Daniel Dennett‘s [Darwin’s Dangerous Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea), which for me is that the world is inescapably full of possibility.
