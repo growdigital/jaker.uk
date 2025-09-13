@@ -76,7 +76,7 @@ modified: 2025-09-13T11:44:04+01:00
 17. Hayes, N. 2020. *[The Book of Trespass](https://www.bloomsbury.com/uk/book-of-trespass-9781526604729/)*. 1st ed. London: Bloomsbury Publishing. 📚
 18. Kelton, S. 2020. *[The Deficit Myth](https://stephaniekelton.com/book/)*. 1st ed. London: John Murray. 📚 
 19. Linklater, A. 2015. *[Owning the Earth](https://www.bloomsbury.com/uk/owning-the-earth-9781408855430/)*. 2nd ed. London: Bloomsbury Publishing. 📚 
-20. Lowenhaupt Tsing, A. 2021. *The Mushroom at the End of the World*. 1st ed. New Jersey: Princeton University Press.
+20. Tsing, AL. 2015. *[The Mushroom at the End of the World](https://f001.backblazeb2.com/file/jakerMSc/Tsing_The-Mushroom-at-the-End-of-the-World_2015.pdf)*. 1st ed. New Jersey: Princeton University Press. 📕 ⬇️
 21. Shrubsole, G. 2019. *Who Owns England*. 1st ed. London: HarperCollins Publishers. 📚
 22. Smith, A. *Moral Sentiments*. 📚
 23. Smith, A. *Wealth of Nations*. 📚
