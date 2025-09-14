@@ -1,5 +1,5 @@
 ---
-Title: Reading list
+Title: Environment & Development MSc reading list
 Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
@@ -7,7 +7,7 @@ draft: false
 Weight: "2"
 aliases:
   - reading-list
-modified: 2025-09-14T15:55:38+01:00
+modified: 2025-09-14T20:08:54+01:00
 date: 2025-09-14T15:54:36+01:00
 ---
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
@@ -36,12 +36,3 @@ date: 2025-09-14T15:54:36+01:00
 23. Verma, M.K. (ed). 2019. *[Globalisation, Environment and Social Justice](https://f001.backblazeb2.com/file/jakerMSc/Verma_Globalisation-Environment-and-Social-Justice_2018.pdf)*. London: Routledge. 📄 ⬇️
 24. Watts, M. 2013. *[Silent Violence: Food, Famine and Peasantry in Northern Nigeria](https://archive.org/details/silentviolencefo0000watt)*. Athens, Georgia: Georgia Press. 🏛️
 25. Willis, K. 2021. *[Theories and Practices of Development](https://f001.backblazeb2.com/file/jakerMSc/Willis_Theories-and-Practices-of-Development_2020.pdf)*. 3rd ed. London & New York: Routledge. 📄 ⬇️
-## Notes
-- ⬇️ - PDF download
-- 🏛️ - on [archive.org](https://archive.org/) 
-- 📚 - household book
-- 🎧 - podcast
-- 📹 - video
-- [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
-- [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb) - [Zotero documentation](https://www.zotero.org/support/), Cardiff uni [Zotero tutorial](https://xerte.cardiff.ac.uk/play_14459#page1)
-- [Obsidian Zotero integration plugin](https://github.com/mgmeyers/obsidian-zotero-integration) with [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin

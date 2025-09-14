@@ -1,5 +1,5 @@
 ---
-Title: Reading list
+Title: Personal reading list
 Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
@@ -7,7 +7,7 @@ draft: false
 Weight: "2"
 aliases:
   - reading-list
-modified: 2025-09-14T15:56:27+01:00
+modified: 2025-09-14T20:08:48+01:00
 date: 2025-09-14T15:56:00+01:00
 ---
 ## My reading list
@@ -47,12 +47,3 @@ date: 2025-09-14T15:56:00+01:00
 - Bhandar, B & Blumenfeld, J & Loick, D. 2024. [*The Abuse of Property*](https://www.youtube.com/watch?v=NydcNinyNqs). YouTube: Red May TV. 
 ### Articles
 - Monbiot, G. 2025. [*The Commoner Kings*](https://www.monbiot.com/2025/05/12/the-commoner-kings/). London: The Guardian.
-## Notes
-- ⬇️ - PDF download
-- 🏛️ - on [archive.org](https://archive.org/) 
-- 📚 - household book
-- 🎧 - podcast
-- 📹 - video
-- [Cardiff Harvard](https://xerte.cardiff.ac.uk/play_4191#page1) citations.
-- [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb) - [Zotero documentation](https://www.zotero.org/support/), Cardiff uni [Zotero tutorial](https://xerte.cardiff.ac.uk/play_14459#page1)
-- [Obsidian Zotero integration plugin](https://github.com/mgmeyers/obsidian-zotero-integration) with [Better Bibtex for Zotero](https://retorque.re/zotero-better-bibtex/index.html) Zotero plugin

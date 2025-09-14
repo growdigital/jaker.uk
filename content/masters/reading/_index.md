@@ -30,6 +30,8 @@ modified: 2025-09-14T15:56:51+01:00
 - Hickel, J. 2018. [The Divide](https://f001.backblazeb2.com/file/jakerMSc/Hickel_The-Divide_2018.pdf). 1st ed. New York: WW Norton. 📕 ⬇️ 📚
 - Hickel, J. 2020. [Less Is More](https://f001.backblazeb2.com/file/jakerMSc/Hickel_Less-Is-More_2020.pdf). 1st ed. London: Penguin. 📕 ⬇️
 ## Notes
+- 📕 - Book
+- 📄 - Paper
 - ⬇️ - PDF download
 - 🏛️ - on [archive.org](https://archive.org/) 
 - 📚 - household book
