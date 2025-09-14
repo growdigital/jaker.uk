@@ -7,7 +7,7 @@ draft: false
 Weight: "2"
 aliases:
   - reading-list
-modified: 2025-09-14T15:56:51+01:00
+modified: 2025-09-14T20:11:49+01:00
 ---
 ## [SPEP](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) bibliography
 ### General
