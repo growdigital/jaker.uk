@@ -5,17 +5,17 @@ Weight: "1"
 Modules for [Sustainability Planning & Environmental Policy MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) part-time
 1. ***Year 1***
     1. *Autumn 2025*
-		- 1. [Principles and Practices of Environmental Governance](#1-principles-and-practices-of-environmental-governance)
-		- 2. [Urban and Regional Economies](#2-urban-and-regional-economies)`‡`
+		- 1. [Principles and Practices of Environmental Governance](#1-principles-and-practices-of-environmental-governance) CPT914
+		- 2. [Urban and Regional Economies](#2-urban-and-regional-economies)`‡` CPT929
     2. *Spring 2026*
-	    - 3. [Sustainable Food Systems](#3-sustainable-food-systems)`‡`
+	    - 3. [Sustainable Food Systems](#3-sustainable-food-systems)`‡` CPT902
 2. ***Year 2***
     1. *Autumn 2026*
-	    - 4. [Environmental Policy and Climate Change](#4-environmental-policy-and-climate-change)
-	    - 5. [Sustainable Transport Policies](#5-sustainable-transport-policies)`‡`
+	    - 4. [Environmental Policy and Climate Change](#4-environmental-policy-and-climate-change) CPT855
+	    - 5. [Sustainable Transport Policies](#5-sustainable-transport-policies)`‡` CPT903
     2. *Spring 2027*
-	    - 6. [Research Methods](#6-research-methods)
-	    - 7. [Dissertation](#7-dissertation)
+	    - 6. [Research Methods](#6-research-methods) CPT926
+	    - 7. [Dissertation](#7-dissertation) CPT508
 ## 1. Principles and Practices of Environmental Governance
 | Semester    | Credits | Code   |
 | ----------- | ------- | ------ |
@@ -90,11 +90,11 @@ On completion of the module a student should be able to
 10. Develop and present coherent solutions to environmental and climate change issues.
 ## 5. Sustainable Transport Policies
 
-| Semester    | Credits | Code |
-| ----------- | ------- | ---- |
-| Autumn 2026 | 20      | CPT  |
+| Semester    | Credits | Code   |
+| ----------- | ------- | ------ |
+| Autumn 2026 | 20      | CPT903 |
 
-This module considers the complexities involved in meeting society’s mobility needs whilst minimising negative impacts associated with surface transport.          
+This module considers the complexities involved in meeting society’s mobility needs whilst minimising negative impacts associated with surface transport.
 
 The module has four main foci:
 1. Understanding the environmental, social and economic impacts of different transport modes;

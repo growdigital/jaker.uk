@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3fdcf4d96d7d2b2",
+        "id": "e9fb588db6117382",
         "type": "tabs",
         "children": [
           {
-            "id": "4d623606a903b80b",
+            "id": "1be2818067774bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/reading/_index.md",
+                "file": "masters/modules/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,11 +170,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4d623606a903b80b",
+  "active": "1be2818067774bd8",
   "lastOpenFiles": [
+    "masters/reading/_index.md",
     "masters/reading/env-dev.md",
     "masters/reading/personal.md",
-    "masters/reading/_index.md",
     "masters/misc/modules-envdev.md",
     "masters/misc/_index.md",
     "masters/reading/notes/plunder.md",
