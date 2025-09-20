@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/_index.md",
+                "file": "masters/reading/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,6 +172,7 @@
   },
   "active": "1be2818067774bd8",
   "lastOpenFiles": [
+    "masters/modules/_index.md",
     "masters/reading/_index.md",
     "masters/reading/env-dev.md",
     "masters/reading/personal.md",
@@ -198,7 +199,6 @@
     "assets/templates/blog.md",
     "blog/250824-less-is-more.md",
     "blog/250722-intro.md",
-    "masters/modules/_index.md",
     "assets/templates",
     "assets",
     "masters/misc",

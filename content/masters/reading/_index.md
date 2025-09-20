@@ -9,7 +9,7 @@ aliases:
   - reading-list
 modified: 2025-09-14T20:11:49+01:00
 ---
-## [SPEP](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) bibliography
+## 1. [SPEP](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) bibliography
 ### General
 - Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
 - Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
@@ -29,6 +29,37 @@ modified: 2025-09-14T20:11:49+01:00
 ### My SPEP reading
 - Hickel, J. 2018. [The Divide](https://f001.backblazeb2.com/file/jakerMSc/Hickel_The-Divide_2018.pdf). 1st ed. New York: WW Norton. 📕 ⬇️ 📚
 - Hickel, J. 2020. [Less Is More](https://f001.backblazeb2.com/file/jakerMSc/Hickel_Less-Is-More_2020.pdf). 1st ed. London: Penguin. 📕 ⬇️
+## 2. Modules
+### Urban & Regional Economies
+#### Essential
+- ==Coe, N et al (2020) Economic Geography: A Contemporary Introduction, Blackwell==
+- ==Mackinnon, D. and Cumbers, A. (2019) An Introduction to Economic Geography: Globalization, Uneven Development and Place, Second Edition; Prentice Hall: London.==
+### Background
+- Glaeser, E (2011) Triumph of the City, Macmillan
+- Huggins, R. and Thompson, P. (2017) Handbook of Regions and Competitiveness Contemporary Theories and Perspectives on Economic Development. Elgar.
+- McCann, P (2016) The UK Regional–National Economic Problem Geography, globalisation and governance. Routledge
+## Research methods
+- Babbie E, (1992) The Practice of Social Research, Belmont CA: Wadsworth.
+- Beach, D. (2020) Multi-method research in the social sciences: a review of recent framework and a way forward Government and Opposition, 55(1):163-182.
+- Brancati, D. (2018) Social scientific research. London: Sage Publications
+- Bryman, A. (2015) Social Research Methods (5e) Oxford OUP.
+- Denscombe, M. (2003) The good research guide for small-scale social research projects. Open University Press, Buckingham., 2nd Edition
+- Field, A. (2013) Discovering Statistics Using SPSS (4th Ed.) London: Sage.
+- Hart, C. (1998) Doing a Literature Review, London: Sage.
+- Margolis, E. and Pauwels, L (eds) (2011) The SAGE Handbook of Visual Research Methods, Sage: LA. (Chapter 9).
+- May, T. (2011) Social Research: Issues, methods and process (4e). Maidenhead. OUP.
+- Peters K (2017) Your Human Geography Dissertation. Sage: London
+- Rudestam, K.E.R. & Newton, R.R. (2001) Surviving your dissertation: a comprehensive guide to content and process, Sage Publications, London. 2nd Edition.
+- Salkind, N. (2008) Statistics for people who think they hate statistics, 3rd edition. Sage. (or any earlier edition)
+- Seale, C. (2017) Researching Society and Culture 4e. London: Sage.
+- Silverman, D. (2010) Doing qualitative research: a practical handbook (3e). London. Sage.
+- Silverman, D. (2011) Interpreting Qualitative Data. 4 edition. London: Sage. (See chapters on data analysis, interviews and texts).
+- Skinner, J. (2013).The interview: An ethnographic approach (Vol. 49). A&C Black.
+## Dissertation
+1. ==Biggam J. (2008) Succeeding with you Master's Dissertation: A Step-by-Step Handbook, McGraw Hill/Open University Press: Maidenhead.==
+2. Denscombe, M. (2003) The good research guide for small scale social research projects, 3rd Edition, Open University Press: Buckingham.
+3. Flowerdew R & Martin D. (eds.) (2005) Methods in Human Geography: a guide for students doing research projects, 2nd edition, Prentice Hall: Harlow
+4. Hart, C. (2005) Doing your Masters Dissertation, Sage: London.
 ## Notes
 - 📕 - Book
 - 📄 - Paper
