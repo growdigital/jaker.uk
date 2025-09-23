@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/250824-less-is-more.md",
+                "file": "masters/reading/personal.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250824-less-is-more"
+              "title": "personal"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/reading/_index.md",
+            "file": "masters/reading/personal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +143,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -155,10 +156,11 @@
   "active": "0bb6315e7fddd32d",
   "lastOpenFiles": [
     "masters/reading/_index.md",
+    "_index.md",
+    "blog/250824-less-is-more.md",
     "masters/modules/_index.md",
     "temp.md",
     "masters/_index.md",
-    "_index.md",
     "masters/modules/susplan.md",
     "Urban.md",
     "masters/modules/env+dev.md",
