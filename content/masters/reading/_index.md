@@ -4,7 +4,7 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "2"
+Weight: "0"
 aliases:
   - reading-list
 modified: 2025-09-24T00:13:51+01:00
