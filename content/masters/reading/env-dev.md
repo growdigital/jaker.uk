@@ -4,10 +4,10 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "2"
+Weight: "11"
 aliases:
   - reading-list
-modified: 2025-09-14T20:08:54+01:00
+modified: 2025-09-24T00:30:47+01:00
 date: 2025-09-14T15:54:36+01:00
 ---
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography

@@ -4,10 +4,10 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "2"
+Weight: "10"
 aliases:
   - reading-list
-modified: 2025-09-14T20:08:48+01:00
+modified: 2025-09-24T00:30:44+01:00
 date: 2025-09-14T15:56:00+01:00
 ---
 ## My reading list

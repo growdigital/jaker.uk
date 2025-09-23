@@ -4,9 +4,9 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "2"
+Weight: "1"
 aliases:
-modified: 2025-09-24T00:24:54+01:00
+modified: 2025-09-24T00:29:06+01:00
 date: 2025-09-14T15:54:36+01:00
 ---
 - Bäckstrand, K & Kronsell, A eds. 2015. *[Rethinking the Green State : Environmental governance towards climate and sustainability transitions](https://f001.backblazeb2.com/file/jakerMSc/B%C3%A4ckstrand-Kronsell-eds_Rethinking-the-Green-State_2015.pdf)*. 1st ed. London: Routledge. 📕 ⬇️
