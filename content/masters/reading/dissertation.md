@@ -6,7 +6,7 @@ tags:
 draft: false
 Weight: "7"
 aliases:
-modified: 2025-09-24T00:36:28+01:00
+modified: 2025-09-24T00:39:14+01:00
 date: 2025-09-14T15:54:36+01:00
 ---
 1. ==Biggam J. (2008) Succeeding with you Master's Dissertation: A Step-by-Step Handbook, McGraw Hill/Open University Press: Maidenhead.==
