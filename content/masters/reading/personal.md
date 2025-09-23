@@ -7,10 +7,9 @@ draft: false
 Weight: "10"
 aliases:
   - reading-list
-modified: 2025-09-24T00:30:44+01:00
+modified: 2025-09-24T00:45:04+01:00
 date: 2025-09-14T15:56:00+01:00
 ---
-## My reading list
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://f001.backblazeb2.com/file/jakerMSc/Blumenfeld_The-Concept-of-Property-in+Kant-Fichte-and-Hegel_2023.pdf)*. 1st ed. New York: Routledge. 📄 ⬇️
 3. Brand, S. 1995. *[How Buildings Learn: What Happens After They‘re Built](https://f001.backblazeb2.com/file/jakerMSc/Brand_How-Buildings-Learn_1995.pdf)*. 1st ed. New York: Penguin Books. [BBC TV series](https://www.youtube.com/playlist?list=PLvbRLItdRoVJzBR1PtPEoPY9gz5zSpjVh). 📚 ⬇️ 📹

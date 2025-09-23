@@ -7,7 +7,7 @@ draft: false
 Weight: "3"
 aliases:
   - reading-list
-modified: 2025-09-24T00:41:38+01:00
+modified: 2025-09-24T00:44:47+01:00
 ---
 ## [Sustainability, Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc-part-time)
 ### General
