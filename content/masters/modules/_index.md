@@ -6,13 +6,13 @@ Modules for [Sustainability Planning & Environmental Policy MSc](https://www.car
 1. ***Year 1***
     1. *Autumn 2025*
 		- 1. [Principles and Practices of Environmental Governance](#1-principles-and-practices-of-environmental-governance) CPT914
-		- 2. [Urban and Regional Economies](#2-urban-and-regional-economies)`‡` CPT929
+	    - 2. [Sustainable Transport Policies](#5-sustainable-transport-policies)`‡` CPT903
     2. *Spring 2026*
 	    - 3. [Sustainable Food Systems](#3-sustainable-food-systems)`‡` CPT902
 2. ***Year 2***
     1. *Autumn 2026*
 	    - 4. [Environmental Policy and Climate Change](#4-environmental-policy-and-climate-change) CPT855
-	    - 5. [Sustainable Transport Policies](#5-sustainable-transport-policies)`‡` CPT903
+		- 5. [Urban and Regional Economies](#2-urban-and-regional-economies)`‡` CPT929
     2. *Spring 2027*
 	    - 6. [Research Methods](#6-research-methods) CPT926
 	    - 7. [Dissertation](#7-dissertation) CPT508
@@ -35,19 +35,29 @@ On completion of the module a student should be able to:
 3. Understand and evaluate key approaches to environmental governance, including international conventions (as the 1992 UN Framework Convention on Climate Change), national policies, private sector responses and personal behaviour change;
 4. Understand the ways that scale and context impact on how environmental governance is understood and enacted; and
 5. Critically discuss and evaluate key tools and mechanisms of environmental governance, drawing on empirical case studies and, in particular, human-induced climatic changes.
-## 2. Urban and Regional Economies
+## 2. Sustainable Transport Policies
 
 | Semester    | Credits | Code   |
 | ----------- | ------- | ------ |
-| Autumn 2025 | 20      | CPT929 |
+| Autumn 2026 | 20      | CPT903 |
 
-`‡`This module explores the key concepts, thinkers and theories of uneven spatial development. The module addresses some of the most urgent questions in urban and regional economic development today. Why are some firms and places more creative, more dynamic and more innovative than others? Does globalization spell the “death of distance” and the “end of geography” as some theorist claim? Alternatively, is the clustering of economic activity a sign that geographical proximity (face-to-face contact) remains an important feature of knowledge exchange and trust-building despite the growth of distance-shrinking technologies like the internet? How are urban and regional areas tied into the global economy? What is the relationship between urban and regional development and the environment? Why are social inequalities intrinsic to urban economies? Drawing on these concepts and theories, the module examines the strategies of actual cities, regions and city-regions in the world economy to assess if these ideas help us to better understand why some places are more dynamic than others.
+This module considers the complexities involved in meeting society’s mobility needs whilst minimising negative impacts associated with surface transport.
+
+The module has four main foci:
+1. Understanding the environmental, social and economic impacts of different transport modes;
+2. Identifying and evaluating the efficacy of different modes, mechanisms and methodologies to solve problems of accessibility;
+3. Exploring the social, environmental and distributional consequences of different behavioural, spatial and technological solutions for achieving more sustainable transport;
+4. Introducing the process of transport appraisal and scheme development.
+
+In addressing 1,2 and 4, the module provides an overview of the UK transport policy landscape; introduces the main social and environmental externalities associated with surface transport; outlines the process of policy formation and transport project evaluation in the UK (specifically Welsh) context; and critically considers methods for engaging publics and measuring accessibility.
+
+In addressing the third, policies adopted (both in the UK and internationally) for promoting sustainable mobility are evaluated, key challenges identified and innovative ideas to overcome the challenges discussed and explored.
 
 On completion of the module a student should be able to:
-1. Demonstrate a critical understanding of theoretical debates on contemporary urban and regional economic development processes, and geographical patterns of uneven economic development.
-2. Understand and show the extent to which economic development is embedded in urban and regional social and cultural contexts.
-3. Critically evaluate the role of public policy in either fostering or frustrating urban and regional economic development.
-Appreciate the scope for/barriers to urban and regional state action in fostering economic development and addressing economic decline.
+1. Define and critically assess the main environmental, social and economic impacts of a range of surface transport modes and spatial arrangements within wider issues of economic growth and accumulation
+2. Identify and implement key components of transport project appraisal in relation to achieving sustainability, liveability and accessibility.
+3. Assess the social, environmental and distributional impacts of a range of sustainable transport policies and mode choices.
+4. Critically examine the efficacy of contemporary solutions in a range of contexts.
 ## 3. Sustainable Food Systems
 
 | Semester    | Credits | Code   |
@@ -88,29 +98,19 @@ On completion of the module a student should be able to
 8. Explain the theoretical underpinnings of, and drivers behind, environmental and climate policy, and the inter-relationship between human activities, the natural environment and climate change (in the Global North and Global South). 
 9. Distinguish between different approaches to environmental policy and climate change and evaluate their implications, likely consequences and underlying assumptions. 
 10. Develop and present coherent solutions to environmental and climate change issues.
-## 5. Sustainable Transport Policies
+## 5. Urban and Regional Economies
 
 | Semester    | Credits | Code   |
 | ----------- | ------- | ------ |
-| Autumn 2026 | 20      | CPT903 |
+| Autumn 2025 | 20      | CPT929 |
 
-This module considers the complexities involved in meeting society’s mobility needs whilst minimising negative impacts associated with surface transport.
-
-The module has four main foci:
-1. Understanding the environmental, social and economic impacts of different transport modes;
-2. Identifying and evaluating the efficacy of different modes, mechanisms and methodologies to solve problems of accessibility;
-3. Exploring the social, environmental and distributional consequences of different behavioural, spatial and technological solutions for achieving more sustainable transport;
-4. Introducing the process of transport appraisal and scheme development.
-
-In addressing 1,2 and 4, the module provides an overview of the UK transport policy landscape; introduces the main social and environmental externalities associated with surface transport; outlines the process of policy formation and transport project evaluation in the UK (specifically Welsh) context; and critically considers methods for engaging publics and measuring accessibility.
-
-In addressing the third, policies adopted (both in the UK and internationally) for promoting sustainable mobility are evaluated, key challenges identified and innovative ideas to overcome the challenges discussed and explored.
+`‡`This module explores the key concepts, thinkers and theories of uneven spatial development. The module addresses some of the most urgent questions in urban and regional economic development today. Why are some firms and places more creative, more dynamic and more innovative than others? Does globalization spell the “death of distance” and the “end of geography” as some theorist claim? Alternatively, is the clustering of economic activity a sign that geographical proximity (face-to-face contact) remains an important feature of knowledge exchange and trust-building despite the growth of distance-shrinking technologies like the internet? How are urban and regional areas tied into the global economy? What is the relationship between urban and regional development and the environment? Why are social inequalities intrinsic to urban economies? Drawing on these concepts and theories, the module examines the strategies of actual cities, regions and city-regions in the world economy to assess if these ideas help us to better understand why some places are more dynamic than others.
 
 On completion of the module a student should be able to:
-1. Define and critically assess the main environmental, social and economic impacts of a range of surface transport modes and spatial arrangements within wider issues of economic growth and accumulation
-2. Identify and implement key components of transport project appraisal in relation to achieving sustainability, liveability and accessibility.
-3. Assess the social, environmental and distributional impacts of a range of sustainable transport policies and mode choices.
-4. Critically examine the efficacy of contemporary solutions in a range of contexts.
+1. Demonstrate a critical understanding of theoretical debates on contemporary urban and regional economic development processes, and geographical patterns of uneven economic development.
+2. Understand and show the extent to which economic development is embedded in urban and regional social and cultural contexts.
+3. Critically evaluate the role of public policy in either fostering or frustrating urban and regional economic development.
+Appreciate the scope for/barriers to urban and regional state action in fostering economic development and addressing economic decline.
 ## 6. Research Methods
 | Semester    | Credits | Code   |
 | ----------- | ------- | ------ |
