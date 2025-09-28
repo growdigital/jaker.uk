@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/_index.md",
+                "file": "blog/250925-random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "250925-random"
             }
           }
         ]
@@ -172,9 +172,10 @@
   },
   "active": "3a57ce01ebd3c3d6",
   "lastOpenFiles": [
+    "blog/250925-random.md",
+    "masters/modules/_index.md",
     "masters/referencing.md",
     "_index.md",
-    "masters/modules/_index.md",
     "masters/_index.md",
     "masters/misc/_index.md",
     "masters/misc/modules-envdev.md",
@@ -199,7 +200,6 @@
     "Untitled 5.md",
     "Untitled 3.md",
     "Untitled 6.md",
-    "Untitled 4.md",
     "assets/templates",
     "assets",
     "masters/misc",
