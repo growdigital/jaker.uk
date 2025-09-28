@@ -4,9 +4,9 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "2"
+Weight: "5"
 aliases:
-modified: 2025-09-24T00:36:13+01:00
+modified: 2025-09-28T22:41:32+01:00
 date: 2025-09-14T15:54:36+01:00
 ---
 ## Essential

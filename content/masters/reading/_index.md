@@ -4,25 +4,25 @@ Date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "3"
+Weight: "1"
 aliases:
   - reading-list
-modified: 2025-09-24T00:44:47+01:00
+modified: 2025-09-28T22:40:13+01:00
 ---
 ## [Sustainability, Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc-part-time)
 1. ***Year 1***
     1. *Autumn 2025*
-		- 1. [Principles and Practices of Environmental Governance](#1-principles-and-practices-of-environmental-governance) CPT914
-	    - 2. [Sustainable Transport Policies](#5-sustainable-transport-policies)`‡` CPT903
+		- 1. [Principles and Practices of Environmental Governance](/masters/modules/1-principles-and-practices-of-environmental-governance) CPT914
+	    - 2. [Sustainable Transport Policies](/masters/modules/2-sustainable-transport-policies)`‡` CPT903
     2. *Spring 2026*
-	    - 3. [Sustainable Food Systems](#3-sustainable-food-systems)`‡` CPT902
+	    - 3. [Sustainable Food Systems](/masters/modules/3-sustainable-food-systems)`‡` CPT902
 2. ***Year 2***
     1. *Autumn 2026*
-	    - 4. [Environmental Policy and Climate Change](#4-environmental-policy-and-climate-change) CPT855
-		- 5. [Urban and Regional Economies](#2-urban-and-regional-economies)`‡` CPT929
+	    - 4. [Environmental Policy and Climate Change](/masters/modules/4-environmental-policy-and-climate-change) CPT855
+		- 5. [Urban and Regional Economies](/masters/modules/5-urban-and-regional-economies)`‡` CPT929
     2. *Spring 2027*
-	    - 6. [Research Methods](#6-research-methods) CPT926
-	    - 7. [Dissertation](#7-dissertation) CPT508
+	    - 6. [Research Methods](/masters/modules/6-research-methods) CPT926
+	    - 7. [Dissertation](/masters/modules/7-dissertation) CPT508
 ### General
 - Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
 - Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
