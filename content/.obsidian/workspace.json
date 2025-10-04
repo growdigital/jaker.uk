@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/notes/02-sustran/251003-01-module.md",
+                "file": "masters/misc/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251003-01-module"
+              "title": "_index"
             }
           }
         ]
@@ -172,13 +172,15 @@
   },
   "active": "946c5bba03f56cc7",
   "lastOpenFiles": [
-    "masters/notes/02-sustran/251003-01-overview-weltan.md",
+    "masters/modules/_index.md",
+    "masters/reading/_index.md",
+    "masters/notes/_index.md",
+    "masters/misc/_index.md",
     "masters/notes/02-sustran/251003-01-module.md",
+    "masters/notes/02-sustran/251003-01-overview-weltan.md",
     "masters/notes/01-envgov/_index.md",
     "masters/notes/02-sustran/_index.md",
-    "masters/notes/_index.md",
     "masters/notes/03-susfood/_index.md",
-    "masters/modules/_index.md",
     "masters/notes/01-envgov/251003-01-environment-as-problem.md",
     "251004-unpublished.md",
     "masters/notes/Untitled.md",
@@ -193,14 +195,12 @@
     "masters/notes/03-susfood",
     "masters/notes/02-sustran",
     "masters/notes/01-envgov",
-    "masters/reading/_index.md",
     "blog/250925-random.md",
     "masters/reading/dissertation.md",
     "masters/reading/research-methods.md",
     "masters/reading/urban-regional-economies.md",
     "masters/reading/sustainable-transport.md",
     "masters/reading/environmental-governance.md",
-    "masters/referencing.md",
     "masters/reading/modules",
     "masters/reading/notes",
     "assets/templates",
