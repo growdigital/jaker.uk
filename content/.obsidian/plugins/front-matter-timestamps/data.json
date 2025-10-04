@@ -1,8 +1,8 @@
 {
   "autoUpdate": true,
   "autoAddTimestamps": true,
-  "createdPropertyName": "Date",
-  "modifiedPropertyName": "Modified",
+  "createdPropertyName": "date",
+  "modifiedPropertyName": "modified",
   "dateFormat": "YYYY-MM-DDTHH:mm:ssZ",
   "allowNonEmptyNewFile": true,
   "delayAddingTimestamps": 1000,

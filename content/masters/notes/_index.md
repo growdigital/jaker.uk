@@ -1,13 +1,13 @@
 ---
 title: Lecture notes
-date: 2025-10-04T14:44:06+01:00
 tags:
   - books
 draft: false
 weight: "1"
 aliases:
-  - reading-list
-modified: 2025-10-04T14:54:39+01:00
+  - notes
+  - lectures
+modified: 2025-10-04T22:35:05+01:00
 date: 2025-10-04T14:43:44+01:00
 ---
 ## [Sustainability, Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc-part-time)
