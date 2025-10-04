@@ -7,8 +7,7 @@ draft: false
 weight: "10"
 aliases:
   - reading-list
-modified: 2025-09-24T00:45:04+01:00
-date: 2025-09-14T15:56:00+01:00
+modified: 2025-10-05T00:03:15+01:00
 ---
 1. Anderson, MK. 2013. *[Tending the Wild](https://tendingthewild.com/tending-the-wild/)*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *[The Concept of Property in Kant, Fichte and Hegel](https://f001.backblazeb2.com/file/jakerMSc/Blumenfeld_The-Concept-of-Property-in+Kant-Fichte-and-Hegel_2023.pdf)*. 1st ed. New York: Routledge. 📄 ⬇️

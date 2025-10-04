@@ -1,14 +1,14 @@
 ---
-title: Research Methods CPT926
+title: Research Methods
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
 weight: "6"
 aliases:
-modified: 2025-09-24T00:36:21+01:00
-date: 2025-09-14T15:54:36+01:00
+modified: 2025-10-05T00:05:51+01:00
 ---
+### Research Methods CPT926
 - Babbie E, (1992) The Practice of Social Research, Belmont CA: Wadsworth.
 - Beach, D. (2020) Multi-method research in the social sciences: a review of recent framework and a way forward Government and Opposition, 55(1):163-182.
 - Brancati, D. (2018) Social scientific research. London: Sage Publications

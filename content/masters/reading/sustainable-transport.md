@@ -1,14 +1,14 @@
 ---
-title: Sustainable Transport Policies CPT903
+title: Sustainable Transport
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
 weight: "2"
 aliases:
-modified: 2025-09-28T22:41:26+01:00
-date: 2025-09-14T15:54:36+01:00
+modified: 2025-10-05T00:04:49+01:00
 ---
+### Sustainable Transport Policies CPT903
 ## Essential
 - Cahill, M. 2010. *[Transport, environment and society](https://f001.backblazeb2.com/file/jakerMSc/Cahill_Transport-Environment-and-Society_2010.pdf)*. Maidenhead: McGraw-Hill Open University Press. 📕 ⬇️
 - Docherty, I & Shaw, J, eds. 2019. *[Transport matters](https://f001.backblazeb2.com/file/jakerMSc/Docherty-Shaw-eds_Transport-Matters_2019.pdf)*. Bristol: Policy Press. 📕 ⬇️

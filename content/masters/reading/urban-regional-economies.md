@@ -1,14 +1,14 @@
 ---
-title: Urban and Regional Economies CPT929
+title: Urban & Regional Economies
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
 weight: "5"
 aliases:
-modified: 2025-09-28T22:41:32+01:00
-date: 2025-09-14T15:54:36+01:00
+modified: 2025-10-05T00:05:28+01:00
 ---
+### Urban & Regional Economies CPT929
 ## Essential
 - Coe, N et al. 2020. *[Economic Geography : A Contemporary Introduction](https://f001.backblazeb2.com/file/jakerMSc/Coe-Kelly-Yeung_Economic-geography_2020.pdf)*. Oxford: John Wiley. 📕 ⬇️
 - Mackinnon, D. & Cumbers, A. 2019. *[An Introduction to Economic Geography : Globalization, Uneven Development and Place](https://f001.backblazeb2.com/file/jakerMSc/Mackinnon-Cumbers_Introduction-to-economic-geography_2007.pdf)*. 2nd ed. London: Prentice Hall. 📕 ⬇️
