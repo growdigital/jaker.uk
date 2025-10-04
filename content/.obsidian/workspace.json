@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/notes/03-susfood/_index.md",
+                "file": "masters/notes/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,8 +172,8 @@
   },
   "active": "946c5bba03f56cc7",
   "lastOpenFiles": [
-    "masters/notes/_index.md",
     "masters/notes/03-susfood/_index.md",
+    "masters/notes/_index.md",
     "masters/notes/02-sustran/_index.md",
     "masters/notes/01-envgov/_index.md",
     "masters/modules/_index.md",

@@ -1,5 +1,5 @@
 ---
-title: Lecture notes
+title: Notes
 tags:
   - books
 draft: false
