@@ -1,10 +1,10 @@
 ---
-Title: Surfacing and connecting
+title: Surfacing and connecting
 aliases:
 tags:
   - musings
 draft: false
-modified: 2025-10-01T08:02:39+01:00
+modified: 2025-10-01T11:54:40+01:00
 date: 2025-10-01T07:04:15+01:00
 ---
 I have tried so many times a variety of todo lists and methodologies, from [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) to [Bullet Journals](https://en.wikipedia.org/wiki/Bullet_journal). Where I'm at now is a shelf full of A5 dotted journals, using [Lunatask](https://lunatask.app/) as a digital bin and a headful of threads.

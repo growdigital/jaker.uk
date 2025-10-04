@@ -1,10 +1,10 @@
 ---
-Title: Research Methods CPT926
-Date: 2025-07-22T17:55:56+01:00
+title: Research Methods CPT926
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "6"
+weight: "6"
 aliases:
 modified: 2025-09-24T00:36:21+01:00
 date: 2025-09-14T15:54:36+01:00

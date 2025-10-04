@@ -1,6 +1,6 @@
 ---
-Title: "Zotero: from zero to hero"
-Date: 2025-08-14T11:31:16+01:00
+title: "Zotero: from zero to hero"
+date: 2025-08-14T11:31:16+01:00
 ---
 As an ex-frontend developr (building websites), I‘m fairly technically-savvy, although I’d never used any reference management software before. 
 

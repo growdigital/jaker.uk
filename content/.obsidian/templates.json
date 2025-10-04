@@ -1,3 +1,4 @@
 {
-  "folder": "assets/templates"
+  "folder": "assets/templates",
+  "dateFormat": "YYMMDD-"
 }

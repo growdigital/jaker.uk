@@ -1,6 +1,6 @@
 ---
-Title: From economy of occupation to economy of genocide
-Date: 2025-08-19T21:14:41+01:00
+title: From economy of occupation to economy of genocide
+date: 2025-08-19T21:14:41+01:00
 ---
 [Zotero](https://www.zotero.org/) is fantastic piece of software to read and annotate books and reports. 
 

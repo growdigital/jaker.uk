@@ -29,7 +29,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var DEFAULT_PLUGIN_SETTINGS = {
-  overrideAppTitle: "override-app-title:file-first"
+  overrideApptitle: "override-app-title:file-first"
 };
 var DEFAULT_SHARED_SETTINGS = {
   nickname: "My Vault Nickname"

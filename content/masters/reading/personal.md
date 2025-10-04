@@ -1,10 +1,10 @@
 ---
-Title: Personal reading list
-Date: 2025-07-22T17:55:56+01:00
+title: Personal reading list
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "10"
+weight: "10"
 aliases:
   - reading-list
 modified: 2025-09-24T00:45:04+01:00

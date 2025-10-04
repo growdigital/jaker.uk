@@ -1,6 +1,6 @@
 ---
-Title: Modules Environment & Development
-Weight: "1"
+title: Modules Environment & Development
+weight: "1"
 ---
 *I was originally looking at Environment & Development masters but it’s not available part-time.*
 

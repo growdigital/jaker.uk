@@ -1,10 +1,10 @@
 ---
-Title: Reading lists
-Date: 2025-07-22T17:55:56+01:00
+title: Reading lists
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "1"
+weight: "1"
 aliases:
   - reading-list
 modified: 2025-09-28T22:40:13+01:00

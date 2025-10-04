@@ -1,6 +1,6 @@
 ---
-Title: This Is America
-Date: 2025-08-11T21:42:07+01:00
+title: This Is America
+date: 2025-08-11T21:42:07+01:00
 ---
 Childish Gambino - This Is America
 

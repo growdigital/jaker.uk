@@ -1,6 +1,6 @@
 ---
-Title: Whose land are you on?
-Date: 2025-08-11T18:22:17+01:00
+title: Whose land are you on?
+date: 2025-08-11T18:22:17+01:00
 ---
 ## Whose land are you on? What to know about the Indigenous Land Back movement
 

@@ -1,5 +1,5 @@
 ---
-Title: About
+title: About
 modified: 2025-09-11T20:57:09+01:00
 ---
 ![Grey goatee bearded man with green baseball cap](https://res.cloudinary.com/growdigital/image/upload/f_auto,w_200,r_max/v1682407166/jake-askance.jpg)

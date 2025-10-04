@@ -1,7 +1,7 @@
 ---
-Title: Citations & referencing
-Date: 2025-07-23T17:10:47+01:00
-Weight: "3"
+title: Citations & referencing
+date: 2025-07-23T17:10:47+01:00
+weight: "3"
 modified: 2025-09-11T21:13:49+01:00
 ---
 - Use [Cardiff Harvard Referencing](https://xerte.cardiff.ac.uk/play_4191#page1)

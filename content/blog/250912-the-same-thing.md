@@ -1,5 +1,5 @@
 ---
-Title: Graeber & Dennett said the same thing
+title: Graeber & Dennett said the same thing
 aliases:
 tags:
   - Graeber

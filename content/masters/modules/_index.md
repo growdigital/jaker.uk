@@ -1,6 +1,6 @@
 ---
-Title: Modules
-Weight: "1"
+title: Modules
+weight: "1"
 modified: 2025-09-28T22:36:56+01:00
 ---
 Modules for [Sustainability Planning & Environmental Policy MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) part-time

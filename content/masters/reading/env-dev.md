@@ -1,10 +1,10 @@
 ---
-Title: Environment & Development MSc reading list
-Date: 2025-07-22T17:55:56+01:00
+title: Environment & Development MSc reading list
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "11"
+weight: "11"
 aliases:
   - reading-list
 modified: 2025-09-24T00:30:47+01:00

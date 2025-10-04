@@ -1,10 +1,10 @@
 ---
-Title: Dissertation CPT508
-Date: 2025-07-22T17:55:56+01:00
+title: Dissertation CPT508
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "7"
+weight: "7"
 aliases:
 modified: 2025-09-24T00:39:14+01:00
 date: 2025-09-14T15:54:36+01:00

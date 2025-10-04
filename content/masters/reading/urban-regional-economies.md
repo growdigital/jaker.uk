@@ -1,10 +1,10 @@
 ---
-Title: Urban and Regional Economies CPT929
-Date: 2025-07-22T17:55:56+01:00
+title: Urban and Regional Economies CPT929
+date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-Weight: "5"
+weight: "5"
 aliases:
 modified: 2025-09-28T22:41:32+01:00
 date: 2025-09-14T15:54:36+01:00

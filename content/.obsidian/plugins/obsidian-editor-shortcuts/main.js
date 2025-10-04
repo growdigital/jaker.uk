@@ -405,7 +405,7 @@ var getNextCase = (selectedText) => {
     case textLower: {
       return textTitle;
     }
-    case textTitle: {
+    case texttitle: {
       return textUpper;
     }
     default: {

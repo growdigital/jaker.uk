@@ -1,6 +1,6 @@
 ---
-Title: List of Historic Welsh Place Names talk
-Date: 2025-08-18T20:54:45+01:00
+title: List of Historic Welsh Place Names talk
+date: 2025-08-18T20:54:45+01:00
 ---
 Dr James January-McCann, Place Names Officer for the Royal Commission on the Ancient and Historical Monuments of Wales, gave an amazing talk to Cilgerran Festival today.
 
