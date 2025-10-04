@@ -1,7 +1,7 @@
 ---
 title: Modules
 weight: "1"
-modified: 2025-10-04T23:00:53+01:00
+modified: 2025-10-05T00:44:05+01:00
 ---
 Modules for [Sustainability Planning & Environmental Policy MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) part-time
 1. ***Year 1***
@@ -17,48 +17,6 @@ Modules for [Sustainability Planning & Environmental Policy MSc](https://www.car
     2. *Spring 2027*
 	    - 6. [Research Methods](/masters/modules/6-research-methods) CPT926
 	    - 7. [Dissertation](/masters/modules/7-dissertation) CPT508
-## 1. Principles and Practices of Environmental Governance
-| Semester    | Credits | Code   |
-| ----------- | ------- | ------ |
-| Autumn 2025 | 20      | CPT914 |
-
-This module will provide students with in-depth knowledge of the diverse forms of, and rationales for, modern environmental governance. It will draw on conceptual and empirical material from a wide range of case studies, to help students understand the contemporary management of the environment, broadly defined.
-
-The module’s main components include an exploration of the rise of environmental governance, examining why and in what ways ‘the environment’ has become an important sphere of policy and practice intervention around the world, including some of the different conceptual lenses through which it can be examined.
-
-A further component explores the differing scales of environmental governance, covering international and transnational processes and institutions, as well as the part that we all as individuals now play in acting on and for the environment. The main topic, cover in a series of lectures and seminars, is anthropogenic climate change and the evolution of climate change governance.
-
-Finally, the module examines various tools of governance, providing detailed insight into the ways that particular mechanisms of and for environmental governance are put into practice and experienced ‘on the ground’, drawing on international case studies.
-
-On completion of the module a student should be able to:
-1. Describe and understand the origins and drivers of key environmental problems, intersectoral disputes and uneven responsibilities across governments, social groups and generations;
-2. Recognise and critically analyse key theories and ‘schools’ of environmental governance theory and practice;
-3. Understand and evaluate key approaches to environmental governance, including international conventions (as the 1992 UN Framework Convention on Climate Change), national policies, private sector responses and personal behaviour change;
-4. Understand the ways that scale and context impact on how environmental governance is understood and enacted; and
-5. Critically discuss and evaluate key tools and mechanisms of environmental governance, drawing on empirical case studies and, in particular, human-induced climatic changes.
-## 2. Sustainable Transport Policies
-
-| Semester    | Credits | Code   |
-| ----------- | ------- | ------ |
-| Autumn 2026 | 20      | CPT903 |
-
-This module considers the complexities involved in meeting society’s mobility needs whilst minimising negative impacts associated with surface transport.
-
-The module has four main foci:
-1. Understanding the environmental, social and economic impacts of different transport modes;
-2. Identifying and evaluating the efficacy of different modes, mechanisms and methodologies to solve problems of accessibility;
-3. Exploring the social, environmental and distributional consequences of different behavioural, spatial and technological solutions for achieving more sustainable transport;
-4. Introducing the process of transport appraisal and scheme development.
-
-In addressing 1,2 and 4, the module provides an overview of the UK transport policy landscape; introduces the main social and environmental externalities associated with surface transport; outlines the process of policy formation and transport project evaluation in the UK (specifically Welsh) context; and critically considers methods for engaging publics and measuring accessibility.
-
-In addressing the third, policies adopted (both in the UK and internationally) for promoting sustainable mobility are evaluated, key challenges identified and innovative ideas to overcome the challenges discussed and explored.
-
-On completion of the module a student should be able to:
-1. Define and critically assess the main environmental, social and economic impacts of a range of surface transport modes and spatial arrangements within wider issues of economic growth and accumulation
-2. Identify and implement key components of transport project appraisal in relation to achieving sustainability, liveability and accessibility.
-3. Assess the social, environmental and distributional impacts of a range of sustainable transport policies and mode choices.
-4. Critically examine the efficacy of contemporary solutions in a range of contexts.
 ## 3. Sustainable Food Systems
 
 | Semester    | Credits | Code   |

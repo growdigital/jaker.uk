@@ -9,4 +9,4 @@ aliases:
 modified: 2025-10-05T00:45:44+01:00
 date: 2025-10-04T14:43:44+01:00
 ---
-[Principles and Practices of Environmental Governance](/masters/modules/environmental-governance/) CPT914
+[Principles and Practices of Environmental Governance](/masters/modules/sustainable-transport/) CPT903

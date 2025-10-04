@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/sustainable-transport/_index.md",
+                "file": "masters/modules/sustainable-transport/notes/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "_index"
@@ -172,15 +172,15 @@
   },
   "active": "94ba06d823392b07",
   "lastOpenFiles": [
-    "masters/modules/environmental governance/_index.md",
     "masters/modules/sustainable-transport/_index.md",
-    "masters/modules/_index.md",
-    "masters/reading/dissertation.md",
-    "masters/modules/environmental governance/reading/_index.md",
     "masters/modules/sustainable-transport/notes/_index.md",
     "masters/modules/environmental governance/notes/_index.md",
-    "masters/modules/sustainable-food/_index.md",
     "masters/modules/sustainable-transport/reading/_index.md",
+    "masters/modules/_index.md",
+    "masters/modules/environmental governance/_index.md",
+    "masters/reading/dissertation.md",
+    "masters/modules/environmental governance/reading/_index.md",
+    "masters/modules/sustainable-food/_index.md",
     "masters/notes/_index.md",
     "masters/modules/sustainable-transport/reading",
     "masters/modules/environmental governance/reading",
@@ -201,7 +201,6 @@
     "assets/templates/template.md",
     "about.md",
     "blog/251001-surfacing.md",
-    "blog/251004-.md",
     "masters/modules/sustainable-food",
     "masters/modules/sustainable-transport",
     "masters/modules/environmental governance",
