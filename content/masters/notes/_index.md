@@ -7,7 +7,7 @@ weight: "1"
 aliases:
   - notes
   - lectures
-modified: 2025-10-04T22:35:05+01:00
+modified: 2025-10-04T22:52:49+01:00
 date: 2025-10-04T14:43:44+01:00
 ---
 ## [Sustainability, Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc-part-time)

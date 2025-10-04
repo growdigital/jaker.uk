@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/notes/_index.md",
+                "file": "masters/notes/02-sustran/251003-01-module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "251003-01-module"
             }
           }
         ]
@@ -172,13 +172,14 @@
   },
   "active": "946c5bba03f56cc7",
   "lastOpenFiles": [
-    "masters/notes/03-susfood/_index.md",
-    "masters/notes/_index.md",
-    "masters/notes/02-sustran/_index.md",
+    "masters/notes/02-sustran/251003-01-overview-weltan.md",
+    "masters/notes/02-sustran/251003-01-module.md",
     "masters/notes/01-envgov/_index.md",
+    "masters/notes/02-sustran/_index.md",
+    "masters/notes/_index.md",
+    "masters/notes/03-susfood/_index.md",
     "masters/modules/_index.md",
     "masters/notes/01-envgov/251003-01-environment-as-problem.md",
-    "masters/notes/02-sustran/251003-01-overview-weltan.md",
     "251004-unpublished.md",
     "masters/notes/Untitled.md",
     "assets/templates/template.md",
@@ -200,7 +201,6 @@
     "masters/reading/sustainable-transport.md",
     "masters/reading/environmental-governance.md",
     "masters/referencing.md",
-    "_index.md",
     "masters/reading/modules",
     "masters/reading/notes",
     "assets/templates",
