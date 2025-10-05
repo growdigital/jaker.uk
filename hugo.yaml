@@ -103,3 +103,4 @@ markup:
       xhtml: false
 ignoreFiles:
   - 'README'
+  - 'assets/'
