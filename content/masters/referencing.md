@@ -1,5 +1,5 @@
 ---
-title: Citations & referencing
+title: Referencing
 date: 2025-07-23T17:10:47+01:00
 weight: "3"
 modified: 2025-09-11T21:13:49+01:00
