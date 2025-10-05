@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/modules/sustainable-transport/notes/251003-01-overview-weltan.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "251003-01-overview-weltan"
+              "title": "about"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "94ba06d823392b07",
   "lastOpenFiles": [
+    "masters/modules/sustainable-transport/notes/251003-01-overview-weltan.md",
     "masters/modules/environmental governance/reading/_index.md",
     "masters/modules/sustainable-transport/reading/_index.md",
     "masters/modules/sustainable-transport/notes/_index.md",
@@ -195,7 +196,6 @@
     "masters/reading/_index.md",
     "masters/misc/_index.md",
     "masters/modules/sustainable-transport/notes/251003-01-module.md",
-    "masters/modules/sustainable-transport/notes/251003-01-overview-weltan.md",
     "251004-unpublished.md",
     "masters/notes/Untitled.md",
     "assets/templates/template.md",

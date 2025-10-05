@@ -28,4 +28,4 @@ Built using the incredible [Hugo](https://gohugo.io/) static site generator, usi
 10. [Vault Nickname](https://obsidian.md/plugins?id=vault-nickname)
 11. [Zotero Integration](https://obsidian.md/plugins?id=obsidian-zotero-desktop-connector)
 
-If you want to poke around to see how these plugins are used, the website code repository is here github.com/growdigital/jaker.uk and the Obsidian vault with all the plugins is the `content` folder, which is here github.com/growdigital/jaker.uk/tree/main/content
+If you want to poke around to see how these plugins are used, the website code repository is here [github.com/growdigital/jaker.uk](https://github.com/growdigital/jaker.uk) and the Obsidian vault with all the plugins is the `content` folder, which is here [github.com/growdigital/jaker.uk/tree/main/content](https://github.com/growdigital/jaker.uk/tree/main/content).
