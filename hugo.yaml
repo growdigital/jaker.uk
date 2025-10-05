@@ -101,9 +101,5 @@ markup:
       hardWraps: false
       unsafe: true
       xhtml: false
-module:
-  mounts:
-    - source: content
-      target: content
-      excludeFiles:
-        - README
+ignoreFiles:
+  - 'README'
