@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/misc/environment-development/_index.md",
+                "file": "masters/misc/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,10 +172,10 @@
   },
   "active": "c12a192d931f8fad",
   "lastOpenFiles": [
+    "masters/misc/environment-development/_index.md",
     "masters/misc/personal-reading.md",
     "masters/misc/referencing.md",
     "masters/misc/reading.md",
-    "masters/misc/environment-development/_index.md",
     "masters/misc/_index.md",
     "masters/_index.md",
     "masters/modules/_index.md",
