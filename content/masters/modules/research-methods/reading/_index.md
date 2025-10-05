@@ -1,12 +1,12 @@
 ---
-title: Research Methods
+title: Reading
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "6"
+weight: "2"
 aliases:
-modified: 2025-10-05T00:05:51+01:00
+modified: 2025-10-05T12:13:28+01:00
 ---
 ### Research Methods CPT926
 - Babbie E, (1992) The Practice of Social Research, Belmont CA: Wadsworth.

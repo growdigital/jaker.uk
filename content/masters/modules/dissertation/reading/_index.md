@@ -1,12 +1,12 @@
 ---
-title: Dissertation
+title: Reading
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "7"
+weight: "2"
 aliases:
-modified: 2025-10-05T00:06:24+01:00
+modified: 2025-10-05T12:12:03+01:00
 ---
 ### Dissertation CPT508
 1. ==Biggam J. (2008) Succeeding with you Master's Dissertation: A Step-by-Step Handbook, McGraw Hill/Open University Press: Maidenhead.==

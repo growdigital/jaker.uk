@@ -1,5 +1,5 @@
 ---
-title: Reading lists
+title: General reading
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
@@ -7,7 +7,7 @@ draft: false
 weight: "1"
 aliases:
   - reading-list
-modified: 2025-09-28T22:40:13+01:00
+modified: 2025-10-05T12:14:48+01:00
 ---
 ## [Sustainability, Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc-part-time)
 1. ***Year 1***

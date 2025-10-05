@@ -1,12 +1,12 @@
 ---
-title: Urban & Regional Economies
+title: Reading
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "5"
+weight: "2"
 aliases:
-modified: 2025-10-05T00:05:28+01:00
+modified: 2025-10-05T12:13:45+01:00
 ---
 ### Urban & Regional Economies CPT929
 ## Essential
