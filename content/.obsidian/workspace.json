@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/referencing.md",
+                "file": "masters/misc/environment-development/reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "referencing"
+              "title": "reading"
             }
           }
         ]
@@ -172,22 +172,25 @@
   },
   "active": "41fc325169e1ab9c",
   "lastOpenFiles": [
+    "masters/misc/environment-development/modules.md",
+    "masters/misc/environment-development/_index.md",
+    "masters/_index.md",
+    "_index.md",
+    "masters/misc/environment-development/reading.md",
+    "masters/misc/personal-reading.md",
+    "masters/misc/_index.md",
+    "masters/misc/environment-development",
+    "masters/referencing.md",
     "blog/250808-ideas.md",
     "ideas.md",
     "masters/modules/reading.md",
-    "masters/_index.md",
     "masters/modules/_index.md",
-    "_index.md",
-    "masters/referencing.md",
     "masters/modules/urban-regional/reading/_index.md",
     "masters/reading/urban-regional-economies.md",
     "masters/modules/urban-regional/_index.md",
     "masters/modules/research-methods/reading/_index.md",
     "masters/reading/research-methods.md",
-    "masters/misc/personal-reading.md",
-    "masters/misc/envdev-reading.md",
     "masters/reading/dissertation.md",
-    "masters/misc/envdev-modules.md",
     "masters/modules/dissertation/reading/_index.md",
     "masters/modules/dissertation/_index.md",
     "masters/modules/dissertation/reading",
@@ -201,12 +204,9 @@
     "masters/modules/sustainable-transport/notes/251003-01-overview-weltan.md",
     "masters/modules/sustainable-transport/notes/251003-01-module.md",
     "masters/modules/sustainable-transport/notes",
-    "masters/modules/research-methods/notes/_index.md",
-    "masters/modules/research-methods/notes/251003-01-overview-weltan.md",
     "masters/modules/research-methods/reading",
     "masters/modules/research-methods/notes",
     "masters/modules/research-methods",
-    "masters/modules/urban-regional (copy)/reading",
-    "masters/modules/urban-regional (copy)/notes"
+    "masters/modules/urban-regional (copy)/reading"
   ]
 }

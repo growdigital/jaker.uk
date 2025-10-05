@@ -1,10 +1,9 @@
 ---
-title: Modules Environment & Development
-weight: "1"
+title: Environment & Development Modules
+weight: "2"
+modified: 2025-10-05T16:34:32+01:00
 ---
 *I was originally looking at Environment & Development masters but it’s not available part-time.*
-
-Modules for [MSc Environment & Development](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc)
 1. [Development and Urbanisation Processes](#1-development-and-urbanisation-processes)
 2. [Principles and Practices of Environmental Governance](#2-principles-and-practices-of-environmental-governance)
 3. [Environmental Policy and Climate Change](#3-environmental-policy-and-climate-change)`‡`
@@ -12,7 +11,6 @@ Modules for [MSc Environment & Development](https://www.cardiff.ac.uk/study/post
 5. [Research Methods](#5-research-methods)
 6. [Sustainable Food Systems](#6-sustainable-food-systems)`‡`
 7. [Dissertation](#7-dissertation)
-
 ## 1. Development and Urbanisation Processes
 
 | Semester | Credits | Code   |

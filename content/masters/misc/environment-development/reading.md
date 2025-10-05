@@ -4,10 +4,10 @@ date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "11"
+weight: "3"
 aliases:
   - reading-list
-modified: 2025-10-05T00:02:49+01:00
+modified: 2025-10-05T16:34:39+01:00
 ---
 ## [Env & Dev MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc) bibliography
 1. Agyeman, J. et al. (eds). 2002. *[Just Sustainabilities: Development in an Unequal World](https://f001.backblazeb2.com/file/jakerMSc/Agyeman_Just+Sustainabilities_2002.pdf)*. London: Earthscan. 📕 ⬇️ 
