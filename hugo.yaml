@@ -24,6 +24,11 @@ menu:
       url: "https://github.com/growdigital/jaker.uk"
       params:
         icon: github
+    - name: Mastodon
+      weight: 6
+      url: "https://c.im/@jaker"
+      params:
+        icon: mastodon
 # Parse Git commit
 enableGitInfo: true
 params:
