@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-weight: "10"
-modified: 2025-09-24T00:45:55+01:00
+weight: "15"
+modified: 2025-10-05T16:42:19+01:00
 ---
 Random stuff related to masters
