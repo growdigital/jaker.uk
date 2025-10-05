@@ -4,8 +4,8 @@ tags:
   - 
 draft: false
 date: 2025-10-05T16:33:26+01:00
-modified: 2025-10-05T16:35:31+01:00
-weight: "1"
+modified: 2025-10-05T16:47:24+01:00
+weight: "3"
 ---
 *I was originally looking at Environment & Development masters but it’s not available part-time.*
 ### [MSc Environment & Development](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/environment-and-development-msc)

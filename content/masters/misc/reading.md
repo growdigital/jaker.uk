@@ -4,10 +4,10 @@ date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "8"
+weight: "1"
 aliases:
   - reading-list
-modified: 2025-10-05T12:46:47+01:00
+modified: 2025-10-05T16:46:55+01:00
 ---
 1. ***Year 1***
     1. *Autumn 2025*

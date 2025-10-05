@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/_index.md",
+                "file": "masters/misc/environment-development/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,8 +172,13 @@
   },
   "active": "c12a192d931f8fad",
   "lastOpenFiles": [
+    "masters/misc/personal-reading.md",
+    "masters/misc/referencing.md",
+    "masters/misc/reading.md",
+    "masters/misc/environment-development/_index.md",
+    "masters/misc/_index.md",
+    "masters/_index.md",
     "masters/modules/_index.md",
-    "masters/reading.md",
     "masters/urban-regional/reading/_index.md",
     "masters/urban-regional/reading",
     "masters/urban-regional/_index.md",
@@ -202,11 +207,6 @@
     "masters/environmental governance/notes/251003-01-environment-as-problem.md",
     "masters/environmental governance/_index.md",
     "masters/dissertation/reading/_index.md",
-    "masters/dissertation/_index.md",
-    "masters/_index.md",
-    "masters/misc/environment-development/reading.md",
-    "masters/misc/environment-development/modules.md",
-    "masters/misc/environment-development/_index.md",
-    "masters/misc/_index.md"
+    "masters/dissertation/_index.md"
   ]
 }

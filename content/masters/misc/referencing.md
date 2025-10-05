@@ -1,8 +1,8 @@
 ---
 title: Referencing
 date: 2025-07-23T17:10:47+01:00
-weight: "1"
-modified: 2025-10-05T16:41:50+01:00
+weight: "2"
+modified: 2025-10-05T16:47:00+01:00
 ---
 - Use [Cardiff Harvard Referencing](https://xerte.cardiff.ac.uk/play_4191#page1)
 - [Zotero](https://www.zotero.org/) [for Debian](https://github.com/retorquere/zotero-deb)
