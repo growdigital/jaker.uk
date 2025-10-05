@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "masters/environmental governance/assessment/a-group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "a-group"
             }
           }
         ]
@@ -172,7 +172,15 @@
   },
   "active": "c12a192d931f8fad",
   "lastOpenFiles": [
+    "masters/environmental governance/assessment/b-individual.md",
+    "masters/environmental governance/assessment/a-group.md",
+    "masters/environmental governance/assessment/_index.md",
+    "masters/environmental governance/assessment/Assessment a.md",
+    "masters/environmental governance/reading/_index.md",
     "masters/environmental governance/notes/_index.md",
+    "masters/environmental governance/notes/251003-01-environment-as-problem.md",
+    "masters/environmental governance/assessment",
+    "about.md",
     "README.md",
     "masters/misc/_index.md",
     "masters/misc/environment-development/_index.md",
@@ -199,14 +207,6 @@
     "masters/sustainable-food",
     "masters/research-methods/reading/_index.md",
     "masters/research-methods/reading",
-    "masters/research-methods/_index.md",
-    "masters/research-methods",
-    "masters/environmental-policy/reading/_index.md",
-    "masters/environmental-policy/reading",
-    "masters/environmental-policy/_index.md",
-    "masters/environmental governance/reading/_index.md",
-    "masters/environmental governance/notes/251003-01-environment-as-problem.md",
-    "masters/environmental governance/_index.md",
-    "masters/dissertation/reading/_index.md"
+    "masters/research-methods"
   ]
 }
