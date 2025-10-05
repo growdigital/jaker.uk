@@ -6,11 +6,11 @@ tags:
   - individual
 draft: false
 date: 2025-10-05T20:44:17+01:00
-modified: 2025-10-05T21:24:55+01:00
+modified: 2025-10-05T22:52:44+01:00
 ---
 - *Title*: Critical examination of a relevant environmental issue and related governance interventions.
 - *Type*: Essay
-- *Date*: **Thu 13 Nov 2025**
+- *Date*: **Thu 8 Jan 2026**
 - Individual, 3,000 words
 - 75% final module mark
 
@@ -37,3 +37,5 @@ The aim of this assessment is to enable you to critically engage in-depth with a
 - Critical thinking and creativity
 
 Please note that marks for substance and structure will be affected if you exceed the word limit.
+
+*Agricultural intensification & capitalism?*

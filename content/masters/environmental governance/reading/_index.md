@@ -5,16 +5,16 @@ tags:
   - books
 draft: false
 weight: "1"
-modified: 2025-10-05T20:37:40+01:00
+modified: 2025-10-05T23:03:01+01:00
 ---
 ### Basic reading 2025/26
 1. Adger, W.N. and Jordan, A. (eds). 2009. *Governing Sustainability*. Cambridge University Press: Cambridge.
 2. Ansell, C. and Torfing, J. (eds). 2016. *Handbook on Theories of Governance*. E. Elgar: Cheltenham.
 3. Barry, J. and Eckersley, R. (eds.). 2005. *The State and the Global Ecological Crisis*. MIT Press: Cambridge.
 4. Biermann, F. et al. (eds.). 2009. *International Organizations in Global Environmental Governance*. Routledge: London.
-5. Castree, N. and Braun, B. (eds.). 2001. *Social Nature: Theory, Practice and Politics*. John Wiley & Sons: Oxford.
+5. Castree, N. and Braun, B. (eds.). 2001. *Social Nature : Theory, Practice and Politics*. John Wiley & Sons: Oxford.
 6. Connelly, J. and Smith, G. 2012. *Politics and the Environment from Theory to Practice*. 3rd ed. Routledge: London.
-7. Coolsaet, B. (ed.). 2021. *Environmental Justice: Key Issues*. Taylor & Francis: London.
+7. Coolsaet, B. (ed.). 2021. *Environmental Justice : Key Issues*. Taylor & Francis: London.
 8. ==Cronon, W. (ed.). 1995. *Uncommon Ground: Rethinking the Human Place in Nature*. North & Company: New York.==
 9. Dauvergne, P. (ed.). 2012. *Handbook of Global Env. Politics*. Edward Elgar: Cheltenham.
 10. Descola, P. et Pàlsson, G. (eds). 1996. *Nature and Society: Anthropological Perspectives*. Routledge: London.
@@ -41,7 +41,7 @@ modified: 2025-10-05T20:37:40+01:00
 31. Pepper, D. 1984. *The Roots of Modern Environmentalism*. Croom Helm: London.
 32. Saunier, R.E. and Meganck, R A. 2009. *Dictionary and Introduction to Global Environmental Governance*. Routledge: London.
 33. Swyngedouw, E. 2004. *Social Power and the Urbanization of Water*. OUP: Oxford.
-34. White, D. et al. 2016. *Environments, Natures and Social Theory*. Palgrave: London.
+34. ==White, D. et al. 2016. *Environments, Natures and Social Theory*. Palgrave: London.==
 35. Wilson, J. and Swyngedouw, E. (eds.). 2015. *The Post-political and its Discontents : Spaces of Depoliticization, Spectres of Radical Politics*. Edinburgh University Press: Edinburgh.
 36. In addition: regularly check the *Dictionary of Human Geography*
 37. several relevant academic journals (Capitalism Nature Socialism, Environment & Planning, Geoforum, Antipode, etc.); you should use Scopus for bibliographic searches ([www.scopus.com](http://www.scopus.com/))
