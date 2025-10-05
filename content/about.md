@@ -15,7 +15,7 @@ Web designer in a previous life.
 ## About the website
 This is somewhere I can post notes about my work and random shit.
 
-Built using the incredible [Hugo](https://gohugo.io/) static site generator, using the rather nice [Hextra theme](https://imfing.github.io/hextra/) with [Heroicons](https://v1.heroicons.com/). Content created with the mighty [Obsidian](https://obsidian.md/) using the [Typewriter theme](https://github.com/crashmoney/obsidian-typewriter) and these super useful community plugins:
+Built using the incredible [Hugo](https://gohugo.io/) static site generator, using the rather nice [Hextra theme](https://imfing.github.io/hextra/) with [Heroicons](https://v1.heroicons.com/) (plus [extra](https://imfing.github.io/hextra/docs/guide/shortcodes/icon/)). Content created with the mighty [Obsidian](https://obsidian.md/) using the [Typewriter theme](https://github.com/crashmoney/obsidian-typewriter) and these super useful community plugins:
 1. [~~Better Word Count~~](https://obsidian.md/plugins?id=better-word-count) (built-in to Typewriter theme)
 2. [Code Editor Shortcuts](https://obsidian.md/plugins?id=obsidian-editor-shortcuts)
 3. [Copy as HTML](https://obsidian.md/plugins?id=copy-as-html)

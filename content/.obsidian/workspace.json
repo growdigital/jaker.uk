@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/misc/_index.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "about"
             }
           }
         ]
@@ -172,11 +172,13 @@
   },
   "active": "c12a192d931f8fad",
   "lastOpenFiles": [
+    "masters/environmental governance/notes/_index.md",
+    "README.md",
+    "masters/misc/_index.md",
     "masters/misc/environment-development/_index.md",
     "masters/misc/personal-reading.md",
     "masters/misc/referencing.md",
     "masters/misc/reading.md",
-    "masters/misc/_index.md",
     "masters/_index.md",
     "masters/modules/_index.md",
     "masters/urban-regional/reading/_index.md",
@@ -203,10 +205,8 @@
     "masters/environmental-policy/reading",
     "masters/environmental-policy/_index.md",
     "masters/environmental governance/reading/_index.md",
-    "masters/environmental governance/notes/_index.md",
     "masters/environmental governance/notes/251003-01-environment-as-problem.md",
     "masters/environmental governance/_index.md",
-    "masters/dissertation/reading/_index.md",
-    "masters/dissertation/_index.md"
+    "masters/dissertation/reading/_index.md"
   ]
 }
