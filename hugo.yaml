@@ -33,7 +33,7 @@ menu:
       weight: 8
       url: "mailto:hi@jaker.uk"
       params:
-        icon: email
+        icon: mail
 # Parse Git commit
 enableGitInfo: true
 params:
