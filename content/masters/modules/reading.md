@@ -7,7 +7,7 @@ draft: false
 weight: "8"
 aliases:
   - reading-list
-modified: 2025-10-05T12:21:41+01:00
+modified: 2025-10-05T12:46:47+01:00
 ---
 1. ***Year 1***
     1. *Autumn 2025*

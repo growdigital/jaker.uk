@@ -29,6 +29,11 @@ menu:
       url: "https://c.im/@jaker"
       params:
         icon: mastodon
+    - name: Email
+      weight: 8
+      url: "mailto:hi@jaker.uk"
+      params:
+        icon: email
 # Parse Git commit
 enableGitInfo: true
 params:
