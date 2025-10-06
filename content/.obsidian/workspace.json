@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251008-mastofeed.md",
+                "file": "blog/251007-man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251008-mastofeed"
+              "title": "251007-man"
             }
           }
         ]
@@ -167,14 +167,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "slides-extended:Show slide preview": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8dc09b6926b3de3f",
+  "active": "6eac94253163f7cf",
   "lastOpenFiles": [
-    "251008-mastofeed.md",
-    "251007-man.md",
+    "blog/251008-mastofeed.md",
+    "blog/251007-man.md",
     "blog/250811-this-is-america.md",
     "masters/environmental governance/assessment/_index.md",
     "masters/environmental governance/assessment/b-individual-essay.md",
