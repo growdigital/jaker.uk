@@ -3,7 +3,7 @@ title: 1. Environment as problem
 tags:
 draft: false
 date: 2025-10-03T08:54:04+01:00
-modified: 2025-10-05T22:54:53+01:00
+modified: 2025-10-05T23:05:08+01:00
 Modified: 2025-10-04T22:20:36+01:00
 ---
 > Our basic category of analysis is the totality of relations
