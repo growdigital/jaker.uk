@@ -4,7 +4,7 @@ tags:
   - admin
   - tech
   - Mastodon
-draft: true
+draft: false
 date: 2025-10-06T17:31:09+01:00
 modified: 2025-10-06T17:31:09+01:00
 ---

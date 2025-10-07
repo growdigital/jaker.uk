@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "blog/251008-mastofeed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "251008-mastofeed"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "active": "4faee13e95194248",
   "lastOpenFiles": [
+    "blog/251007-man.md",
     "Lecture 1.md",
     "blog/251003-.md",
     "blog/251004-.md",
