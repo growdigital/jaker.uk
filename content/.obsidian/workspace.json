@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a0341e3aff4102",
+        "id": "80eaf4b8226f211d",
         "type": "tabs",
         "children": [
           {
-            "id": "4ad395595a5e4010",
+            "id": "10518ed6c42e56ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "masters/environmental governance/02-conventional-env-statehood/reading.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "reading"
+              "title": "New tab"
             }
           }
         ]
@@ -170,13 +166,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4ad395595a5e4010",
+  "active": "10518ed6c42e56ce",
   "lastOpenFiles": [
+    "assets/templates/template.md",
+    "masters/environmental governance/02-conventional-env-statehood/reading.md",
     "masters/environmental governance/02-conventional-env-statehood/notes.md",
     "masters/environmental governance/01-env-as-problem/reading.md",
     "masters/environmental governance/01-env-as-problem/notes.md",
     "masters/environmental governance/01-env-as-problem/_index.md",
-    "masters/environmental governance/02-conventional-env-statehood/reading.md",
     "masters/environmental governance/assessment/b-individual-essay.md",
     "masters/environmental governance/assessment/a-group-report.md",
     "masters/environmental governance/reading/_index.md",
@@ -199,7 +196,6 @@
     "masters/02-conventional-env-statehood/reading/_index.md",
     "masters/02-conventional-env-statehood/assessment/b-individual-essay.md",
     "masters/02-conventional-env-statehood/assessment/a-group-report.md",
-    "masters/02-conventional-env-statehood/assessment/_index.md",
     "masters/02-conventional-env-statehood/reading",
     "masters/02-conventional-env-statehood/lectures",
     "masters/02-conventional-env-statehood/assessment",
