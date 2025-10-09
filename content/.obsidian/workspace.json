@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/environmental governance/02-conventional-env-statehood/reading.md",
+                "file": "masters/environmental governance/assessment/b-individual-essay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reading"
+              "title": "b-individual-essay"
             }
           }
         ]
@@ -172,10 +172,14 @@
   },
   "active": "4ad395595a5e4010",
   "lastOpenFiles": [
-    "masters/environmental governance/02-conventional-env-statehood/notes.md",
-    "masters/environmental governance/02-conventional-env-statehood/reading.md",
-    "masters/environmental governance/01-env-as-problem/reading.md",
+    "masters/environmental governance/assessment/a-group-report.md",
+    "masters/environmental governance/assessment/b-individual-essay.md",
+    "masters/environmental governance/reading/_index.md",
     "masters/environmental governance/01-env-as-problem/notes.md",
+    "masters/environmental governance/notes/251003-01-environment-as-problem.md",
+    "masters/environmental governance/02-conventional-env-statehood/reading.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes.md",
+    "masters/environmental governance/01-env-as-problem/reading.md",
     "masters/environmental governance/_index.md",
     "masters/environmental governance/_index.sync-conflict-20251009-200650-JVZMQN3.md",
     "blog/251007-man.sync-conflict-20251009-200649-JVZMQN3.md",
@@ -186,7 +190,6 @@
     "blog/251007-man.sync-conflict-20251009-200642-JVZMQN3.md",
     "masters/environmental governance/_index.sync-conflict-20251009-200642-JVZMQN3.md",
     "masters/environmental governance/notes/_index.md",
-    "masters/environmental governance/notes/251003-01-environment-as-problem.md",
     "masters/environmental governance/notes",
     "masters/environmental governance/assessment/_index.md",
     "masters/environmental governance/02-conventional-env-statehood/_index.md",
@@ -197,9 +200,6 @@
     "masters/02-conventional-env-statehood/assessment/b-individual-essay.md",
     "masters/02-conventional-env-statehood/assessment/a-group-report.md",
     "masters/02-conventional-env-statehood/assessment/_index.md",
-    "masters/02-conventional-env-statehood/01-env-as-problem/notes.md",
-    "masters/02-conventional-env-statehood/01-env-as-problem/_index.md",
-    "masters/02-conventional-env-statehood/01-env-as-problem/02-conventional-env-statehood.md",
     "masters/02-conventional-env-statehood/reading",
     "masters/02-conventional-env-statehood/lectures",
     "masters/02-conventional-env-statehood/assessment",
