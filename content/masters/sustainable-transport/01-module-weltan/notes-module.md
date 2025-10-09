@@ -3,7 +3,9 @@ title: 1. Module overview
 tags:
 draft: false
 date: 2025-10-03T15:11:48+01:00
-modified: 2025-10-04T22:57:05+01:00
+modified: 2025-10-09T20:51:36+01:00
+weight: "2"
+staff: Mirka Virtanen
 ---
 ## Today
 1. Transport Futures
