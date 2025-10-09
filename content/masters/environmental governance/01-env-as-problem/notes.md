@@ -3,7 +3,8 @@ title: Notes
 tags:
 draft: false
 date: 2025-10-03T08:54:04+01:00
-modified: 2025-10-09T20:18:25+01:00
+modified: 2025-10-09T20:25:57+01:00
+weight: "2"
 ---
 > Our basic category of analysis is the totality of relations
 
