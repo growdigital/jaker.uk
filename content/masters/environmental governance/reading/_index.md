@@ -4,7 +4,7 @@ date: 2025-07-22T17:55:56+01:00
 tags:
   - books
 draft: false
-weight: "1"
+weight: "40"
 modified: 2025-10-05T23:03:01+01:00
 ---
 ### Basic reading 2025/26
