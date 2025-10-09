@@ -1,10 +1,10 @@
 ---
-title: Reading for 2. Conventional Environmental Statehood
+title: Reading
 tags:
   - 
 draft: false
 date: 2025-10-09T00:06:54+01:00
-modified: 2025-10-09T20:19:28+01:00
+modified: 2025-10-09T20:23:54+01:00
 ---
 ## Read first
 - Fiorino, D.J. 2006. The New Environmental Regulation. MIT Press: Cambridge, MS. [chapters 1, 2, 3 and 6] 
