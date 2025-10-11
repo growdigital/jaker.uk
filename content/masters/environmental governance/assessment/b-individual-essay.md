@@ -7,6 +7,7 @@ tags:
 draft: false
 date: 2025-10-05T20:44:17+01:00
 modified: 2025-10-09T20:23:40+01:00
+weight: "32"
 ---
 - *Title*: Critical examination of a relevant environmental issue and related governance interventions.
 - *Type*: Essay

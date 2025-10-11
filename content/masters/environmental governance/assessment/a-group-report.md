@@ -6,7 +6,8 @@ tags:
   - report
 draft: false
 date: 2025-10-05T20:43:52+01:00
-modified: 2025-10-09T20:20:08+01:00
+modified: 2025-10-11T14:17:31+01:00
+weight: "31"
 ---
 - *Title*: A briefing report to a government agency, outlining a proposed local initiative that should aim to influence personal behaviour, help to mitigate climate change and promote environmental justice.
 - *Type*: Report

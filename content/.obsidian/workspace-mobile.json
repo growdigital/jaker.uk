@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05047b7b0b1e33b1",
+        "id": "57c00eda9d286011",
         "type": "tabs",
         "children": [
           {
-            "id": "4faee13e95194248",
+            "id": "83860ded9c19fcea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/251008-mastofeed.md",
+                "file": "masters/sustainable-transport/02-problems-mapping/notes-surface-transport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251008-mastofeed"
+              "title": "notes-surface-transport"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lecture 1.md",
+            "file": "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,8 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4faee13e95194248",
+  "active": "83860ded9c19fcea",
   "lastOpenFiles": [
+    "masters/sustainable-transport/02-problems-mapping/notes-mapping-problems.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
+    "masters/sustainable-transport/02-problems-mapping/notes-surface-transport.md",
+    "masters/environmental governance/01-env-as-problem/notes.md",
+    "masters/environmental governance/01-env-as-problem/_index.md",
+    "blog/251008-mastofeed.md",
     "blog/251007-man.md",
     "Lecture 1.md",
     "blog/251003-.md",
@@ -174,9 +181,6 @@
     "Urban.md",
     "masters/modules/env+dev.md",
     "masters/referencing.md",
-    "masters/reading-list/plunder.md",
-    "README.md",
-    "about.md",
-    "masters/reading-list/_index.md"
+    "masters/reading-list/plunder.md"
   ]
 }
