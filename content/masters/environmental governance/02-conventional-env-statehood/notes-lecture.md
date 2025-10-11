@@ -1,9 +1,9 @@
 ---
 title: Notes lecture
 tags:
-draft: true
+draft: false
 date: 2025-10-03T08:54:04+01:00
-modified: 2025-10-10T18:40:23+01:00
+modified: 2025-10-11T14:18:03+01:00
 weight: "2"
 staff: Antonio Ioris
 ---

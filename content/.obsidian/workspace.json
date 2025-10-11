@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/environmental governance/assessment/b-individual-essay.md",
+                "file": "masters/environmental governance/02-conventional-env-statehood/reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b-individual-essay"
+              "title": "reading"
             }
           }
         ]
@@ -170,8 +170,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "10518ed6c42e56ce",
   "lastOpenFiles": [
+    "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
+    "masters/environmental governance/assessment/b-individual-essay.md",
     "masters/environmental governance/assessment/a-group-report.md",
     "masters/environmental governance/assessment/_index.md",
     "masters/sustainable-transport/01-module-weltan/notes-module.md",
@@ -188,13 +191,10 @@
     "masters/sustainable-transport/01-module-weltan/notes-weltan.md",
     "masters/sustainable-transport/01-module-weltan",
     "masters/environmental governance/02-conventional-env-statehood/reading.md",
-    "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
-    "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
     "masters/environmental governance/02-conventional-env-statehood/_index.md",
     "masters/environmental governance/01-env-as-problem/notes.md",
     "masters/environmental governance/01-env-as-problem/reading.md",
     "masters/environmental governance/01-env-as-problem/_index.md",
-    "masters/environmental governance/assessment/b-individual-essay.md",
     "masters/environmental governance/reading/_index.md",
     "masters/environmental governance/notes/251003-01-environment-as-problem.md",
     "masters/environmental governance/_index.md",
