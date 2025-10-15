@@ -22,19 +22,26 @@ Key themes:
 6. liveability
 7. accessibility
 ## Schedule
+
+### Week 1
+*Fri 3 Oct*
 Assessment one and two already up.
 Presentations Week 9 - 
-### Week 2 
+### Week 2
+*Fri 10 Oct*
 -allan 
 surface transport problems
 seminar mapping problems & generating insights
 ### Week 3 
+*Fri 17 Oct* - away
 allan - lecture what 
 Mirka - seminar preparing for Cogan site visit
 ### Week 4 
+*Fri 24 Oct*
 2.15 - Cogan station car park
 Cathay to Cogans, train
 ### Week 5
+*Fri 31 Oct*
 Allan - lecture accessibility and TfL PTAL
 Seminar - Mirka , calculating accessibilty with environmental? justice
 ### Week 6 - reading week

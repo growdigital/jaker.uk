@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/environmental governance/02-conventional-env-statehood/reading.md",
+                "file": "251014-have-you-met-the-poor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reading"
+              "title": "251014-have-you-met-the-poor"
+            }
+          },
+          {
+            "id": "225fec3af31801af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "masters/sustainable-transport/assessment/2-group-report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-group-report"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,37 +185,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "10518ed6c42e56ce",
+  "active": "225fec3af31801af",
   "lastOpenFiles": [
-    "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
-    "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
-    "masters/environmental governance/assessment/b-individual-essay.md",
-    "masters/environmental governance/assessment/a-group-report.md",
-    "masters/environmental governance/assessment/_index.md",
-    "masters/sustainable-transport/01-module-weltan/notes-module.md",
+    "masters/sustainable-transport/assessment/1-individual-presentation.md",
+    "masters/sustainable-transport/assessment/2-group-report.md",
+    "masters/environmental governance/01-env-as-problem/notes.md",
+    "masters/environmental governance/01-env-as-problem/_index.md",
+    "251014-have-you-met-the-poor.md",
     "masters/sustainable-transport/02-problems-mapping/notes-surface-transport.md",
     "masters/sustainable-transport/02-problems-mapping/notes-mapping-problems.md",
-    "assets/templates/template.md",
     "masters/sustainable-transport/02-problems-mapping/_index.md",
+    "masters/sustainable-transport/01-module-weltan/notes-weltan.md",
+    "masters/sustainable-transport/01-module-weltan/notes-module.md",
+    "masters/environmental governance/assessment/a-group-report.md",
+    "masters/environmental governance/assessment/b-individual-essay.md",
+    "masters/environmental governance/02-conventional-env-statehood/reading.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
+    "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
+    "masters/environmental governance/assessment/_index.md",
+    "assets/templates/template.md",
     "masters/sustainable-transport/01-module-weltan/_index.md",
     "masters/sustainable-transport/02-problems-mapping 1",
     "masters/sustainable-transport/02-problems-mapping",
     "masters/sustainable-transport/assessment/_index.md",
     "masters/sustainable-transport/reading/_index.md",
     "masters/sustainable-transport/_index.md",
-    "masters/sustainable-transport/01-module-weltan/notes-weltan.md",
     "masters/sustainable-transport/01-module-weltan",
-    "masters/environmental governance/02-conventional-env-statehood/reading.md",
     "masters/environmental governance/02-conventional-env-statehood/_index.md",
-    "masters/environmental governance/01-env-as-problem/notes.md",
     "masters/environmental governance/01-env-as-problem/reading.md",
-    "masters/environmental governance/01-env-as-problem/_index.md",
     "masters/environmental governance/reading/_index.md",
     "masters/environmental governance/notes/251003-01-environment-as-problem.md",
     "masters/environmental governance/_index.md",
-    "masters/environmental governance/_index.sync-conflict-20251009-200650-JVZMQN3.md",
-    "blog/251007-man.sync-conflict-20251009-200649-JVZMQN3.md",
-    "blog/251007-man.sync-conflict-20251009-200648-JVZMQN3.md",
     "masters/environmental governance/notes",
     "masters/environmental governance/02-conventional-env-statehood",
     "masters/02-conventional-env-statehood/reading",

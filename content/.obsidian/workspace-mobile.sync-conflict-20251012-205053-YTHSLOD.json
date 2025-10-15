@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/environmental governance/01-env-as-problem/notes.md",
+                "file": "masters/sustainable-transport/01-module-weltan/notes-module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "notes-module"
             }
           }
         ]
@@ -155,7 +155,6 @@
   },
   "active": "83860ded9c19fcea",
   "lastOpenFiles": [
-    "blog/_index.md",
     "masters/sustainable-transport/02-problems-mapping/notes-surface-transport.md",
     "masters/sustainable-transport/02-problems-mapping/notes-mapping-problems.md",
     "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
@@ -181,6 +180,7 @@
     "masters/modules/susplan.md",
     "Urban.md",
     "masters/modules/env+dev.md",
-    "masters/referencing.md"
+    "masters/referencing.md",
+    "masters/reading-list/plunder.md"
   ]
 }

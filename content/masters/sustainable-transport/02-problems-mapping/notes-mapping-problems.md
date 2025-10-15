@@ -1,5 +1,5 @@
 ---
-title: 2. Surface transport & mapping problems - Seminar
+title: Mapping problems - Seminar
 tags:
   - transport
   - map
@@ -9,7 +9,7 @@ draft: false
 weight: "3"
 staff: Allan Peñafiel-Mera
 date: 2025-10-09T20:54:08+01:00
-modified: 2025-10-10T16:04:59+01:00
+modified: 2025-10-13T08:20:45+01:00
 ---
 - GIS training in university - check software portal
 - Wider context: Population, spatial, movement patterns
