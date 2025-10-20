@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/environmental governance/01-env-as-problem/notes.md",
+                "file": "masters/environmental governance/03-flexible-env-statehood/reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "reading"
             }
           }
         ]
@@ -155,12 +155,14 @@
   },
   "active": "83860ded9c19fcea",
   "lastOpenFiles": [
+    "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150640-E7AQPXJ.md",
+    "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150641-E7AQPXJ.md",
+    "masters/environmental governance/01-env-as-problem/notes.md",
     "blog/_index.md",
     "masters/sustainable-transport/02-problems-mapping/notes-surface-transport.md",
     "masters/sustainable-transport/02-problems-mapping/notes-mapping-problems.md",
     "masters/environmental governance/02-conventional-env-statehood/notes-lecture.md",
     "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
-    "masters/environmental governance/01-env-as-problem/notes.md",
     "masters/environmental governance/01-env-as-problem/_index.md",
     "blog/251008-mastofeed.md",
     "blog/251007-man.md",
@@ -179,8 +181,6 @@
     "temp.md",
     "masters/_index.md",
     "masters/modules/susplan.md",
-    "Urban.md",
-    "masters/modules/env+dev.md",
-    "masters/referencing.md"
+    "Urban.md"
   ]
 }
