@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/251022-healthy-streets.md",
+                "file": "masters/01-environmental governance/04-interrogating-governance/reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251022-healthy-streets"
+              "title": "reading"
             }
           }
         ]
@@ -170,10 +170,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "4ac5780df74f589a",
   "lastOpenFiles": [
-    "slides/251024-deliberative-democracy.md",
+    "masters/01-environmental governance/05-climate-governance/reading.md",
+    "masters/01-environmental governance/04-interrogating-governance/reading.md",
+    "masters/01-environmental governance/03-flexible-env-statehood/reading.md",
+    "masters/01-environmental governance/05-climate-governance",
+    "masters/01-environmental governance/04-interrogating-governance/interrogating-governance-notes.md",
     "blog/251022-healthy-streets.md",
+    "masters/01-environmental governance/04-interrogating-governance/Untitled",
+    "slides/251024-deliberative-democracy.md",
     "Healthy Streets by Lucy Saunders.md",
     "blog/250729-music.md",
     "about.md",
@@ -182,7 +188,6 @@
     "blog/251008-mastofeed.md",
     "blog/251007-man.md",
     "masters/_index.md",
-    "masters/01-environmental governance/03-flexible-env-statehood/reading.md",
     "masters/01-environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150641-E7AQPXJ.md",
     "masters/01-environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150640-E7AQPXJ.md",
     "masters/01-environmental governance/01-env-as-problem/_index.md",
@@ -198,15 +203,10 @@
     "masters/01-environmental governance/01-env-as-problem/notes.md",
     "masters/02-sustainable-transport/02-problems-mapping/notes-surface-transport.md",
     "masters/02-sustainable-transport/02-problems-mapping/notes-mapping-problems.md",
-    "masters/02-sustainable-transport/01-module-weltan/notes-weltan.md",
-    "masters/02-sustainable-transport/01-module-weltan/notes-module.md",
-    "masters/01-environmental governance/assessment/a-group-report.md",
     "masters/sustainable-transport/02-problems-mapping 1",
     "masters/02-sustainable-transport/02-problems-mapping",
     "masters/02-sustainable-transport/01-module-weltan",
     "masters/environmental governance/notes",
-    "masters/01-environmental governance/02-conventional-env-statehood",
-    "masters/02-conventional-env-statehood/reading",
-    "masters/02-conventional-env-statehood/lectures"
+    "masters/01-environmental governance/02-conventional-env-statehood"
   ]
 }

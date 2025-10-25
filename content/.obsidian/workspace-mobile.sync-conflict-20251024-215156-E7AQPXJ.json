@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4af5b583e1ce5d",
+        "id": "57c00eda9d286011",
         "type": "tabs",
         "children": [
           {
-            "id": "e929ccbea31e0d41",
+            "id": "83860ded9c19fcea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "masters/01-environmental governance/04-interrogating-governance/interrogating-governance-notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "interrogating-governance-notes"
+              "title": "New tab"
             }
           }
         ]
@@ -98,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/01-environmental governance/04-interrogating-governance/interrogating-governance-notes.md",
+            "file": "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,13 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e929ccbea31e0d41",
+  "active": "83860ded9c19fcea",
   "lastOpenFiles": [
-    "masters/01-environmental governance/assessment/a-group-report.md",
-    "masters/01-environmental governance/04-interrogating-governance/interrogating-governance-notes.md",
-    "masters/01-environmental governance/04-interrogating-governance",
-    "blog/251022-healthy-streets.md",
-    "masters/01-environmental governance/assessment/b-individual-essay.md",
     "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150640-E7AQPXJ.md",
     "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150641-E7AQPXJ.md",
     "masters/environmental governance/01-env-as-problem/notes.md",
@@ -182,6 +173,10 @@
     "masters/reading/_index.md",
     "_index.md",
     "blog/250824-less-is-more.md",
-    "masters/modules/_index.md"
+    "masters/modules/_index.md",
+    "temp.md",
+    "masters/_index.md",
+    "masters/modules/susplan.md",
+    "Urban.md"
   ]
 }

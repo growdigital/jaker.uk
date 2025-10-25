@@ -6,7 +6,7 @@ tags:
   - report
 draft: false
 date: 2025-10-05T20:43:52+01:00
-modified: 2025-10-11T14:17:31+01:00
+modified: 2025-10-24T08:00:40+01:00
 weight: "31"
 ---
 - *Title*: A briefing report to a government agency, outlining a proposed local initiative that should aim to influence personal behaviour, help to mitigate climate change and promote environmental justice.
@@ -14,27 +14,30 @@ weight: "31"
 - *Date*: **Thu 13 Nov 2025**
 - Group of 4, 1600 words (approx 400 per student).
 - 25% final module mark
+Imagine that you (as a group) have just started a policy job at a national agency like the [UK Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-  environment-food-rural-affairs)  (see  ) or the equivalent agency in Wales or  Scotland (in exceptional cases, even of another country).
 
-The aim of this assessment is to enable you to critically engage in-depth with a key environmental issue of your preference, and to explore the effectiveness of a recent governance intervention that aims to address this issue. The key questions you will need to respond to in the essay are:
+You have asked to propose an idea for an intervention, such as waste,  biodiversity, climate change adaptation etc. You are allowed to pick which of  these work areas you want to focus on, and come up with an idea about how  to make people act differently around it.  
 
-1. What are the apparent causes of the environmental issue you are examining?
-2. What is a key governance intervention that has been used to address this issue?
-3. How effective has this intervention proven in recent years, and why?
-4. How could the intervention be improved, to make it a more effective governance mechanism?
-### Further instructions
-- Try not to pick too big of an issue to examine e.g. climate change. Instead, break it down into smaller components (e.g. ocean acidification, bio-diversity loss in sub-tropical highland areas etc – this allows you to focus in on a particular challenge and be more specific about its apparent causes).
-- This essay is a chance for you to explore an issue for yourself, making use of some of the critical tools and insight we have garnered in your teaching sessions so far.
-- Do not spend too long going into the complexities of the causes of your chosen environmental issue. Spend more time instead engaging with the governance approaches to addressing the problem. And here, don’t just list lots of different interventions. Pick one, so (again) you are able to focus in on it.
-- Avoid writing an essay that is overly descriptive. Although you will undoubtedly have to outline issues and interventions (as in points 1 and 2 above), the real crux of the essay is points 3 and 4: this is where you get to engage in your own analysis and thinking about what makes an effective intervention, and how we might improve things, going forward.
-### Learning outcomes assessed
-- To understand the evolution of the theory and practice of environmental governance and local contexts;
-- To put in practice theoretical constructs and apply to a real situation;
-- To develop critical thinking about environmental problems, environmental management and governance.
-- To practice wiring and comprehension of complex texts, linking up academic conversations with things happening in the contemporary world.
-### Marking Criteria
-- Quality of the background data
-- Clarity of the argument
-- Reference to key theoretical concepts
-- Critical thinking and creativity
+This document is the group’s brief to your boss: your chance to ‘pitch’ your  idea. Your group needs to address the main points below but you do not  have to do so in the structure presented here – just try to make sure they are  covered in your report. 
 
-Please note that marks for substance and structure will be affected if you exceed the word limit.
+**Note:** the implementation of your initiative has a budget: you have a  maximum of £250,000 (excluding staff costs): and you also have only 18  months to put together, trial and evaluate the intervention.  
+### Hot Tips  
+- The group can pick the geographical and demographic target population for  your intervention (i.e. a particular population segment, such as school  children, or region / city/ catchment). Try not to make it too broad – often a  more focussed intervention can be more effective.  
+- The report should make reference to a real location; indicate it in the text.  
+- Make sure you are aware of the types of interventions that have already  been used and try not to overly replicate them e.g. giving recycling bins to all  houses in a municipal neighbourhood.  
+- Try to make your writing style appropriate for a government report. That is, keep the language simple and straightforward, and use a professional tone.  
+- No need to include a cover sheet, but the report must be submitted via  Turnitin.  
+- You will probably draw on the ‘grey’ literature a reasonable amount in this  assessment (e.g. policy documents etc), plus websites and media reports (as  well as key academic references). That is fine and expected: but make sure  you have some academic literature in there, particularly when addressing the point (2) about the rationale for your intervention. 
+- Include the word count at the end of the report (that is, indicate the total number of words, excluding headings, footnotes, figure captions, tables and bibliography). 
+### Further details and instructions 
+- Groups of 4 students (in exceptional cases, 3 students) will jointly select the topic and develop the report; groups will be formed according to the alphabetical order of names. 
+- Word count excludes headings, footnotes, figure captions, tables and bibliography).
+
+The group should make use concepts and ideas discussed in the lectures and also from the course bibliography. 
+
+The report should have the following basic structure: 
+1. Title of project 
+2. Rationale (e.g. the theory and existing evidence behind the idea: and how this differs/improves upon past interventions)? 
+3. Interventions and activities (what are you going to do and who is your target audience?) 
+4. Evaluation (i.e. how will you be able to say later whether it has effectively changed personal behaviour, heled to mitigate climate change and promoted environmental justice?) 
+5. Any other comments (e.g. potential drawbacks)
