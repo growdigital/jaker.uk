@@ -3,10 +3,10 @@ title: 4. Interrogating Governance
 tags:
   - 
 draft: false
-weight: "4"
+weight: "3"
 staff:
 date: 2025-10-24T08:43:10+01:00
-modified: 2025-10-26T16:20:22+00:00
+modified: 2025-10-26T16:20:19+00:00
 ---
 - Governance replacing conventional statehood 1970s, introduced 1980s
 - Transition. ==What is difference between statehood and governance?== - key features market-based, public participation, multilaterlism, influence personal behaviour. Rigid govt, more flexible governance.

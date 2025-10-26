@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: General reading
 date: 2025-07-22T17:55:56+01:00
 tags:
   - books
