@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/01-environmental governance/05-climate-governance/reading.md",
+                "file": "masters/01-environmental governance/01-env-as-problem/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reading"
+              "title": "_index"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "masters/01-environmental governance/04-interrogating-governance/interrogating-governance-notes.md",
+            "file": "masters/01-environmental governance/05-climate-governance/reading.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,8 +155,12 @@
   },
   "active": "e929ccbea31e0d41",
   "lastOpenFiles": [
-    "masters/01-environmental governance/04-interrogating-governance/_index.md",
+    "blog/251022-healthy-streets.md",
     "masters/01-environmental governance/05-climate-governance/reading.md",
+    "masters/02-sustainable-transport/05-accessibility",
+    "masters/02-sustainable-transport/04-cadogan-site-visit",
+    "masters/02-sustainable-transport/04-cadogon-site-visit",
+    "masters/01-environmental governance/04-interrogating-governance/_index.md",
     "masters/01-environmental governance/05-climate-governance/_index.md",
     "masters/01-environmental governance/01-env-as-problem/_index.md",
     "masters/01-environmental governance/01-env-as-problem/notes.md",
@@ -165,7 +169,6 @@
     "masters/01-environmental governance/02-conventional-env-statehood/notes-seminar.md",
     "masters/01-environmental governance/assessment/a-group-report.md",
     "masters/01-environmental governance/04-interrogating-governance",
-    "blog/251022-healthy-streets.md",
     "masters/01-environmental governance/assessment/b-individual-essay.md",
     "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150640-E7AQPXJ.md",
     "masters/environmental governance/03-flexible-env-statehood/reading.sync-conflict-20251019-150641-E7AQPXJ.md",
@@ -181,7 +184,6 @@
     "Lecture 1.md",
     "blog/251003-.md",
     "blog/251004-.md",
-    "masters/notes/Sustainable Transport Policy 1..md",
     "masters/notes"
   ]
 }

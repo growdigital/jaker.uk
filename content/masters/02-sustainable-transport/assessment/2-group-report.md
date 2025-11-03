@@ -6,11 +6,11 @@ tags:
   - individual
 draft: false
 date: 2025-10-05T20:44:17+01:00
-modified: 2025-10-05T21:58:58+01:00
+modified: 2025-11-02T11:09:28+00:00
 ---
 - *Title*: Accessibility, sustainability and liveability: WelTAG report for Cogan Station area, Cardiff.
 - *Type*: Report
-- *Date*: **Thu 13 Nov 2025**
+- *Date*: **Thu 13 Jan 2026**
 - Group of 4: 4,800 words
 - Group of 5: 6,000 words
 - 60% final module mark
@@ -24,13 +24,11 @@ The report should encompass the stages 1-3 of WelTAG: Strategic outline case; Ou
 3. Provide an overview of differential levels of access for people living in Cogan based upon accessibility calculations relating to different example social groups, residential locations and journey purposes.
 4. Based upon your evaluation of the site and existing access, identify a set of objectives and mechanisms to remedy the problems identified. The links between your objectives, mechanisms and accessibility calculations should be clear and embedded in established evidence on the impacts of different sustainable transport measures.
 5. Produce a long list of options (3-4 options is appropriate for the length of the report). For each option provide:
-    
     - description of the option
     - explanation of the mechanisms by which the option would address the problem, prevent the problem from getting worse or occurring in the first place
     - the likely social and cultural, environmental and economic impacts of each option, with sufficient detail to rule out options and to allow for the selection of a short list of options for further consideration
     - Key issues and potential ‘deal breakers’ related to the option
 6. Critically assess and prioritise your list of options (using appropriate academic and policy sources) and discuss the potential contribution of two preferred options to enhancing the accessibility, liveability and sustainability of those identified as having poor access. Appraisal of options to be taken forward should be based on:
-    
     - their ability to solve the problems identified
     - their ability to meet the objectives set
     - their short and longer term impacts

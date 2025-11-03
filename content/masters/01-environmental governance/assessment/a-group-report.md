@@ -6,7 +6,7 @@ tags:
   - report
 draft: false
 date: 2025-10-05T20:43:52+01:00
-modified: 2025-10-24T08:00:40+01:00
+modified: 2025-10-31T09:23:36+00:00
 weight: "31"
 ---
 - *Title*: A briefing report to a government agency, outlining a proposed local initiative that should aim to influence personal behaviour, help to mitigate climate change and promote environmental justice.
@@ -14,7 +14,7 @@ weight: "31"
 - *Date*: **Thu 13 Nov 2025**
 - Group of 4, 1600 words (approx 400 per student).
 - 25% final module mark
-Imagine that you (as a group) have just started a policy job at a national agency like the [UK Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-  environment-food-rural-affairs)  (see  ) or the equivalent agency in Wales or  Scotland (in exceptional cases, even of another country).
+Imagine that you (as a group) have just started a policy job at a national agency like the [UK Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)  or the equivalent agency in Wales or  Scotland (in exceptional cases, even of another country).
 
 You have asked to propose an idea for an intervention, such as waste,  biodiversity, climate change adaptation etc. You are allowed to pick which of  these work areas you want to focus on, and come up with an idea about how  to make people act differently around it.  
 
