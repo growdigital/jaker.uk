@@ -7,45 +7,44 @@ draft: false
 weight: "1"
 aliases:
   - reading-list
-modified: 2025-10-05T16:46:55+01:00
+modified: 2025-11-05T20:40:17+00:00
 ---
 1. ***Year 1***
     1. *Autumn 2025*
-		- 1. [Principles and Practices of Environmental Governance](/masters/modules/environmental-governance) CPT914
-	    - 2. [Sustainable Transport Policies](/masters/modules/sustainable-transport)`‡` CPT903
+		- 1. Principles and Practices of Environmental Governance CPT914
+	    - 2. Sustainable Transport Policies`‡` CPT903
     2. *Spring 2026*
-	    - 3. [Sustainable Food Systems](/masters/modules/sustainable-food)`‡` CPT902
+	    - 3. Sustainable Food Systems`‡` CPT902
 2. ***Year 2***
     1. *Autumn 2026*
-	    - 4. [Environmental Policy and Climate Change](/masters/modules/environmental-policy) CPT855
-		- 5. [Urban and Regional Economies](/masters/modules/urban-regional)`‡` CPT929
+	    - 4. Environmental Policy and Climate Change CPT855
+		- 5. Urban and Regional Economies`‡` CPT929
     2. *Spring 2027*
-	    - 6. [Research Methods](/masters/modules/research-methods) CPT926
-	    - 7. [Dissertation](/masters/modules/dissertation) CPT508
+	    - 6. Research Methods CPT926
+	    - 7. Dissertation CPT508
 ### General
-- Carter N. 2007. *[The Politics of the Environment](https://f001.backblazeb2.com/file/jakerMSc/Carter_The-Politics-of+-the-Environment_2007.pdf)*. 2nd ed. Cambridge: Cambridge University Press. 📕 ⬇️ 📚
-- Barry, J. 2012. *[The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World](https://f001.backblazeb2.com/file/jakerMSc/Barry-Politics-Actually-Existing-Unsustainability.pdf)*. Oxford: Oxford University Press. 📕 ⬇️
+- Carter N. 2007. *The Politics of the Environment*. 2nd ed. Cambridge: Cambridge University Press. 📕  📚
+- Barry, J. 2012. *The Politics of Actually Existing Unsustainability: Human Flourishing in a Climate-Changed, Carbon-Constrained World*. Oxford: Oxford University Press. 📕 
 ### Sustainability and policy
-- Griggs, D et al. 2013. *[Sustainable development goals for people and planet](https://f001.backblazeb2.com/file/jakerMSc/Griggs_sustainable-development-goals-for-people-and-planet_2013.pdf)*. Nature 495 (7441): pp305-307. 📄 ⬇️
-- Happaerts, S & Bruyninckx, H. 2014. *[Sustainable development : the institutionalization of a contested policy concept](https://f001.backblazeb2.com/file/jakerMSc/Happaerts_Sustainable-development_2014.pdf)*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. 📄 ⬇️
-- Steffen, W et al. 2015. *[Planetary boundaries : Guiding human development on a changing planet](https://f001.backblazeb2.com/file/jakerMSc/Steffen_Planetary-boundaries_2015.pdf)*. Science 347(6223) : pp736 📄 ⬇️
-- ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. 📄 ⬇️ https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
+- Griggs, D et al. 2013. *Sustainable development goals for people and planet*. Nature 495 (7441): pp305-307. 📄 
+- Happaerts, S & Bruyninckx, H. 2014. *Sustainable development : the institutionalization of a contested policy concept*. Advances in International Environmental Politics pp300-327. Palgrave Macmillan UK. 📄 
+- Steffen, W et al. 2015. *Planetary boundaries : Guiding human development on a changing planet*. Science 347(6223) : pp736 📄 
+- ***WAITING FOR DOC***. 2019. *Decoupling natural resource use and environmental impacts from economic growth (Summary)*. United Nations Environment Programme. 📄  https://www.unep.org/resources/report/decoupling-natural-resource-use-and-environmental-impacts-economic-growth-summary
 ### Sustainability and Planning
 - Owens, S & Cowell, R. 2001. *Land and Limits : Interpreting Sustainability in the Planning Process*. 1st ed. London: Routledge. 📕📚
-- Owens, S & Cowell, R. 2011. [*Land and Limits: Interpreting Sustainability in the Planning Process*](https://f001.backblazeb2.com/file/jakerMSc/Owens-Cowell_Land-and-Limits_2011.pdf). 2nd ed. London: Routledge. 📕 ⬇️
-- Cowell R. 2013. *[The Greenest government ever? Planning and sustainability after the May 2010 coalition government](https://doi.org/10.4324/9781315541051-3)*. Ch3 in *[Spatial Planning and the New Localism](https://f001.backblazeb2.com/file/jakerMSc/Haughton_Spatial-Planning-and-the-New-Localism_2009.pdf)*. Abingdon: Routledge 📄 ⬇️
+- Owens, S & Cowell, R. 2011. *Land and Limits: Interpreting Sustainability in the Planning Process*. 2nd ed. London: Routledge. 📕 
+- Cowell R. 2013. *The Greenest government ever? Planning and sustainability after the May 2010 coalition government*. Ch3 in *Spatial Planning and the New Localism*. Abingdon: Routledge 📄 
 ### Environmental Behaviours
-- Shove E. 2003. *[Comfort, Cleanliness and Convenience : The Social Organization of Normality](https://f001.backblazeb2.com/file/jakerMSc/Shove_Comfort-Cleanliness-and-Convenience_The-Social-Organization-of-Normality_2003.pdf)*, Berg: Oxford 📕 ⬇️
+- Shove E. 2003. *Comfort, Cleanliness and Convenience : The Social Organization of Normality*, Berg: Oxford 📕 
 ### Renewable energy and planning
-- Mackay, D. 2008. *[Sustainable Energy - Without the Hot Air](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air.pdf)*. 1st ed. Cambridge: UIT. [Synopsis](https://f001.backblazeb2.com/file/jakerMSc/Sustainable-Energy_Without-the-Hot-Air_synopsis.pdf). 📕 📄 ⬇️ 
+- Mackay, D. 2008. *Sustainable Energy - Without the Hot Air*. 1st ed. Cambridge: UIT. Synopsis. 📕 📄  
 ### My SPEP reading
-- Hickel, J. 2018. [*The Divide*](https://f001.backblazeb2.com/file/jakerMSc/Hickel_The-Divide_2018.pdf). 1st ed. New York: WW Norton. 📕 ⬇️
-- Hickel, J. 2020. [*Less Is More*](https://f001.backblazeb2.com/file/jakerMSc/Hickel_Less-Is-More_2020.pdf). 1st ed. London: Penguin. 📕 ⬇️ 📚
+- Hickel, J. 2018. *The Divide*. 1st ed. New York: WW Norton. 📕 
+- Hickel, J. 2020. *Less Is More*. 1st ed. London: Penguin. 📕  📚
 ## Notes
 - 📕 - Book
 - 📄 - Paper
-- ⬇️ - PDF download
-- 🏛️ - on [archive.org](https://archive.org/) 
+- 🏛️ - on archive.org 
 - 📚 - household library
 - 🏫 - university library
 - 🎧 - podcast
