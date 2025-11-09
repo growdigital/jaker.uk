@@ -5,7 +5,7 @@ tags:
   - BigTech
 draft: false
 date: 2025-11-09T20:22:10+00:00
-modified: 2025-11-09T20:23:04+00:00
+modified: 2025-11-09T21:36:12+00:00
 ---
 Anthony Moser on AI:
 https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html

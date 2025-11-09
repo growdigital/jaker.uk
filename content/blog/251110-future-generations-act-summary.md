@@ -11,7 +11,8 @@ draft: false
 date: 2025-11-09T21:33:12+00:00
 modified: 2025-11-09T21:34:03+00:00
 ---
-## Wellbeing of Future Generations Act
+## [Wellbeing of Future Generations Act 2015](https://futuregenerations.wales/)
+My summary of the goals, ways of working and pillars. 
 ### 7 goals for Wales
 1. Globally responsible  
 2. Prosperous  
