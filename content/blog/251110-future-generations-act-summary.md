@@ -28,10 +28,10 @@ My summary of the goals, ways of working and pillars.
 4. **Collaboration** - Working with others, both from within or outside your team or organisation, so that as many objectives as possible can be met with the resources and expertise available.  
 5. **Involvement** - Not trying to solve problems alone but understanding the benefits of involving as wide a range of people as possible in helping shape the decisions and services that will affect their lives.
 ### 4 pillars
-- Culture
-- Society
-- Environment
-- Economy
+1. Culture
+2. Society
+3. Environment
+4. Economy
 ## Resources
 * [A Guide to the Well-being of Future Generations Act ](https://www.gov.wales/sites/default/files/publications/2024-07/easy-read-a-guide-to-the-wellbeing-of-future-generations-act.pdf) PDF↗  
 * [WCVA guide to The [Five] Ways of Working of The Well-being of Future Generations (Wales) Act 2015](https://wcva.cymru/wp-content/uploads/2021/01/VWG-5-ways-of-working-factsheet.pdf) PDF↗
