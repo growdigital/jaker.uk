@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b84617344cc8db4",
+        "id": "621175651143a32a",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b96d0c1534f50b",
+            "id": "997f3cfd3132d34b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "251109-i-am-an-ai-hater.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "251109-i-am-an-ai-hater"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 359.5
   },
   "right": {
     "id": "46f1d9d30118b470",
@@ -166,8 +170,31 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "997f3cfd3132d34b",
   "lastOpenFiles": [
+    "251109-i-am-an-ai-hater.md",
+    "masters/03-sustainable-food/reading/_index.md",
+    "assets/year2/07-dissertation/reading/_index.md",
+    "assets/year2/07-dissertation/reading",
+    "assets/year2/07-dissertation/_index.md",
+    "assets/year2/07-dissertation",
+    "assets/year2/06-research-methods/reading/_index.md",
+    "assets/year2/06-research-methods/reading",
+    "assets/year2/06-research-methods/_index.md",
+    "assets/year2/06-research-methods",
+    "assets/year2/05-urban-regional/reading/_index.md",
+    "assets/year2/05-urban-regional/reading",
+    "assets/year2/05-urban-regional/_index.md",
+    "assets/year2/05-urban-regional",
+    "assets/year2/04-environmental-policy/reading/_index.md",
+    "assets/year2/04-environmental-policy/reading",
+    "assets/year2/04-environmental-policy/_index.md",
+    "assets/year2/04-environmental-policy",
+    "assets/year2",
+    "assets/Untitled Folder",
+    "masters/04-environmental-policy/reading/_index.md",
+    "about.md",
+    "masters/01-environmental governance/assessment/a-group-report.md",
     "assets/templates/template.md",
     "blog/251106-hacking-at-leaves.md",
     "blog/251105-revolutionary-gardens.md",
@@ -178,31 +205,8 @@
     "README.md",
     "blog/251104-merchants-of-doubt.md",
     "masters/01-environmental governance/assessment/b-individual-essay.md",
-    "masters/01-environmental governance/assessment/a-group-report.md",
     "masters/01-environmental governance/reading/_index.md",
     "masters/01-environmental governance/_index.md",
-    "masters/_index.md",
-    "_index.md",
-    "masters/01-environmental governance/05-climate-governance/reading.md",
-    "masters/02-sustainable-transport/assessment/1-individual-presentation.md",
-    "masters/02-sustainable-transport/assessment/2-group-report.md",
-    "masters/01-environmental governance/02-conventional-env-statehood/reading.md",
-    "masters/02-sustainable-transport/05-accessibility/_index.md",
-    "masters/02-sustainable-transport/03-sustainable-transport/_index.md",
-    "masters/02-sustainable-transport/04-cogan-site-visit",
-    "masters/02-sustainable-transport/03-sustainable-transport/notes-sustainable-transport.md",
-    "masters/01-environmental governance/01-env-as-problem/_index.md",
-    "masters/02-sustainable-transport/reading/_index.md",
-    "masters/02-sustainable-transport/_index.md",
-    "masters/01-environmental governance/05-climate-governance/_index.md",
-    "masters/01-environmental governance/05-climate-governance",
-    "masters/01-environmental governance/04-interrogating-governance/Untitled",
-    "slides",
-    "masters/01-environmental governance/03-flexible-env-statehood",
-    "masters/02-sustainable-transport/03-sustainable-transport",
-    "masters/sustainable-transport/02-problems-mapping 1",
-    "masters/02-sustainable-transport/02-problems-mapping",
-    "masters/02-sustainable-transport/01-module-weltan",
-    "masters/environmental governance/notes"
+    "masters/_index.md"
   ]
 }
