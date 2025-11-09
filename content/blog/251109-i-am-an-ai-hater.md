@@ -3,7 +3,7 @@ title: I Am An AI Hater by Anthony Moser
 tags:
   - AI
   - BigTech
-draft: true
+draft: false
 date: 2025-11-09T20:22:10+00:00
 modified: 2025-11-09T20:23:04+00:00
 ---

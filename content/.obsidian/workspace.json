@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251109-i-am-an-ai-hater.md",
+                "file": "blog/251109-i-am-an-ai-hater.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,8 @@
   },
   "active": "997f3cfd3132d34b",
   "lastOpenFiles": [
-    "251109-i-am-an-ai-hater.md",
+    "blog/251110-future-generations-act-summary.md",
+    "blog/251109-i-am-an-ai-hater.md",
     "masters/03-sustainable-food/reading/_index.md",
     "assets/year2/07-dissertation/reading/_index.md",
     "assets/year2/07-dissertation/reading",
@@ -206,7 +207,6 @@
     "blog/251104-merchants-of-doubt.md",
     "masters/01-environmental governance/assessment/b-individual-essay.md",
     "masters/01-environmental governance/reading/_index.md",
-    "masters/01-environmental governance/_index.md",
-    "masters/_index.md"
+    "masters/01-environmental governance/_index.md"
   ]
 }
