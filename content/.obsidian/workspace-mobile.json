@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/01-environmental governance/_index.md",
+                "file": "251114-informal-governance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "251114-informal-governance"
             }
           }
         ]
@@ -155,6 +155,8 @@
   },
   "active": "e929ccbea31e0d41",
   "lastOpenFiles": [
+    "masters/01-environmental governance/_index.md",
+    "251114-informal-governance.md",
     "masters/02-sustainable-transport/assessment/1-individual-presentation.md",
     "masters/02-sustainable-transport/05-accessibility/reading.md",
     "masters/01-environmental governance/01-env-as-problem/_index.md",
@@ -183,8 +185,6 @@
     "masters/environmental governance/02-conventional-env-statehood/notes-seminar.md",
     "masters/environmental governance/01-env-as-problem/_index.md",
     "blog/251008-mastofeed.md",
-    "blog/251007-man.md",
-    "Lecture 1.md",
     "masters/notes"
   ]
 }
