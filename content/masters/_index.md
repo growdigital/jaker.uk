@@ -8,7 +8,7 @@ tags:
   - Development
   - Masters
 draft: false
-modified: 2025-10-05T16:43:22+01:00
+modified: 2025-11-21T17:57:59+00:00
 ---
 Modules for [Sustainability Planning & Environmental Policy MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time) part-time
 1. ***Year 1***
@@ -19,11 +19,11 @@ Modules for [Sustainability Planning & Environmental Policy MSc](https://www.car
 	    - 3. [Sustainable Food Systems](/masters/sustainable-food)`‡` CPT902
 2. ***Year 2***
     1. *Autumn 2026*
-	    - 4. [Environmental Policy and Climate Change](/masters/environmental-policy) CPT855
-		- 5. [Urban and Regional Economies](/masters/urban-regional)`‡` CPT929
+	    - 4. Environmental Policy and Climate Change CPT855
+		- 5. Urban and Regional Economies`‡` CPT929
     2. *Spring 2027*
-	    - 6. [Research Methods](/masters/research-methods) CPT926
-	    - 7. [Dissertation](/masters/dissertation) CPT508
+	    - 6. Research Methods CPT926
+	    - 7. Dissertation CPT508
 *In date order. `‡` optional modules.*
 ## [SPEP MSc](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability,-planning-and-environmental-policy-msc-part-time)
 Sustainability Planning & Environmental Policy  
