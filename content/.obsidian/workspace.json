@@ -11,10 +11,14 @@
             "id": "01843a746a770521",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "masters/02-sustainable-transport/assessment/1-individual-presentation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1-individual-presentation"
             }
           }
         ]
@@ -166,8 +170,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "01843a746a770521",
   "lastOpenFiles": [
+    "masters/02-sustainable-transport/assessment/2-group-report.md",
+    "masters/02-sustainable-transport/assessment/1-individual-presentation.md",
     "blog/251122-cycling-bluesky-posts.md",
     "blog/251121-stephanie-kelton-question.md",
     "blog/251120-ai-benefits.md",
@@ -177,10 +183,8 @@
     "masters/01-environmental governance/02-conventional-env-statehood/_index.md",
     "blog/251113-ccc-progress-climate-adaptation.md",
     "blog/251109-i-am-an-ai-hater.md",
-    "masters/02-sustainable-transport/assessment/2-group-report.md",
     "masters/02-sustainable-transport/01-module-weltan/_index.md",
     "masters/02-sustainable-transport/01-module-weltan/notes-module.md",
-    "masters/02-sustainable-transport/assessment/1-individual-presentation.md",
     "251113-consent.md",
     "blog/251112-bacon-reality.md",
     "blog/251110-future-generations-act-summary.md",

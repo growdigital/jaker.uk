@@ -6,9 +6,10 @@ tags:
   - report
 draft: false
 date: 2025-10-05T20:43:52+01:00
-modified: 2025-11-02T11:10:09+00:00
+modified: 2025-11-26T17:58:00+00:00
+weight: "1"
 ---
-- *Title*: Preliminary Site Briefing for Cogan Station, Cardiff.
+- *Title*: Preliminary Site Briefing for Cogan Station, Vale of Glamorgan
 - *Type*: Presentation
 - *Date*: **Thu 13 Nov 2025** Fri 28 Nov 2025 2.30pm
 - Individual, 15 minutes including questions
