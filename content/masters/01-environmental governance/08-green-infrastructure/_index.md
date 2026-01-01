@@ -4,7 +4,7 @@ tags:
   - 
 draft: false
 date: 2025-11-27T21:52:20+00:00
-modified: 2025-11-28T21:52:13+00:00
+modified: 2026-01-01T13:30:19+00:00
 ---
 - Political ecology - who benefits and loses out from how systems are set up
 - Political ecology theory not very well developed

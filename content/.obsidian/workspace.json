@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/01-environmental governance/08-green-infrastructure/_index.md",
+                "file": "260101-.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "260101-"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "0f3ce069225a524d",
   "lastOpenFiles": [
+    "masters/01-environmental governance/08-green-infrastructure/_index.md",
     "blog/251229-write-more.md",
     "260101-.md",
     "blog/251122-cycling-bluesky-posts.md",
@@ -186,7 +187,6 @@
     "masters/03-sustainable-food/_index.md",
     "251202-title.md",
     "masters/03-sustainable-food/reading/_index.md",
-    "masters/01-environmental governance/08-green-infrastructure/_index.md",
     "251128- 8 Green Infrastructure.md",
     "masters/01-environmental governance/05-climate-governance/reading.md",
     "masters/01-environmental governance/05-climate-governance/_index.md",
