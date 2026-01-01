@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index2.md",
+                "file": "masters/01-environmental governance/00-assessment/b-individual-essay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index2"
+              "title": "b-individual-essay"
             }
           },
           {
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64be2407be703e61",
+  "active": "4177c79f6d80f838",
   "lastOpenFiles": [
     "masters/02-sustainable-transport/assessment/2-group-report.md",
     "_index2.md",

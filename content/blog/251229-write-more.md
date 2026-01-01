@@ -19,6 +19,9 @@ _White-face Storm Petrel just because, photo by [JJ Harrison on Wikimedia](https
 
 It is so popular it has been named the **Petrel Station**. #PetrelStation #pun
 ## Artist Rebecca Kelly
+![](https://res.cloudinary.com/naturceredigion/image/upload/w_320/v1767100296/250324-becca-kelly-gold-gabion-aberaeron.jpg)
+*Golden driftwood in a gabion tower by Rebecca Kelly*
+
 I had the good fortune to meet artist [Rebecca Kelly](https://www.instagram.com/rebeccawynkelly/?g=5) the other day. She was talking about her work, and this phrase really stuck with me:
 
 > People and the land regenerating together
@@ -35,3 +38,4 @@ It’s that time of year when Sweet Chestnuts are roasted and consumed. My frien
 In 2014, Swedish artist and illustrator [Karl Jilg](https://www.instagram.com/kallejilg/) showed how much space has been taken up by roads. His work [featured in Vox](https://www.vox.com/xpress/2014/11/18/7236471/cars-pedestrians-sidewalks-roads) as well. The work is [available under a creative commons license](https://www.researchgate.net/figure/The-illustration-by-Karl-Jilg-shows-how-much-public-space-weve-given-up-to-cars_fig4_363558420). ![Illustration of a town showing the roads as chasms, with pedestrian crossings as planks, and people so very near the precipice](https://res.cloudinary.com/growdigital/image/upload/v1766959245/2014-jilg-sidewalk.webp)
 
 #roads #transport #SustainableTransport 
+

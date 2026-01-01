@@ -17,10 +17,10 @@ weight: "32"
 
 The aim of this assessment is to enable you to critically engage in-depth with a key environmental issue of your preference, and to explore the effectiveness of a recent governance intervention that aims to address this issue. The key questions you will need to respond to in the essay are:
 
-- What are the apparent causes of the environmental issue you are examining?
-- What is a key governance intervention that has been used to address this issue?
-- How effective has this intervention proven in recent years, and why?
-- How could the intervention be improved, to make it a more effective governance mechanism?
+1. What are the apparent causes of the environmental issue you are examining?
+2. What is a key governance intervention that has been used to address this issue?
+3. How effective has this intervention proven in recent years, and why?
+4. How could the intervention be improved, to make it a more effective governance mechanism?
 ### Further instructions
 - Try not to pick too big of an issue to examine e.g. climate change. Instead, break it down into smaller components (e.g. ocean acidification, bio-diversity loss in sub-tropical highland areas etc – this allows you to focus in on a particular challenge and be more specific about its apparent causes).
 - This essay is a chance for you to explore an issue for yourself, making use of some of the critical tools and insight we have garnered in your teaching sessions so far.
