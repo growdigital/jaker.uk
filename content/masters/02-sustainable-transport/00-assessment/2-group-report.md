@@ -6,12 +6,12 @@ tags:
   - individual
 draft: false
 date: 2025-10-05T20:44:17+01:00
-modified: 2025-11-26T17:59:33+00:00
+modified: 2026-01-01T20:43:56+00:00
 weight: "2"
 ---
 - *Title*: Accessibility, sustainability and liveability: WelTAG report for Cogan Station area, Cardiff.
 - *Type*: Report
-- *Date*: **Thu 13 Jan 2026**
+- *Date*: **Thu 15 Jan 2026**
 - Group of 4: 4,800 words
 - Group of 5: 6,000 words
 - 60% final module mark

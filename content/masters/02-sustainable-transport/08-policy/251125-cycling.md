@@ -1,8 +1,8 @@
 ---
 title: Cycling & PTAL
 tags:
-  - "#cycling"
-  - "#Cogan"
+  - "cycling"
+  - "Cogan"
 draft: false
 date: 2025-11-21T15:45:18+00:00
 modified: 2025-11-21T17:54:52+00:00
