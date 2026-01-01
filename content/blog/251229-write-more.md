@@ -4,7 +4,7 @@ tags:
   - random
 draft: false
 date: 2025-12-29T08:07:39+00:00
-modified: 2025-12-29T16:16:07+00:00
+modified: 2026-01-01T12:11:14+00:00
 ---
 Some people, like [Cory Doctorow](https://pluralistic.net/) and [Richard Murphy](www.taxresearch.org.uk/), write *incessantly*. In a good way. I am not like this. I thought I would be but I‘m not, so I won‘t lose any sleep over it.
 
@@ -39,3 +39,4 @@ In 2014, Swedish artist and illustrator [Karl Jilg](https://www.instagram.com/ka
 
 #roads #transport #SustainableTransport 
 
+test linking to [[masters/02-sustainable-transport/05-accessibility/reading|reading]]
