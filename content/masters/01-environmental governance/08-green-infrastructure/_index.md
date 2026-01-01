@@ -21,7 +21,7 @@ modified: 2025-11-28T21:52:13+00:00
 - ==Is green space/infrastructure defined anywhere?==
 - https://theanarchistlibrary.org/library/henri-lefebvre-right-to-the-city#:~:text=Notes%3A%20The%20%27right%20to%20the,a%20to%2Dcreated%20space%20%E2%80%94%20a
 - Wales - The Green Infrastructure Statement ==Look at this==
-- \[democratise economics]
+- **((democratise economics))**
 - apply political ecology ideas to green infrastructure
 - "Jake Rayson,this gives a good overview of the different scales of GI (from section 6.2)[https://www.gov.wales/sites/default/files/publications/2023-10/annex-addressing-the-nature-emergenc…](https://www.gov.wales/sites/default/files/publications/2023-10/annex-addressing-the-nature-emergency-through-the-planning-system.pdf "https://www.gov.wales/sites/default/files/publications/2023-10/annex-addressing-the-nature-emergency-through-the-planning-system.pdf")"
 - Tensions around Green Infrastructure
@@ -30,6 +30,6 @@ modified: 2025-11-28T21:52:13+00:00
 ## Seminar 
 - List of priorities from people
 - "Home Not Spikes"
-- \[direct democracy threatens existing power structures]
+- **((direct democracy threatens existing power structures))**
 - the technocrat and the resident - working together
 - 

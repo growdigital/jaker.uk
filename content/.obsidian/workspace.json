@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/251229-write-more.md",
+                "file": "masters/01-environmental governance/08-green-infrastructure/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "251229-write-more"
+              "title": "_index"
             }
           }
         ]
@@ -170,10 +170,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6eac94253163f7cf",
+  "active": "0f3ce069225a524d",
   "lastOpenFiles": [
-    "251230-llanarth-artist.md",
     "blog/251229-write-more.md",
+    "260101-.md",
+    "blog/251122-cycling-bluesky-posts.md",
+    "251230-llanarth-artist.md",
     "masters/02-sustainable-transport/11-revisiting-weltag/_index.md",
     "blog/Untitled.md",
     "masters/02-sustainable-transport/00-assessment/2-group-report.md",
@@ -191,14 +193,12 @@
     "masters/01-environmental governance/reading/_index.md",
     "masters/01-environmental governance/08-green-infrastructure",
     "blog/251110-future-generations-act-summary.md",
-    "blog/251122-cycling-bluesky-posts.md",
     "blog/251121-stephanie-kelton-question.md",
     "blog/251120-ai-benefits.md",
     "251114-informal-governance.md",
     "masters/01-environmental governance/01-env-as-problem/_index.md",
     "masters/01-environmental governance/04-interrogating-governance/_index.md",
     "masters/01-environmental governance/02-conventional-env-statehood/_index.md",
-    "blog/251113-ccc-progress-climate-adaptation.md",
     "assets/year2/07-dissertation/reading",
     "assets/year2/07-dissertation",
     "assets/year2/06-research-methods/reading",
