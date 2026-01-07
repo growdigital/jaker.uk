@@ -3,7 +3,7 @@ title: 11. Prep for report
 tags:
   - 
 draft: false
-modified: 2025-12-12T15:52:21+00:00
+modified: 2026-01-02T10:10:49+00:00
 ---
 ==See slides for example of week 11 template==
 
@@ -124,7 +124,7 @@ Can we criticise policy making process as part of the problem? Yes, but need to 
 - Key docs well being, active travel act, welsh transport strategy, net zero strategy
 - illustrate awareness strategic context
 ### 5. Cogan site context
-- use secondary data give overview - desnisty, land use, traffic levels, population characteristics, topography
+- use secondary data give overview - density, land use, traffic levels, population characteristics, topography
 - ensure draw out implications for current and ==future sustainable transport trends==
 ### 6. Problem statement
 - problem table. I want a problem table

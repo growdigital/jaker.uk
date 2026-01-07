@@ -6,5 +6,7 @@
   "obsidian-text-format",
   "vault-nickname",
   "obsidian-sort-and-permute-lines",
-  "front-matter-timestamps"
+  "front-matter-timestamps",
+  "obsidian-pandoc",
+  "obsidian-zotero-desktop-connector"
 ]
