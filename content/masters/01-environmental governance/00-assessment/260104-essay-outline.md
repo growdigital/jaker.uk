@@ -5,7 +5,7 @@ tags:
   - 
 draft: true
 date: 2026-01-04T14:26:18+00:00
-modified: 2026-01-07T17:06:20+00:00
+modified: 2026-01-07T22:34:06+00:00
 ---
 Regenerating people and land together : are Results Based Payments a gateway to flourishing landscapes and prosperous communities?
 ## Outline
@@ -136,12 +136,17 @@ acculturation vs structuration
 *Agricultural intensification & capitalism?*
 
 ## Bibliography
+- Amgueddfa Cymru. 2023. _Twin exhibitions aim to reconnect people with The Lost Words of nature and culture_. Available at: [museum.wales/news/1312/Twin-exhibitions-aim-to-reconnect-people-with-The-Lost-Words-of-nature-and-culture/](https://museum.wales/news/1312/Twin-exhibitions-aim-to-reconnect-people-with-The-Lost-Words-of-nature-and-culture/) 
 - Blackstock, T.H. 2010. _Habitats of Wales : a comprehensive field survey, 1979-1997_. Cardiff: University of Wales Press.
 - Burns, F. et al. 2016. Agricultural Management and Climatic Change Are the Major Drivers of Biodiversity Change in the UK. Young, K. A. ed. _PLOS ONE_ 11(3), p. e0151595. Available at: [dx.plos.org/10.1371/journal.pone.0151595](https://dx.plos.org/10.1371/journal.pone.0151595).
 - Case, P. 2026. _Sustainable Farming Scheme launches as Welsh farmers weigh up options_. Available at: [www.fwi.co.uk/news/farm-policy/sustainable-farming-scheme-launches-as-welsh-farmers-weigh-up-options](https://www.fwi.co.uk/news/farm-policy/sustainable-farming-scheme-launches-as-welsh-farmers-weigh-up-options) [Accessed: 7 January 2026].
+- Ceredigion County Council. 2025. *New plans for the future of Lampeter campus announced*. 18 August. Available at: [www.ceredigion.gov.uk/resident/news/2025/new-plans-for-the-future-of-lampeter-campus-announced/](https://www.ceredigion.gov.uk/resident/news/2025/new-plans-for-the-future-of-lampeter-campus-announced/).
+- Conway, Z. 2025. _‘Failings at every level’ led to botched insulation scheme_. Available at: [www.bbc.com/news/articles/c5yp4qllxv1o](https://www.bbc.com/news/articles/c5yp4qllxv1o) 
 - Dasgupta, P. 2024. _The Economics of Biodiversity: The Dasgupta Review_. 1st edn. Cambridge University Press.
 - Dean, J. 2021. _Time to Get Angry: Beyond the Cosy Consensus in British Nature Conservation_. Available at: [jmdean1982.medium.com/time-to-get-angry-beyond-the-cosy-consensus-in-british-nature-conservation-a833ee0fd7ec](https://jmdean1982.medium.com/time-to-get-angry-beyond-the-cosy-consensus-in-british-nature-conservation-a833ee0fd7ec) [Accessed: 4 January 2026].
 - Denevan, W.M. and Mathewson, K. 2009. _Carl Sauer on culture and landscape: readings and commentaries_. Baton Rouge: Louisiana State university press.
+- Fletcher, R. and Büscher, B. 2020. Conservation basic income: A non-market mechanism to support convivial conservation. _Biological Conservation_ 244, p. 108520. 025].
+- Franklin, U.M. 2004. _The real world of technology_. Revised edition. Toronto: Anansi.
 - Graeber. 2024. _The Ultimate Hidden Truth of the World_. 1st edn. London: Penguin.
 - Graves, C. 2024. _Tir: the story of the Welsh landscape_. Cardiff: University of Wales Press.
 - Ioris, A. 2025. Climate Change Governance lecture #5.
@@ -152,9 +157,11 @@ acculturation vs structuration
 - O’Rourke, E. et al. 2020. _Farming for Nature : The Role of Results-Based Payments_. Wexford & Dublin: Teagasc & National Parks and Wildlife Service. Available at: [teagasc.ie/environment/biodiversity-countryside/farming-for-nature/](https://teagasc.ie/environment/biodiversity-countryside/farming-for-nature/).
 - Plantlife. 2014. _Wales Farmland Report_.
 - Poulton, J., Richardson, J., Pollitt, K. and Goodman, C. 2024. _Sowing the Seeds of Stability : The case for a basic income for farmers, farmworkers and food producers in the UK_. Basic Income 4 Farmers. Available at: [autonomy.work/portfolio/sowing-the-seeds-of-stability](https://autonomy.work/portfolio/sowing-the-seeds-of-stability).
+- Poulton, J., Richardson, J., Pollitt, K. and Goodman, C. 2024. _Sowing the Seeds of Stability : The case for a basic income for farmers, farmworkers and food producers in the UK_. Basic Income 4 Farmers. p. 60. Available at: [autonomy.work/portfolio/sowing-the-seeds-of-stability](https://doi.org/autonomy.work/portfolio/sowing-the-seeds-of-stability).
 - SAPEA. 2020. _A sustainable food systemfor the European Union_. 1st edn. DE: SAPEA. Available at: [doi.org/10.26356/sustainablefood](https://doi.org/10.26356/sustainablefood).
+- Social Farms & Gardens. 2023. _The Role of Public Procurement in Transforming Wales Food System_. p. 36.
 - State of Nature Partnership. 2023. *State of Nature Wales 2023 report*. Available at: stateofnature.org.uk/countries/wales/
 - Stoate, C. et al. 2009. Ecological impacts of early 21st century agricultural change in Europe – A review. _Journal of Environmental Management_ 91(1), pp. 22–46.
+- Welsh Govt. 2024. _Universal Primary Free School Meals (UPFSM) | GOV.WALES_. Available at: [www.gov.wales/universal-primary-free-school-meals-upfsm](https://www.gov.wales/universal-primary-free-school-meals-upfsm)
 - Welsh Govt. 2026. _Sustainable Farming Scheme_. Available at: [www.gov.wales/sustainable-farming-scheme](https://www.gov.wales/sustainable-farming-scheme)
-- Amgueddfa Cymru. 2023. _Twin exhibitions aim to reconnect people with The Lost Words of nature and culture_. Available at: [museum.wales/news/1312/Twin-exhibitions-aim-to-reconnect-people-with-The-Lost-Words-of-nature-and-culture/](https://museum.wales/news/1312/Twin-exhibitions-aim-to-reconnect-people-with-The-Lost-Words-of-nature-and-culture/) 
-- 
+- Wheeler, A. 2025. _Tonnes of Change : Welsh Veg in Schools 2023-2025_. Food Sense Wales.

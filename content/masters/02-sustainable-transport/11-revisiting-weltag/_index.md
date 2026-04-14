@@ -3,7 +3,7 @@ title: 11. Prep for report
 tags:
   - 
 draft: false
-modified: 2026-01-02T10:10:49+00:00
+modified: 2026-01-12T23:20:43+00:00
 ---
 ==See slides for example of week 11 template==
 
@@ -12,7 +12,7 @@ modified: 2026-01-02T10:10:49+00:00
 - Objectives need to make sense in terms of WelTAG criteria
 - **Strategic context** - look at ==Planning Policy Wales==
 - **WelTAG 5 criteria** - use the criteria to assess your proposals
-- **Net Zero Wales** - broad appraoch, not on detailed emissions
+- **Net Zero Wales** - broad approach, not on detailed emissions
 - **Transport Sector Emission Pathway 2019**
 ## Key problems
 - List of key problems based on secondary data & site visit

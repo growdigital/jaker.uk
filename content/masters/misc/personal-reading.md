@@ -7,7 +7,7 @@ draft: false
 weight: "4"
 aliases:
   - reading-list
-modified: 2025-11-05T20:38:44+00:00
+modified: 2026-01-17T13:22:49+00:00
 ---
 1. Anderson, MK. 2013. *Tending the Wild*. 1st ed. Oakland: University of California Press. 📚
 2. Blumenfeld, J. 2023. *The Concept of Property in Kant, Fichte and Hegel*. 1st ed. New York: Routledge. 📄 
@@ -16,7 +16,7 @@ modified: 2025-11-05T20:38:44+00:00
 5. Chang, HJ. 2009. *Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism)*. 1st ed. New York: Bloomsbury Press. 📄  📚 
 6. Dennett, DC. 1996. *Darwin's Dangerous Idea*. 1st ed. New York: Simon & Schuster. 📚
 7. Estes, N. 2019. *Our History Is The Future: Standing Rock Versus the Dakota Access Pipeline, & the Long Tradition of Indigenous Resistance*. 1st ed. London: Verso. 📚
-8. Franklin, U. 1999. *The Real World of Technology*. 2nd ed. Toronto: House of Anansi Press. Original public lectures. 📚 🎧
+8. Franklin, U. 1999. *[The Real World of Technology](https://archive.org/details/the-real-world-of-technology)*. 2nd ed. Toronto: House of Anansi Press. Original public lectures. 📚 🎧
 9. Freyfogle, ET. 2007. *On Private Property*. 1st ed. Boston: Beacon Press. 📚
 10. Graeber, D. 2004. *Fragments of an Anarchist Anthropology*. 1st ed. Chicago: Prickly Paradigm Press. 📕 
 11. Graeber, D. 2014. *Debt: The First 5,000 Years*. 3rd ed. New York: Melville House Publishing. 📕 📚 

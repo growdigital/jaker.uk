@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1c96fbfea0d8a1",
+        "id": "696af6018fadf008",
         "type": "tabs",
         "children": [
           {
-            "id": "3b819637e230bb16",
+            "id": "6015d7077775574d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "masters/01-environmental governance/00-assessment/essay.md",
+                "file": "content/masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "essay"
+              "title": "260303-presentation-brief"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 375.5
   },
   "right": {
     "id": "46f1d9d30118b470",
@@ -170,93 +170,36 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "floating": {
-    "id": "be99d4fa83b2bfa4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fa4c41228ee919f5",
-        "type": "window",
-        "children": [
-          {
-            "id": "4b84334298d6b843",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1bf6984642007bc9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "masters/01-environmental governance/00-assessment/260104-essay-outline.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "260104-essay-outline"
-                }
-              }
-            ]
-          },
-          {
-            "id": "8304eb839fc00016",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "759f93aabc2aba62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "masters/01-environmental governance/00-assessment/b-individual-essay.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "b-individual-essay"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 600,
-        "height": 1013,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3b819637e230bb16",
+  "active": "6015d7077775574d",
   "lastOpenFiles": [
-    "masters/01-environmental governance/00-assessment/260104-essay-outline.md",
+    "content/masters/03-sustainable-food/00-assessment/260304-presentation-notes.md",
+    "content/masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
+    "masters/03-sustainable-food/00-assessment/260303-presentation-brief.sync-conflict-20260407-210006-QLP3IME.md",
+    "masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
+    "masters/01-environmental governance/00-assessment/People and land regenerating together - Jake Rayson 25085155.md",
     "masters/01-environmental governance/00-assessment/b-individual-essay.md",
-    "masters/01-environmental governance/00-assessment/essay.md",
-    "masters/01-environmental governance/07-political-ecology/_index.md",
-    "masters/01-environmental governance/01-env-as-problem/_index.md",
-    "blog/251229-write-more.md",
-    "report-notes-.md",
-    "masters/01-environmental governance/00-assessment/_index.md",
-    "masters/01-environmental governance/00-assessment/a-group-report.md",
-    "masters/02-sustainable-transport/11-revisiting-weltag/_index.md",
-    "260102-cogan-report-notes.md",
-    "masters/02-sustainable-transport/_index.md",
-    "masters/02-sustainable-transport/reading/_index.md",
-    "masters/02-sustainable-transport/00-assessment/2-group-report.md",
-    "masters/02-sustainable-transport/05-accessibility/_index.md",
-    "masters/02-sustainable-transport/05-accessibility/reading.md",
+    "masters/03-sustainable-food/00-assessment/bwyd-a-bywyd-notes.md",
+    "masters/03-sustainable-food/00-assessment/bwyd-a-bywyd.md",
+    "masters/03-sustainable-food/00-assessment/260406-presentation-reference.md",
+    "masters/03-sustainable-food/00-assessment/260304-presentation-notes.md",
+    "masters/03-sustainable-food/00-assessment/_index.md",
+    "masters/03-sustainable-food/260304-lucinda-meeting.md",
+    "masters/03-sustainable-food/00-assessment/essay.md",
+    "masters/03-sustainable-food/06-food-justice/_index.md",
     "260101-relational-map.md",
-    "masters/02-sustainable-transport/00-assessment/1-individual-presentation.md",
+    "masters/03-sustainable-food/260211-food-governance-policy.md",
+    "masters/03-sustainable-food/04-food-poverty/reading.md",
+    "masters/03-sustainable-food/04-food-poverty/_index.md",
+    "masters/03-sustainable-food/04-food-poverty",
+    "masters/03-sustainable-food/reading/_index.md",
+    "masters/01-environmental governance/00-assessment/_index.md",
+    "masters/03-sustainable-food/00-assessment",
+    "masters/misc/personal-reading.md",
     "masters/01-environmental governance/08-green-infrastructure/_index.md",
-    "blog/251122-cycling-bluesky-posts.md",
-    "251230-llanarth-artist.md",
-    "blog/Untitled.md",
-    "masters/01-environmental governance/assessment/b-individual-essay.md",
-    "masters/02-sustainable-transport/10-active-travel/_index.md",
-    "masters/01-environmental governance/09-water-governance/_index.md",
-    "masters/03-sustainable-food/_index.md",
+    "masters/02-sustainable-transport/00-assessment/Report.md",
+    "masters/02-sustainable-transport/00-assessment/260102-cogan-report-notes.md",
+    "masters/02-sustainable-transport/00-assessment/2-group-report.md",
+    "masters/02-sustainable-transport/11-revisiting-weltag/_index.md",
     "masters/01-environmental governance/08-green-infrastructure",
     "assets/year2/07-dissertation/reading",
     "assets/year2/07-dissertation",
@@ -264,8 +207,6 @@
     "assets/year2/06-research-methods",
     "assets/year2/05-urban-regional/reading",
     "assets/year2/05-urban-regional",
-    "assets/year2/04-environmental-policy/reading",
-    "assets/year2/04-environmental-policy",
-    "assets/year2"
+    "assets/year2/04-environmental-policy/reading"
   ]
 }
