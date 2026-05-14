@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "9be15f2c908eb2fd",
+        "id": "696af6018fadf008",
         "type": "tabs",
         "children": [
           {
-            "id": "d23786bc97ffbbfe",
+            "id": "6015d7077775574d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/260514-rebeltech-presentation.md",
+                "file": "content/masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260514-rebeltech-presentation"
+              "title": "260303-presentation-brief"
+            }
+          },
+          {
+            "id": "8d30210a4edb3e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/masters/03-sustainable-food/00-assessment/250415 Connections to place.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250415 Connections to place"
+            }
+          },
+          {
+            "id": "86aa8f839ed1471f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/masters/03-sustainable-food/00-assessment/260311-presentation-outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260311-presentation-outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,19 +199,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d23786bc97ffbbfe",
+  "active": "86aa8f839ed1471f",
   "lastOpenFiles": [
-    "content/blog/251229-write-more.md",
-    "content/blog/260514-rebeltech-presentation.md",
-    "content/masters/03-sustainable-food/00-assessment/250415 Connections to place.md",
-    "content/masters/03-sustainable-food/00-assessment/essay.md",
-    "content/masters/03-sustainable-food/00-assessment/bwyd-a-bywyd-notes.md",
-    "content/masters/03-sustainable-food/00-assessment/bwyd-a-bywyd.md",
-    "content/masters/03-sustainable-food/00-assessment/_index.md",
-    "content/masters/03-sustainable-food/00-assessment/260311-presentation-outline.md",
     "content/masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
-    "content/masters/03-sustainable-food/00-assessment/260406-presentation-reference.md",
+    "content/masters/03-sustainable-food/00-assessment/260311-presentation-outline.md",
+    "content/masters/03-sustainable-food/00-assessment/250415 Connections to place.md",
     "content/masters/03-sustainable-food/00-assessment/260304-presentation-notes.md",
+    "content/masters/03-sustainable-food/00-assessment/_index.md",
     "content/260415-food-transformation.md",
     "masters/03-sustainable-food/00-assessment/260303-presentation-brief.sync-conflict-20260407-210006-QLP3IME.md",
     "masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
@@ -198,8 +221,14 @@
     "masters/03-sustainable-food/06-food-justice/_index.md",
     "260101-relational-map.md",
     "masters/03-sustainable-food/260211-food-governance-policy.md",
+    "masters/03-sustainable-food/04-food-poverty/reading.md",
+    "masters/03-sustainable-food/04-food-poverty/_index.md",
     "masters/03-sustainable-food/04-food-poverty",
+    "masters/03-sustainable-food/reading/_index.md",
+    "masters/01-environmental governance/00-assessment/_index.md",
     "masters/03-sustainable-food/00-assessment",
+    "masters/misc/personal-reading.md",
+    "masters/01-environmental governance/08-green-infrastructure/_index.md",
     "masters/01-environmental governance/08-green-infrastructure",
     "assets/year2/07-dissertation/reading",
     "assets/year2/07-dissertation",

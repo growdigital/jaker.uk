@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9be15f2c908eb2fd",
+        "id": "ef0196cbd3aadfeb",
         "type": "tabs",
         "children": [
           {
-            "id": "d23786bc97ffbbfe",
+            "id": "5617f211d27eecee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/260514-rebeltech-presentation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "260514-rebeltech-presentation"
+              "title": "New tab"
             }
           }
         ]
@@ -170,20 +166,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d23786bc97ffbbfe",
+  "active": "6eac94253163f7cf",
   "lastOpenFiles": [
-    "content/blog/251229-write-more.md",
-    "content/blog/260514-rebeltech-presentation.md",
-    "content/masters/03-sustainable-food/00-assessment/250415 Connections to place.md",
-    "content/masters/03-sustainable-food/00-assessment/essay.md",
+    "content/260113 sustrans report meeting.md",
+    "content/260415-food-transformation.md",
     "content/masters/03-sustainable-food/00-assessment/bwyd-a-bywyd-notes.md",
     "content/masters/03-sustainable-food/00-assessment/bwyd-a-bywyd.md",
-    "content/masters/03-sustainable-food/00-assessment/_index.md",
-    "content/masters/03-sustainable-food/00-assessment/260311-presentation-outline.md",
+    "content/masters/03-sustainable-food/00-assessment/250415 Connections to place.md",
     "content/masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
-    "content/masters/03-sustainable-food/00-assessment/260406-presentation-reference.md",
     "content/masters/03-sustainable-food/00-assessment/260304-presentation-notes.md",
-    "content/260415-food-transformation.md",
+    "content/masters/03-sustainable-food/00-assessment/260311-presentation-outline.md",
+    "content/masters/03-sustainable-food/00-assessment/260406-presentation-reference.md",
+    "content/masters/03-sustainable-food/00-assessment/_index.md",
     "masters/03-sustainable-food/00-assessment/260303-presentation-brief.sync-conflict-20260407-210006-QLP3IME.md",
     "masters/03-sustainable-food/00-assessment/260303-presentation-brief.md",
     "masters/01-environmental governance/00-assessment/People and land regenerating together - Jake Rayson 25085155.md",
@@ -198,6 +192,8 @@
     "masters/03-sustainable-food/06-food-justice/_index.md",
     "260101-relational-map.md",
     "masters/03-sustainable-food/260211-food-governance-policy.md",
+    "masters/03-sustainable-food/04-food-poverty/reading.md",
+    "masters/03-sustainable-food/04-food-poverty/_index.md",
     "masters/03-sustainable-food/04-food-poverty",
     "masters/03-sustainable-food/00-assessment",
     "masters/01-environmental governance/08-green-infrastructure",

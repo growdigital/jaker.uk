@@ -4,9 +4,17 @@ tags:
   - 
 draft: true
 date: 2026-03-11T06:53:49+00:00
-modified: 2026-04-07T21:02:35+01:00
+modified: 2026-04-15T09:22:29+01:00
 ---
-## Cardiff 2. Connecting Children With Food, Farming, and Nature  
+## Cardiff 2. Connecting Children With Food, Farming, and Nature
+
+---
+## Requirements
+- Presentation 30 minutes
+- Q&A 10 minutes
+- Handout 2 sides A4
+
+---
 
 > How do we connect children with nature-positive food and farming?
 
@@ -14,7 +22,7 @@ Food Policy Alliance Cymru recommends that ==every child in Wales should leave s
 
 In Cardiff, the most urban and densely populated area in Wales, this vision requires  creative thinking. ==Ensuring that every child has the opportunity to visit== a farm, grower, or  ***nature‑friendly*** producer — and ==access meaningful growing spaces in school== — could ***transform food education and wellbeing***. *\[My emphasis\]*
 ### Research Questions
-1. What do farmers, growers, and producers need (training, funding, infrastructure,  safeguarding processes) to confidently and sustainably host school visits?  
+1. What do farmers, growers, and producers need (training, funding, infrastructure, safeguarding processes) to confidently and sustainably host school visits?  
 2. What do schools need (curriculum links, transport solutions, staff capacity,  partnerships) to embed regular farm or grower visits into the learning journey?  
 3. What opportunities exist in and around Cardiff for ==nature‑ and climate‑friendly  farm visits==, and what funding or grant mechanisms could make universal access  achievable?  
 4. How could Cardiff design a scalable model that ensures equitable access for  children across all neighbourhoods?
