@@ -28,3 +28,9 @@ Notes from a meeting about sharing a [Rebel Tech Alliance](https://rebeltechalli
 - ~~Can host images for slides on [PixelUnion](https://pixelunion.eu/) - Open Source with free tier up to 16Gb.~~
 - ~~If you resize images to 1600 pixels wide, this is *about* 250Kb per file, which is enough room for 80,000 images. Which is enough.~~
 - PixelUnion is *just* a photo gallery, not an asset library, so can't link to files ☹️
+- Possibly use [Seafile](https://www.seafile.com/en/home/) on PikaPods to host image files?
+## Demo
+https://rebeltech-hedgedoc.pikapod.net/
+
+Registration currently open to anyone
+> You need to fill in your email and password first, and then click register
