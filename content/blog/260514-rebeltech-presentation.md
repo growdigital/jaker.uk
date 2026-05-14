@@ -32,5 +32,7 @@ Notes from a meeting about sharing a [Rebel Tech Alliance](https://rebeltechalli
 ## Demo
 https://rebeltech-hedgedoc.pikapod.net/
 
-Registration currently open to anyone
+* Registration currently open to anyone
 > You need to fill in your email and password first, and then click register
+* [Slide options](https://docs.hedgedoc.org/references/slide-options/)
+* [YAML metadata options](https://docs.hedgedoc.org/references/yaml-metadata/)
